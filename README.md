@@ -38,7 +38,7 @@
 
 # \## Kontakt
 
-# \- \*\*GitHub:\*\* \[github.com/andres-assukyll](https://github.com/sinu-username)
+# \- \*\*GitHub:\*\* https://github.com/andres-assukyll
 
 # \- \*\*Email:\*\* andres.assukyll@gmail.com
 
