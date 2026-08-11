@@ -36,7 +36,7 @@
 
 # \- \*\*Tööriistad:\*\* Git, GitHub, VS Code
 
-# \## Kontaktc
+# \## Kontakt
 
 # \- \*\*GitHub:\*\* \[github.com/andres-assukyll](https://github.com/sinu-username)
 
