@@ -28,9 +28,9 @@
 
 ## \## Kontakt
 
-## \- \*\*GitHub:\*\* https://github.com/andres-assukyll
+### \- \*\*GitHub:\*\* https://github.com/andres-assukyll
 
-## \- \*\*Email:\*\* andres.assukyll@gmail.com
+### \- \*\*E-post:\*\* andres.assukyll@gmail.com
 
 
 
