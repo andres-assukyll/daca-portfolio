@@ -2,45 +2,35 @@
 
 # \*\*Programm:\*\* Data Analyst Career Accelerator (DACA)
 
-# \*\*Osaleja:\*\* Andres Assuküll
+## \*\*Osaleja:\*\* Andres Assuküll
 
-# \*\*Algus:\*\* 06.08.2026
+## \*\*Algus:\*\* 06.08.2026
 
 # \## Kirjeldus
 
-# See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
+## See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
+
+## Eesmärk
+Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
 
 # \## Projektid
+## Nädala kaupa
+| Nädal | Teema | Staatus |
+|-------|-------|---------|
+| 0 | Onboarding | Käimas: GitHub seadistamine ✅, Supabase seadistamine ✅ |
+| 1 | SQL Basics | Tulemas |
+| 2 | SQL Cleaning | Tulemas |
+| 3 | SQL JOINs | Tulemas |
+| 4 | SQL Aggregation | Tulemas |
+| 5-6 | Visualiseerimine | Tulemas |
+| 7-8 | Python | Tulemas |
+| 9-10 | Portfoolio + Karjäär | Tulemas |
 
-# \### Week 0: Onboarding
+## \## Kontakt
 
-# \- GitHub seadistamine ✅
+## \- \*\*GitHub:\*\* https://github.com/andres-assukyll
 
-# \- Supabase seadistamine ✅
-
-# \### Week 1: SQL Põhitõed
-
-# \- (tulemas...)
-
-# \### Week 2: SQL Andmete Puhastamine
-
-# \- (tulemas...)
-
-# \## Oskused
-
-# \- \*\*SQL:\*\* PostgreSQL, Supabase
-
-# \- \*\*Python:\*\* pandas, plotly (tulemas...)
-
-# \- \*\*Visualiseerimine:\*\* Power BI / Streamlit (tulemas...)
-
-# \- \*\*Tööriistad:\*\* Git, GitHub, VS Code
-
-# \## Kontakt
-
-# \- \*\*GitHub:\*\* https://github.com/andres-assukyll
-
-# \- \*\*Email:\*\* andres.assukyll@gmail.com
+## \- \*\*Email:\*\* andres.assukyll@gmail.com
 
 
 
