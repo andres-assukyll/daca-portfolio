@@ -10,7 +10,11 @@
 | 🔴 Duplikaate                        |                3 456 |
 | - millest NULL väärtusega duplikaate |                2 972 |
 | 🟢 Müüke                             |               14 929 |
+| - suurim müük                        |         2 170.40 EUR |
+| - väikseim müük                      |            15.09 EUR |
 | 🔴 Tagastusi                         |                  305 |
+| - suurim tagastus.                   |         1 405.32 EUR |
+| - väikseim tagastus.                 |            16.37 EUR |
 | 🟢 Tulud                             |     4 462 863,88 EUR |
 | 🔴 Kulud                             |        88 632,61 EUR |
 | **⚫ Netotulu**                       | **4 374 231,27 EUR** |
