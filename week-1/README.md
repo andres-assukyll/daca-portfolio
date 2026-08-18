@@ -2,7 +2,7 @@
 
 ## Uuriti müüke ja topeltkandeid. 
 
-## 📊 Müügi kokkuvõte
+## 📊 Müügi kokkuvõte (koondtabel)
 
 | **Näitaja**                          |          **Tulemus** |
 | ------------------------------------ | -------------------: |
@@ -231,3 +231,53 @@ FROM (
 ) t
 WHERE duplikaate > 1;
    ```
+---
+
+🔍 **Seejärel leiti suurimad ja vähimad müügid:**
+
+```sql
+SELECT *
+FROM sales
+WHERE total_price = (SELECT MAX(total_price) FROM sales)
+   OR total_price = (SELECT MIN(total_price) FROM sales);
+```
+
+🔍 Kuna MIN müük kuvas negatiivse tulemuse, loeti sellised tinglikult "tagastusteks", ning kohendati kood väljastama vaid positiivseid ehk "müügi" tulemusi:
+
+```sql
+SELECT *
+FROM sales
+WHERE total_price = (SELECT MAX(total_price) FROM sales)
+   OR total_price = (SELECT MIN(total_price) FROM sales WHERE total_price >= 0);
+
+-- väljastame 1 suurima müügi
+SELECT *
+FROM sales
+ORDER BY total_price DESC
+LIMIT 1;
+
+-- väljastame 1 väikseima müügi
+SELECT *
+FROM sales
+WHERE total_price >= 0
+ORDER BY total_price ASC 
+LIMIT 1;
+```
+
+🔍 Lisaks uuriti maks. ja min. "tagastuste" väärtusi:
+
+```sql
+-- väljastame 1 suurima tagastuse
+SELECT *
+FROM sales
+ORDER BY total_price ASC
+LIMIT 1;
+
+-- väljastame 1 väiksema tagastuse
+SELECT *
+FROM sales
+WHERE total_price <= 0
+ORDER BY total_price DESC
+LIMIT 1;
+```
+
