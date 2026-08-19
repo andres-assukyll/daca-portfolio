@@ -15,15 +15,30 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 ## Projektid
  
-### Week 0: Onboarding
+#### Week 0: Onboarding
 \- GitHub seadistamine ✅
 
 \- Supabase seadistamine ✅
  
-### Week 1: SQL Põhitõed
+#### Week 1: SQL Basics
 \- (tulemas...)
  
-### Week 2: SQL Andmete Puhastamine
+#### Week 2: SQL Cleaning
+\- (tulemas...)
+
+#### Week 3: SQL JOINs
+\- (tulemas...)
+
+#### Week 4: SQL Aggregation
+\- (tulemas...)
+
+#### Week 5-6: Visualialization
+\- (tulemas...)
+
+#### Week 7-8: Python
+\- (tulemas...)
+
+#### Week 9-10: Portfolio + Career
 \- (tulemas...)
  
 ## Oskused
@@ -34,7 +49,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 \- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
 
-\- **Tööriistad:** Git, GitHub, VS Code
+\- **Tööriistad:** Git, GitHub, VS Code, Supabase
  
 ## Kontakt
  
