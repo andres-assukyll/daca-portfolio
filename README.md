@@ -17,6 +17,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 ### Week 0: Onboarding
 \- GitHub seadistamine ✅
+
 \- Supabase seadistamine ✅
  
 ### Week 1: SQL Põhitõed
@@ -27,12 +28,15 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 ## Oskused
  
-- **SQL:** PostgreSQL, Supabase
-- **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
-- **Tööriistad:** Git, GitHub, VS Code
+\- **SQL:** PostgreSQL, Supabase
+
+\- **Python:** pandas, plotly (tulemas...)
+
+\- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
+
+\- **Tööriistad:** Git, GitHub, VS Code
  
-## Kontaktc
+## Kontakt
  
 \- **GitHub:** [github.com/nelekund](https://github.com/andres-assukyll)
 
