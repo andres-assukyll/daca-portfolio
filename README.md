@@ -60,7 +60,7 @@ SQL põhitõed ja andmebaaside andmete analüüs. Lihtsamad päringud, andmete f
  
 \- **GitHub:** [github.com/andres-assukyll](https://github.com/andres-assukyll)
 
-\- **Email:** andres.assukyll@gmail.com
+\- **E-post:** andres.assukyll@gmail.com
 
 
 
