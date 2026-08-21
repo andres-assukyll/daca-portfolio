@@ -14,4 +14,8 @@ Luua SQL-i abil tabel, lisada sinna andmeid lisada ja kuvada sisu.
 - Selekteeri liikmed nime ja rolli järgi käsuga `ORDER`.
 
 ## **Tulemus**
+\- Team Members tabeli kuvamine. <br>
 ![Team Members tabel](team_members.png)
+
+\- Selekteerimine Team Members tabelis. <br>
+![Team Members selektsioon](team_member_order.png)
