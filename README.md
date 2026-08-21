@@ -8,7 +8,7 @@
 
 ## Kirjeldus
 
-See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
+See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 
 ## Eesmärk
 Õppida andmeanalüüsi – SQL, Python, visualiseerimine – ja ehitada professionaalne portfoolio.
