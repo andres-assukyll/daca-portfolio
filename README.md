@@ -16,13 +16,11 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 ## Projektid
  
 #### Week 0: Onboarding
-\- GitHub seadistamine ✅
-
+\- GitHub seadistamine ✅ <br>
 \- Supabase seadistamine ✅
  
 #### Week 1: SQL Basics
-\- SQL põhitõed
-
+\- SQL põhitõed <br>
 \- [Kliendiandmete analüüs](week-1/README.md)
  
 #### Week 2: SQL Cleaning
