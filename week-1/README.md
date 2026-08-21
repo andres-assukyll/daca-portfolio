@@ -1,9 +1,9 @@
-# Customers Data Explorer - Week 1
+# Customer Data Explorer - Week 1
 
 ---
 
 **Meeskond:** Sales Analytics <br>
-**Roll:** B – Customers Data Explorer <br>
+**Roll:** B – Customer Data Explorer <br>
 **Link grupitööle:** https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md
 
 Eesmärk analüüsida kliendibaasi ja -andmeid.
