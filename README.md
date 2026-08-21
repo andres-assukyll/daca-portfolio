@@ -25,6 +25,8 @@ SQL põhitõed ja andmebaaside andmete analüüs. Lihtsamad päringud, andmete f
 
 ✔️ **Grupiprojekt:** [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md) <br>
 ✔️ **Artefakt:** [Kliendiandmete analüüs](week-1/README.md)
+
+✔️ **Individuaalne töö:** [Müügiandmete analüüs](week-1/Iseseisev_töö.md)
  
 ### Week 2: SQL Cleaning
 \- (tulemas...)
