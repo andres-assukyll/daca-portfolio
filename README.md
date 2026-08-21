@@ -21,7 +21,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 #### Week 1: SQL Basics
 \- SQL põhitõed <br>
-\- Grupiprojekt: [Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md) <br>
+\- Grupiprojekt: [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md) <br>
 \- Minu osa: [Kliendiandmete analüüs](week-1/README.md)
  
 #### Week 2: SQL Cleaning
