@@ -11,6 +11,8 @@ Eesmärk analüüsida kliendibaasi ja -andmeid.
 ---
 
 ### 📌 Kliendiandmed koosnevad:
+Ridu: 3150, veerge: 9
+
 `kliendi number` · `eesnimi` · `perenimi` · `e-posti aadress` · `telefon` · `asukoht (linn)` · `registreerumise kuupäev` · `lojaalsusaste` · `sünniaasta`
 
 ---
