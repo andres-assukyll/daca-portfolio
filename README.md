@@ -21,7 +21,9 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 \- Supabase seadistamine ✅
  
 #### Week 1: SQL Basics
-\- (tulemas...)
+\- SQL põhitõed
+
+\- [Kliendiandmete analüüs](week-1/README.md)
  
 #### Week 2: SQL Cleaning
 \- (tulemas...)
