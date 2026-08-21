@@ -17,12 +17,11 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
  
 ### Week 0: Onboarding
    \- GitHub seadistamine ✅ <br>
-   \- Supabase seadistamine ✅ 
-   
-**Artefakt:** [Team Members Supabase’is](week-0/README.md)
+   \- Supabase seadistamine ✅ <br>
+   \- **Artefakt:** [Team Members Supabase’is](week-0/README.md)
  
 ### Week 1: SQL Basics
-\- SQL põhitõed ja andmebaasi andmete analüüs. Lihtsamaid päringud, andmete filtreerimine, sorteerimine ja rühmitamine. Koondfunktsioonid. <br>
+\- SQL põhitõed ja andmebaasi andmete analüüs. Lihtsamaid päringud, andmete filtreerimine, sorteerimine ja rühmitamine. Koondfunktsioonid. ✅ <br>
 \- Grupiprojekt: [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md) <br>
 \- Minu osa: [Kliendiandmete analüüs](week-1/README.md)
  
