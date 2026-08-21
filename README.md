@@ -21,7 +21,7 @@ Supabase seadistamine ✅ <br>
 ✔️ **Artefakt:** [Team Members Supabase’is](week-0/README.md)
  
 ### Week 1: SQL Basics
-SQL põhitõed ja andmebaasi andmete analüüs. Lihtsamaid päringud, andmete filtreerimine, sorteerimine ja rühmitamine. Koondfunktsioonid. ✅
+SQL põhitõed ja andmebaaside andmete analüüs. Lihtsamad päringud, andmete filtreerimine, sorteerimine ja rühmitamine. Koondfunktsioonid. ✅
 
 ✔️ **Grupiprojekt:** [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md) <br>
 ✔️ **Artefakt:** [Kliendiandmete analüüs](week-1/README.md)
