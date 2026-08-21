@@ -4,7 +4,7 @@
 
 **Meeskond:** Sales Analytics <br>
 **Roll:** B – Customer Data Explorer <br>
-**Link grupitööle:** https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md
+**Link:** [Grupiprojekt](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md)
 
 Eesmärk analüüsida kliendibaasi ja -andmeid.
 
