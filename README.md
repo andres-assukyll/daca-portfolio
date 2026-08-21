@@ -58,7 +58,7 @@ SQL põhitõed ja andmebaaside andmete analüüs. Lihtsamad päringud, andmete f
  
 ## Kontakt
  
-\- **GitHub:** [github.com/nelekund](https://github.com/andres-assukyll)
+\- **GitHub:** [github.com/andres-assukyll](https://github.com/andres-assukyll)
 
 \- **Email:** andres.assukyll@gmail.com
 
