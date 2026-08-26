@@ -27,6 +27,11 @@
     <text x="30" y="142">NULL nimi/hind</text>
     <text x="470" y="142" text-anchor="middle">—</text>
     <text x="610" y="142">Puuduv nimi või hind</text>
+   
+    <rect x="0" y="260" width="900" height="50" fill="#DCEAF3"/>
+    <text x="30" y="292">NULL omahind/kategooria</text>
+    <text x="470" y="292" text-anchor="middle">—</text>
+    <text x="610" y="292">Puuduv omahind või kategooria</text>
 
     <rect x="0" y="160" width="900" height="50" fill="#DCEAF3"/>
     <text x="30" y="192">Loogilised vead</text>
@@ -37,11 +42,6 @@
     <text x="30" y="242">Ebajärjekindlad kategooriad</text>
     <text x="470" y="242" text-anchor="middle">—</text>
     <text x="610" y="242">Erinevad kategooriate nimetused</text>
-
-    <rect x="0" y="260" width="900" height="50" fill="#DCEAF3"/>
-    <text x="30" y="292">NULL omahind/kategooria</text>
-    <text x="470" y="292" text-anchor="middle">—</text>
-    <text x="610" y="292">Puuduv omahind või kategooria</text>
 
     <!-- Kokku -->
     <rect x="0" y="310" width="900" height="50" fill="#DCEAF3"/>
