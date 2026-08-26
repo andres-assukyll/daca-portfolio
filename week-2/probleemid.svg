@@ -51,7 +51,7 @@
   </g>
 
   <!-- Tabeli jooned -->
-  <g fill="none" stroke="#9FB4C4" stroke-width="1">
+  <g fill="none" stroke="#ffffff" stroke-width="1">
     <rect x="0" y="0" width="900" height="360"/>
     <path d="M0 60H900"/>
     <path d="M0 110H900"/>
