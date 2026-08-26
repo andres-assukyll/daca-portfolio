@@ -39,9 +39,9 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ### 📌 Hinnainfo
 
-| Kõrgeim hind | Madalaim hind |
-| :----------: | :-----------: | 
-| 434.08 EUR   | 13.53 EUR     |
+| Kõrgeim hind | Madalaim hind | Negatiivne hind | Äärmuslik hind |
+| :----------: | :-----------: | :-------------: | :------------: |  
+| 434.08 EUR   | 13.53 EUR     | 0 tk            | 0 tk           |
 
 ---
 
