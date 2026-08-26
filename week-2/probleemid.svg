@@ -45,7 +45,7 @@
 
     <!-- Kokku -->
     <rect x="0" y="310" width="900" height="50" fill="#DCEAF3"/>
-    <text x="30" y="342" font-weight="700">KOKKU probleeme</text>
+    <text x="30" y="342" font-weight="700">KOKKU</text>
     <text x="470" y="342" text-anchor="middle" font-weight="700">—</text>
     <text x="610" y="342" font-weight="700">Kõik leitud probleemid kokku</text>
   </g>
