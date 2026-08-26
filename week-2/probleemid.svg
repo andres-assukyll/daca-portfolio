@@ -1,1 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <rect width="900" height="360" fill="#ffffff"/>
 
+  <!-- Päis -->
+  <rect x="0" y="0" width="900" height="60" fill="#AFCBDF"/>
+
+  <g font-family="Arial, Helvetica, sans-serif"
+     font-size="20"
+     font-weight="700"
+     fill="#ffffff">
+    <text x="30" y="38">Kategooria</text>
+    <text x="390" y="38">Leitud probleeme</text>
+    <text x="610" y="38">Kirjeldus</text>
+  </g>
+
+  <!-- Read -->
+  <g font-family="Arial, Helvetica, sans-serif"
+     font-size="18"
+     fill="#1f2937">
+
+    <rect x="0" y="60" width="900" height="50" fill="#DCEAF3"/>
+    <text x="30" y="92">Duplikaatide nimed</text>
+    <text x="470" y="92" text-anchor="middle">—</text>
+    <text x="610" y="92">Sama tootenimi mitu korda</text>
+
+    <rect x="0" y="110" width="900" height="50" fill="#DCEAF3"/>
+    <text x="30" y="142">NULL nimi/hind</text>
+    <text x="470" y="142" text-anchor="middle">—</text>
+    <text x="610" y="142">Puuduv nimi või hind</text>
+
+    <rect x="0" y="160" width="900" height="50" fill="#DCEAF3"/>
+    <text x="30" y="192">Loogilised vead</text>
+    <text x="470" y="192" text-anchor="middle">—</text>
+    <text x="610" y="192">Negatiivne või äärmuslik jaehind</text>
+
+    <rect x="0" y="210" width="900" height="50" fill="#DCEAF3"/>
+    <text x="30" y="242">Ebajärjekindlad kategooriad</text>
+    <text x="470" y="242" text-anchor="middle">—</text>
+    <text x="610" y="242">Erinevad kategooriate nimetused</text>
+
+    <rect x="0" y="260" width="900" height="50" fill="#DCEAF3"/>
+    <text x="30" y="292">NULL omahind/kategooria</text>
+    <text x="470" y="292" text-anchor="middle">—</text>
+    <text x="610" y="292">Puuduv omahind või kategooria</text>
+
+    <!-- Kokku -->
+    <rect x="0" y="310" width="900" height="50" fill="#ffffff"/>
+    <text x="30" y="342" font-weight="700">KOKKU probleeme</text>
+    <text x="470" y="342" text-anchor="middle" font-weight="700">—</text>
+    <text x="610" y="342" font-weight="700">Kõik leitud probleemid kokku</text>
+  </g>
+
+  <!-- Tabeli jooned -->
+  <g fill="none" stroke="#9FB4C4" stroke-width="1">
+    <rect x="0" y="0" width="900" height="360"/>
+    <path d="M0 60H900"/>
+    <path d="M0 110H900"/>
+    <path d="M0 160H900"/>
+    <path d="M0 210H900"/>
+    <path d="M0 260H900"/>
+    <path d="M0 310H900"/>
+    <path d="M360 0V360"/>
+    <path d="M580 0V360"/>
+  </g>
+</svg>
