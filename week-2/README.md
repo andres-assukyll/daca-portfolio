@@ -60,9 +60,9 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 ![Probleemide kokkuvõte](./probleemid.svg)
 
 > #### 💡 Soovitus
-> *Tooteanalüüsi mõjutavad kõige rohkem **puuduvad või ebakorrektsed kriitilised väljad**, eelkõige NULL väärtused nimes, hinnas, omahinnas ja kategoorias.*
 >
-> *Need võivad moonutada müügi-, hinna- ja kategooriaanalüüsi tulemusi ning vähendada analüüsi usaldusväärsust. Seetõttu tuleks need probleemid enne edasist analüüsi **esmajärjekorras parandada**.*
+> *Soovitus on esmalt duplikaatsed tootenimed üle kontrollida ja vajadusel kirjed ühendada või korrigeerida. Duplikaadid võivad moonutada toodete arvu ning müügi- ja laoseisu analüüsi.*
+
 
 
 ---
