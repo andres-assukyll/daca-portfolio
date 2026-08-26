@@ -43,6 +43,10 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 | :----------: | :-----------: | :-------------: | :------------: |  
 | 434.08 EUR   | 13.53 EUR     | 0 tk            | 0 tk           |
 
+| Ridu kokki | Tootenimed olemas | Kategooria olemas | Omahind olemas | Jaehind olemas | Omahind puudub | Jaehind puudub|
+| :----------: | :-----------: | :-------------: | :------------: | :-----------: | :-------------: | :------------: |   
+| 362        | 362               | 362             | 362               | 362                 | 0                  | 0                    |
+
 ---
 
 #### 📌 Ebajärjekindlad kategooriad: *ei tuvastatud, puudusid* ✅
