@@ -69,7 +69,7 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ### 🔎 Üllatus
 
-Kliendiandmetes esines korduvaid ja NULL väärtusega e-posti aadresse, samuti palju linnanimede teisendeid.
+kkk
 
 ---
 
