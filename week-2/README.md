@@ -26,7 +26,7 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 | Kerge siidine nahkkindad          | 2            |
 | Elegantne keraamiline rahakott    | 2            |
 | Vintage nahkne tossud             | 2            |
-| **KOKKU**                         | **24**       |
+| **KOKKU**                         | **12**       |
 ---
 
 ### 📌 Kliente kokku: **3150**
