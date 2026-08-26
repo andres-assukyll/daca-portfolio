@@ -10,11 +10,23 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ---
 
-### 📌 Kliendiandmed koosnevad:
-Ridu: 3150, veerge: 9
+### 📌 Duplikaadid toodetes:
 
-`kliendi number` · `eesnimi` · `perenimi` · `e-posti aadress` · `telefon` · `asukoht (linn)` · `registreerumise kuupäev` · `lojaalsusaste` · `sünniaasta`
-
+| Tooted                            | Koopiaid |
+| --------------------------------- | :----------: |
+| Moodne keraamiline sall           | 2            |
+| Luksuslik teksane polo särk       | 2            |
+| Stiilne puust müts                | 2            |
+| Moodne villane nahk sandaalid     | 2            |
+| Luksuslik keraamiline elastne vöö | 2            |
+| Minimalistlik kashmiir bleiser    | 2            |
+| Klassikaline kashmiir pusa        | 2            |
+| Stiilne orgaaniline pidžaama      | 2            |
+| Praktiline trikoo sukkpüksid      | 2            |
+| Kerge siidine nahkkindad          | 2            |
+| Elegantne keraamiline rahakott    | 2            |
+| Vintage nahkne tossud             | 2            |
+| **KOKKU**                         | **24**       |
 ---
 
 ### 📌 Kliente kokku: **3150**
