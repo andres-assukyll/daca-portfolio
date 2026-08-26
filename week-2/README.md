@@ -55,14 +55,8 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ---
 
-| Kategooria                  | Leitud probleeme | Kirjeldus                     |
-| --------------------------- | ---------------: | ----------------------------- |
-| Duplikaatide nimed          |                3 | Sama tootenimi mitu korda     |
-| NULL nimi/hind              |                5 | Puuduv nimi või hind          |
-| Loogilised vead             |                2 | Negatiivne või äärmuslik hind |
-| Ebajärjekindlad kategooriad |                4 | Erinevad kategoorianimed      |
-| NULL omahind/kategooria     |                6 | Puuduv omahind või kategooria |
-| **KOKKU probleeme**         |           **20** |                               |
+![Probleemide kokkuvõte](./probleemid.svg)
+
 
 ---
 
