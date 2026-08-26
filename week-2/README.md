@@ -10,7 +10,7 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ---
 
-### 📌 Duplikaadid toodetes:
+### 📌 Duplikaadid toodetes: tuvastati
 
 | Tooted                            | Koopiaid |
 | --------------------------------- | :----------: |
