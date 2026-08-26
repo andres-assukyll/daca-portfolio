@@ -45,6 +45,14 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ---
 
+| Kategooria    | Arv |
+| :-----------: | :-: |
+| aksessuaarid  | 67  |
+| jalanõusid    | 73  |
+| laste_riided  | 70  |
+| meeste_riided | 82  |
+| naiste_riided | 70  |
+
 ### 🔎 Üllatus
 
 Kliendiandmetes esines korduvaid ja NULL väärtusega e-posti aadresse, samuti palju linnanimede teisendeid.
