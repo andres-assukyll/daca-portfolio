@@ -10,7 +10,7 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ---
 
-### 📌 Duplikaadid toodetes: tuvastati
+#### 📌 Duplikaadid toodetes: *tuvastati* ⚠️
 
 | Tooted                            | Koopiaid |
 | --------------------------------- | :----------: |
@@ -29,7 +29,7 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 | **KOKKU**                         | **12**       |
 ---
 
-### 📌 NULL väärtusi tooteandmetes
+#### 📌 NULL väärtusi tooteandmetes: *ei tuvastatud, puudusid* ✅
 
 | Nimi |  Kategooria | Jaehind | Omahind |
 | :---:| :---------:| :------:| :------:|
@@ -37,13 +37,15 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ---
 
-### 📌 Hinnainfo
+#### 📌 Hinnainfo ebakõlad: *ei tuvastatud, puudusid* ✅
 
 | Kõrgeim hind | Madalaim hind | Negatiivne hind | Äärmuslik hind |
 | :----------: | :-----------: | :-------------: | :------------: |  
 | 434.08 EUR   | 13.53 EUR     | 0 tk            | 0 tk           |
 
 ---
+
+#### 📌 Ebajärjekindlad kategooriad: *ei tuvastatud, puudusid* ✅
 
 | Kategooria    | Arv |
 | :-----------: | :-: |
@@ -55,7 +57,7 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ---
 
-## ✅ Kokkuvõtteks
+## 📊 Kokkuvõtteks
 
 ![Probleemide kokkuvõte](./probleemid.svg)
 
