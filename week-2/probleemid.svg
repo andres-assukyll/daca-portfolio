@@ -22,7 +22,7 @@
     <rect x="0" y="60" width="900" height="50" fill="#DCEAF3"/>
     <text x="30" y="92">Duplikaatide nimed</text>
     <text x="470" y="92" text-anchor="middle">12</text>
-    <text x="610" y="92">Sama tootenimi mitu korda</text>
+    <text x="610" y="92">Probleem tuvastati ja eemaldati</text>
 
     <!-- NULL nimi/hind -->
     <rect x="0" y="110" width="900" height="50" fill="#DCEAF3"/>
@@ -34,25 +34,25 @@
     <rect x="0" y="160" width="900" height="50" fill="#DCEAF3"/>
     <text x="30" y="192">NULL omahind/kategooria</text>
     <text x="470" y="192" text-anchor="middle">0</text>
-    <text x="610" y="192">Puuduv omahind või kategooria</text>
+    <text x="610" y="192">Probleem puudus</text>
 
     <!-- Loogilised vead -->
     <rect x="0" y="210" width="900" height="50" fill="#DCEAF3"/>
     <text x="30" y="242">Loogilised vead</text>
     <text x="470" y="242" text-anchor="middle">0</text>
-    <text x="610" y="242">Negatiivne või äärmuslik jaehind</text>
+    <text x="610" y="242">Probleem puudus</text>
 
     <!-- Ebajärjekindlad kategooriad -->
     <rect x="0" y="260" width="900" height="50" fill="#DCEAF3"/>
     <text x="30" y="292">Ebajärjekindlad kategooriad</text>
     <text x="470" y="292" text-anchor="middle">0</text>
-    <text x="610" y="292">Erinevad kategooriate nimetused</text>
+    <text x="610" y="292">Probleem puudus</text>
 
     <!-- Kokku -->
     <rect x="0" y="310" width="900" height="50" fill="#DCEAF3"/>
     <text x="30" y="342" font-weight="700">KOKKU</text>
     <text x="470" y="342" text-anchor="middle" font-weight="700">12</text>
-    <text x="610" y="342" font-weight="700">Kõik leitud probleemid kokku</text>
+    <text x="610" y="342" font-weight="700">Probleeme kokku</text>
   </g>
 
   <!-- Tabeli jooned -->
