@@ -75,10 +75,10 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 
 ### 🔎 Üllatus
 
-kkk
+Tooteandmete tabelit uurides leiti, et andmestik on üsna puhas. Tabelis tuvastati vaid 12 korduvat toodet.
 
 ---
 
 ### 💡 Järeldus
 
-Andmestik on kasutatav edasiseks analüüsik, kuid vajab puhastamist.
+Andmestik on kasutatav edasiseks analüüsik, kui puhastada duplikaadid.
