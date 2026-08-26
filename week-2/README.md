@@ -53,6 +53,19 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 | meeste_riided | 82  |
 | naiste_riided | 70  |
 
+---
+
+| Kategooria                  | Leitud probleeme | Kirjeldus                     |
+| --------------------------- | ---------------: | ----------------------------- |
+| Duplikaatide nimed          |                3 | Sama tootenimi mitu korda     |
+| NULL nimi/hind              |                5 | Puuduv nimi või hind          |
+| Loogilised vead             |                2 | Negatiivne või äärmuslik hind |
+| Ebajärjekindlad kategooriad |                4 | Erinevad kategoorianimed      |
+| NULL omahind/kategooria     |                6 | Puuduv omahind või kategooria |
+| **KOKKU probleeme**         |           **20** |                               |
+
+---
+
 ### 🔎 Üllatus
 
 Kliendiandmetes esines korduvaid ja NULL väärtusega e-posti aadresse, samuti palju linnanimede teisendeid.
