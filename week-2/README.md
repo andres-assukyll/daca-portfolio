@@ -29,13 +29,11 @@ Eesmärk analüüsida ja puhastada tooteandmete tabel.
 | **KOKKU**                         | **12**       |
 ---
 
-### 📌 Kliente kokku: **3150**
+### 📌 NULL väärtusi tooteandmetes
 
-`-` vanim registreerumine: **2020-01-02** <br>
-`-` uusim registreerumine: **2025-02-27** <br>
-`-` viimase 6 kuu jooksul liitunuid: **331** <br>
-`-` klientide e-posti aadresse: **2770** <br>
-`-` unikaalseid e-posti aadresse: **2640**
+| Nimi |  Kategooria | Jaehind | Omahind |
+| :---:| :---------:| :------:| :------:|
+| 0    | 0           | 0       | 0       |
 
 ---
 
