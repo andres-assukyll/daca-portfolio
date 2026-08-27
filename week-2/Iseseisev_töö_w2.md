@@ -27,4 +27,12 @@ flowchart LR
 
 ---
 
-### OSA 1
+### 🔍 OSA 1. Duplikaadid ja nende tuvastamine
+
+---
+
+### ⚠️ OSA 2. NULL väärtused
+
+---
+
+### 🔄 OSA 3. Andmeformaadid ja tüübikonversioonid
