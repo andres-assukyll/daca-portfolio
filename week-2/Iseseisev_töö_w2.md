@@ -34,7 +34,7 @@ Uuriti korduste rahalist kogumõju ja saadi, et vahe on ca **66%**.
 
 [Duplikaadid](./w2_duplicates_query.sql)
 
-Leiti **509** korduvat e-posti aadressi.
+Leiti **509** korduvat e-posti aadressi, mis on tekkinud erineva ees- ja/või perenime teisendi tõttu.
 
 [Duplikaadid](./w2_emails_query.sql)
 
