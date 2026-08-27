@@ -26,7 +26,7 @@ SQL põhitõed ja andmebaaside andmete analüüs. Lihtsamad päringud, andmete f
 ✔️ **Grupiprojekt:** [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md) <br>
 ✔️ **Artefakt:** [Kliendiandmete analüüs](week-1/README.md)
 
-✔️ **Individuaalne töö:** [Müügiandmete analüüs](week-1/Iseseisev_töö.md)
+✔️ **Individuaalne töö:** [Müügiandmete analüüs](week-1/Iseseisev_töö_w1.md)
  
 ### Week 2: SQL Cleaning
 SQL põhitõed ja andmebaaside andmete puhastamine. Korduste ja puuduvate andmete leidmine ning eemaldamine. Andmeformaadid ja tüübikonversioonid. ✅
@@ -34,7 +34,7 @@ SQL põhitõed ja andmebaaside andmete puhastamine. Korduste ja puuduvate andmet
 ✔️ **Grupiprojekt:** [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week2/README.md) <br>
 ✔️ **Artefakt:** [Tooteandmete analüüs](week-2/README.md)
 
-✔️ **Individuaalne töö:** [Kordused, puuduvad andmed ja andmeformaadid](week-2/Iseseisev_töö.md)
+✔️ **Individuaalne töö:** [Kordused, puuduvad andmed ja andmeformaadid](week-2/Iseseisev_töö_w2.md)
 
 ### Week 3: SQL JOINs
 \- (tulemas...)
