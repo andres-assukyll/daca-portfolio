@@ -32,8 +32,11 @@ flowchart LR
 Leiti **4013** korduvat `sale_id`väärtust. Neist enim korratud, **6** korda, olid `sale_id`**2706** ja **4256**. <br>
 Uuriti korduste rahalist kogumõju ja saadi, et vahe on ca **66%**.
 
-
 [Duplikaadid](./w2_duplicates_query.sql)
+
+Leiti **509** korduvat e-posti aadressi.
+
+[Duplikaadid](./w2_emails_query.sql)
 
 ---
 
