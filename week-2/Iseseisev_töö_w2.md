@@ -1,6 +1,6 @@
 # Nädal 2: SQL Cleaning
 
-> ***Iseseisev töö, kus otsiti puuduvad ja korduvaid andmeid ning uuriti andmeformaate ja tüübikonversioone.***
+> ***Iseseisev töö, kus otsiti puuduvad ja korduvaid andmeid ning uuriti andmeformaate ja tüübikonversioone müügiandmetes.***
 
 ---
 
@@ -28,6 +28,10 @@ flowchart LR
 ---
 
 ### 🔍 OSA 1. Duplikaadid ja nende tuvastamine
+
+Leiti **4013** korduvat `sale_id`väärtust. Neist enim korratud, **6** korda, olid `sale_id`**2706** ja **4256**. <br>
+Uuriti korduste rahalist kogumõju ja saadi, et vahe on ca **66%**.
+
 
 [Duplikaadid](./w2_duplicates_query.sql)
 
