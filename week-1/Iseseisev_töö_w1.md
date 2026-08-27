@@ -1,6 +1,8 @@
 # Nädal 1: SQL Basics
 
-## Iseseisev töö, kus uuriti müüke ja topeltkandeid. 
+> ***Iseseisev töö, kus uuriti müüke ja topeltkandeid.***
+
+---
 
 ## 📊 Müügi kokkuvõte (koondtabel)
 
