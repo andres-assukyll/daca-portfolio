@@ -29,6 +29,8 @@ flowchart LR
 
 ### 🔍 OSA 1. Duplikaadid ja nende tuvastamine
 
+[Duplikaadid](./w2_duplicates_query.sql)
+
 ---
 
 ### ⚠️ OSA 2. NULL väärtused
