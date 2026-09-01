@@ -11,7 +11,7 @@ Eesmärk analüüsida klientidega seotud müügiandmeid. Leida TOP 10 klienti ko
 ---
 ### TOP 10
 
-Ostjaid kokku: 9 130 tk <br>
+Unikaalseid ostjaid kokku: 2 551 <br>
 Suurim ostusumma: 27 668.02 EUR <br>
 Väikseim ostusumma: 20 124.61 EUR <br>
 Kokku: 228 336.79 EUR
@@ -78,7 +78,8 @@ kes on parimad kliendid? Millisest linnast tuleb enim müüke? Milline loyalty_t
 ### Lisa
 
 Keskmine müügisumma: 287.53 EUR <br>
-Kliente, kes ostsid üle keskmise: 762 tk, s.o 8.35% on üle keskmise kulutajad.
+Kliente, kes ostsid üle keskmise: 762, s.o 29.87% on üle keskmise kulutajad.
 
-> *Keskmisest suuremaid kulutajaid on 8,35% UrbanStyle'i klientidest. Mis tähendab, et suhteliselt väike osa klientidest tekitab keskmisest suurema ostumahu. <br>
-> UrbanStyle võiks keskenduda nende väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, sest nende ostukäitumine võib moodustada olulise osa müügitulust. Samal ajal on suur potentsiaal mõjutada ülejäänud klientide ostukäitumist, et nad kulutaks keskmisest rohkem.*
+> *Keskmisest suuremaid kulutajaid on UrbanStyle'i klientide seas 29,87% . Seega ligi kolmandik klientidest tekitab keskmisest suurema ostumahu ning moodustab olulise osa ettevõtte potentsiaalsest müügitulust. <br>
+> UrbanStyle võiks keskenduda nende väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, kuna nende ostukäitumine võib mõjutada oluliselt ettevõtte müügitulemust. Ligi 70% klientidest on aga keskmisest väiksema ostumahuga, mistõttu on oluline potentsiaal suurendada ka nende klientide ostude sagedust või väärtust, et kasvatada ettevõtte kogumüüki.*
+
