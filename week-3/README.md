@@ -162,18 +162,16 @@ Järgnevad ⚪ **hõbe-**, 🟡 **kuld-** ja 🟠 **pronkskliendid**.
 
 # 💡 Lisaks
 
-<details>
-<summary><strong>📈 Keskmisest suuremad kulutajad</strong></summary>
+📈 Keskmisest suuremad kulutajad<br>
 
-<br>
+> *UrbanStyle.ltd klientide seas **29,87%**. Seega ligi kolmandik klientidest tekitab keskmisest suurema ostumahu ning moodustab olulise osa ettevõtte potentsiaalsest müügitulust. <br>
+UrbanStyle võiks keskenduda nende väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, liiati veel neil, kel hetkel lojaalsustase puudub. Nende ostukäitumine võib mõjutada oluliselt ettevõtte müügitulemust. <br>
+Ligi **70%** klientidest on aga keskmisest väiksema ostumahuga, mistõttu on oluline potentsiaal suurendada ka nende klientide ostude sagedust või väärtust, et kasvatada ettevõtte kogumüüki.*
 
-> *Keskmisest suuremaid kulutajaid on UrbanStyle'i klientide seas **29,87%**. Seega ligi kolmandik klientidest tekitab keskmisest suurema ostumahu ning moodustab olulise osa ettevõtte potentsiaalsest müügitulust.
->
-> UrbanStyle võiks keskenduda nende väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, liiati veel neil, kel hetkel lojaalsustase puudub. Nende ostukäitumine võib mõjutada oluliselt ettevõtte müügitulemust.
->
-> Ligi **70%** klientidest on aga keskmisest väiksema ostumahuga, mistõttu on oluline potentsiaal suurendada ka nende klientide ostude sagedust või väärtust, et kasvatada ettevõtte kogumüüki.*
+💡 Tuleks keskenduda väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, eriti lojaalsustasemeta klientide puhul.
+Samuti tasub täpsemalt uurida Pärnu klientide ostukäitumist, vahest leidub seal mingi muster, mida rakendada ka mujal.
 
-</details>
+⚠️ Olemasolevad andmed võimaldavad võrrelda klientide kogumüüki, ostude arvu, asukohta, müügikanalit ja lojaalsustaset, kuid detailsemate järelduste tegemiseks oleks vaja täiendavaid kliendi- ja ostuandmeid.
 
 ---
 
