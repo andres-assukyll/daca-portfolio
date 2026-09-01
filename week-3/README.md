@@ -11,10 +11,10 @@ Eesmärk analüüsida klientidega seotud müügiandmeid. Leida TOP 10 klienti ko
 ---
 ### TOP 10
 
-Ostjaid kokku: 9130 tk <br>
-Suurim ostusumma: 27668.02 EUR <br>
-Väikseim ostusumma: 20124.61 EUR <br>
-Kokku: 228336.79 EUR
+Ostjaid kokku: 9 130 tk <br>
+Suurim ostusumma: 27 668.02 EUR <br>
+Väikseim ostusumma: 20 124.61 EUR <br>
+Kokku: 228 336.79 EUR
 
 ---
 
@@ -22,18 +22,18 @@ Kokku: 228336.79 EUR
 
 | linn       | kliente | oste | kogumüük   |
 | ---------- | :------ | :--- | :--------- |
-| Tallinn    | 1007    | 3601 | 1006252.88 |
-| Tartu      | 525     | 1764 | 523286.64  |
-| Pärnu      | 276     | 1231 | 374005.86  |
-| Narva      | 145     | 438  | 122226.14  |
-| Viljandi   | 94      | 359  | 102314.94  |
-| Rakvere    | 90      | 338  | 93379.03   |
-| Jõhvi      | 71      | 290  | 77601.15   |
-| Kuressaare | 80      | 256  | 76509.61   |
-| Haapsalu   | 73      | 252  | 73492.83   |
-| Võru       | 66      | 216  | 60983.07   |
-| Valga      | 69      | 216  | 59530.76   |
-| Paide      | 55      | 169  | 53148.87   |
+| Tallinn    | 1007    | 3601 | 1 006 252.88 |
+| Tartu      | 525     | 1764 | 523 286.64  |
+| Pärnu      | 276     | 1231 | 374 005.86  |
+| Narva      | 145     | 438  | 122 226.14  |
+| Viljandi   | 94      | 359  | 102 314.94  |
+| Rakvere    | 90      | 338  | 93 379.03   |
+| Jõhvi      | 71      | 290  | 77 601.15   |
+| Kuressaare | 80      | 256  | 76 509.61   |
+| Haapsalu   | 73      | 252  | 73 492.83   |
+| Võru       | 66      | 216  | 60 983.07   |
+| Valga      | 69      | 216  | 59 530.76   |
+| Paide      | 55      | 169  | 53 148.87   |
 
 ---
 
@@ -41,10 +41,10 @@ Kokku: 228336.79 EUR
 
 | lojaalsusaste | kliente | kogumüük   |
 | ------------- | ------- | ---------- |
-| null          | 1024    | 1071805.32 |
-| silver        | 560     | 593470.07  |
-| gold          | 491     | 533601.64  |
-| bronze        | 476     | 423854.75  |
+| null          | 1024    | 1 071 805.32 |
+| silver        | 560     | 593 470.07  |
+| gold          | 491     | 533 601.64  |
+| bronze        | 476     | 423 854.75  |
 
 ---
 
