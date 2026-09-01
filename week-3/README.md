@@ -53,6 +53,5 @@ Kokku: 228336.79 EUR
 Keskmine müügisumma: 287.53 EUR <br>
 Kliente, kes ostsid üle keskmise: 762 tk, s.o 8.35% on üle keskmise kulutajad.
 
-
-Äriline järeldus: mitu protsenti klientidest moodustavad üle keskmise kulutajad? <br>
-Mida see UrbanStyle jaoks tähendab?
+> *Keskmisest suuremaid kulutajaid on 8,35% UrbanStyle'i klientidest. Mis tähendab, et suhteliselt väike osa klientidest tekitab keskmisest suurema ostumahu. <br>
+> UrbanStyle võiks keskenduda nende väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, sest nende ostukäitumine võib moodustada olulise osa müügitulust. Samal ajal on suur potentsiaal mõjutada ülejäänud klientide ostukäitumist, et nad kulutaks keskmisest rohkem.*
