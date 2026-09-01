@@ -11,9 +11,11 @@ Eesmärk analüüsida klientidega seotud müügiandmeid. Leida TOP 10 klienti ko
 ---
 ### TOP 10
 
-Suurim ostusumma: 27668.02 EUR
-Väikseim ostusumma: 20124.61 EUR
+Suurim ostusumma: 27668.02 EUR <br>
+Väikseim ostusumma: 20124.61 EUR <br>
 Kokku: 228336.79 EUR
+
+---
 
 ### Müük linnade kaupa
 
@@ -34,9 +36,21 @@ Kokku: 228336.79 EUR
 
 ---
 
+### Müük lojaalsusastmete kaupa
+
+| lojaalsusaste | kliente | kogumüük   |
+| ------------- | ------- | ---------- |
+| null          | 1024    | 1071805.32 |
+| silver        | 560     | 593470.07  |
+| gold          | 491     | 533601.64  |
+| bronze        | 476     | 423854.75  |
+
+---
+
 ### Lisa
 
-Keskmine müügisumma: 287.53 EUR
+Keskmine müügisumma: 287.53 EUR <br>
 Kliente, kes ostsid üle keskmise: 762 tk
 
-Äriline järeldus: mitu protsenti klientidest moodustavad üle keskmise kulutajad? Mida see UrbanStyle jaoks tähendab?
+Äriline järeldus: mitu protsenti klientidest moodustavad üle keskmise kulutajad? <br>
+Mida see UrbanStyle jaoks tähendab?
