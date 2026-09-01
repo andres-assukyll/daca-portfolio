@@ -34,6 +34,7 @@ Kokku: 228 336.79 EUR
 
 ### Müük linnade kaupa
 
+**Kliendi asukohast sõltuvalt**
 | linn       | kliente | oste | kogumüük   |
 | ---------- | :------ | :--- | :--------- |
 | Tallinn    | 1007    | 3601 | 1 006 252.88 EUR |
@@ -48,6 +49,14 @@ Kokku: 228 336.79 EUR
 | Võru       | 66      | 216  | 60 983.07 EUR   |
 | Valga      | 69      | 216  | 59 530.76 EUR   |
 | Paide      | 55      | 169  | 53 148.87 EUR   |
+
+**Poe asukohast sõltuvalt**
+| müügikanal | kliente | oste | kogumüük   |
+| -------- | ------- | ---- | ---------- |
+| Tallinna pood  | 1789    | 3801 | 1 092 083.15 EUR |
+| veebimüük  | 1706    | 3462 | 1 006 747.68 EUR |
+| Tartu pood   | 1119    | 1797 | 521 603.11 EUR  |
+| Pärnu pood   | 746     | 1058 | 288 744.04 EUR  |
 
 ---
 
