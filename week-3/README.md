@@ -16,24 +16,38 @@ Suurim ostusumma: 27 668.02 EUR <br>
 Väikseim ostusumma: 20 124.61 EUR <br>
 Kokku: 228 336.79 EUR
 
+| klient       | linn     | lojaalsustase | ostude arv | kogumüük |
+| ------------ | -------- | ------------- | ---------- | -------- |
+| Tiina Pärn   | Tartu    | gold          | 73         | 27 668.02 EUR |
+| Priit Rand   | Pärnu    | silver        | 76         | 26 286.10 EUR |
+| Kevin Org    | Tallinn  | gold          | 78         | 23 467.13 EUR |
+| Laura Tammik | Pärnu    | silver        | 74         | 23 385.82 EUR |
+| Erkki Ilves  | Tartu    | silver        | 72         | 22 942.42 EUR |
+| Anu Kuusik   | Tallinn  | puudub          | 77         | 21 626.10 EUR |
+| Kersti Lill  | Tallinn  | puudub         | 71         | 21 137.47 EUR |
+| Riina Lill   | Pärnu    | puudub         | 67         | 20 972.33 EUR |
+| Annika Saar  | Viljandi | gold          | 66         | 20 726.79 EUR |
+| Ago Kull     | Pärnu    | bronze        | 64         | 20 124.61 EUR |
+| **KOKKU**     |     |         | 718         | 228 336.79 EUR |
+
 ---
 
 ### Müük linnade kaupa
 
 | linn       | kliente | oste | kogumüük   |
 | ---------- | :------ | :--- | :--------- |
-| Tallinn    | 1007    | 3601 | 1 006 252.88 |
-| Tartu      | 525     | 1764 | 523 286.64  |
-| Pärnu      | 276     | 1231 | 374 005.86  |
-| Narva      | 145     | 438  | 122 226.14  |
-| Viljandi   | 94      | 359  | 102 314.94  |
-| Rakvere    | 90      | 338  | 93 379.03   |
-| Jõhvi      | 71      | 290  | 77 601.15   |
-| Kuressaare | 80      | 256  | 76 509.61   |
-| Haapsalu   | 73      | 252  | 73 492.83   |
-| Võru       | 66      | 216  | 60 983.07   |
-| Valga      | 69      | 216  | 59 530.76   |
-| Paide      | 55      | 169  | 53 148.87   |
+| Tallinn    | 1007    | 3601 | 1 006 252.88 EUR |
+| Tartu      | 525     | 1764 | 523 286.64 EUR  |
+| Pärnu      | 276     | 1231 | 374 005.86 EUR  |
+| Narva      | 145     | 438  | 122 226.14 EUR  |
+| Viljandi   | 94      | 359  | 102 314.94 EUR  |
+| Rakvere    | 90      | 338  | 93 379.03 EUR   |
+| Jõhvi      | 71      | 290  | 77 601.15 EUR   |
+| Kuressaare | 80      | 256  | 76 509.61 EUR   |
+| Haapsalu   | 73      | 252  | 73 492.83 EUR   |
+| Võru       | 66      | 216  | 60 983.07 EUR   |
+| Valga      | 69      | 216  | 59 530.76 EUR   |
+| Paide      | 55      | 169  | 53 148.87 EUR   |
 
 ---
 
@@ -41,10 +55,10 @@ Kokku: 228 336.79 EUR
 
 | lojaalsusaste | kliente | kogumüük   |
 | ------------- | ------- | ---------- |
-| null          | 1024    | 1 071 805.32 |
-| silver        | 560     | 593 470.07  |
-| gold          | 491     | 533 601.64  |
-| bronze        | 476     | 423 854.75  |
+| null          | 1024    | 1 071 805.32 EUR |
+| silver        | 560     | 593 470.07 EUR  |
+| gold          | 491     | 533 601.64 EUR  |
+| bronze        | 476     | 423 854.75 EUR  |
 
 ---
 
