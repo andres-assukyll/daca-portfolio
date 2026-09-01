@@ -71,7 +71,21 @@ Kokku: 228 336.79 EUR
 
 ---
 
-kes on parimad kliendid? Millisest linnast tuleb enim müüke? Milline loyalty_tier on kõige kasumlikum?
+### Kokkuvõte
+
+UrbanStyle.ltd parimad kliendid tulevad peamiselt `kuld-` ja `hõbeklientide` seast. Üllastuslikult kuulus TOP 10 ostleja hulka ga **kolm** `lojaalsustasemeta` klienti. <br>
+Suurim ostumaht tuleb  **Tallinna** klientide poolt, samas on **Tartu** klientide ostumaht vaid u. **6,2%** madalam.
+
+Üllatus tuli aga hoopis **Pärnu** kliendid:
+- kõrgeim müük kliendi kohta: 1 355 €
+- kõrgeim müük ostu kohta: 303,82 €
+- samuti kõrgeim ostude arv kliendi kohta: 4,46
+
+> *Seega pole **pärnakad** mitte lihtsalt palju ostnud, vaid iga ost on olnud ka keskmiselt suurema väärtusega.*
+
+Kasumlikuim müügikoht on UrbanStyle.ltd **Tallinna pood**. Sams palju ei jää maha ka **veebimüük**: vaid **4,2%** madalam kui füüsilises poes.
+
+Lojaalsusastmest on kasumlikuimaiks osutunud UrbanStyle.ltd **hõbekliendid**.
 
 ---
 
