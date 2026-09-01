@@ -11,6 +11,7 @@ Eesmärk analüüsida klientidega seotud müügiandmeid. Leida TOP 10 klienti ko
 ---
 ### TOP 10
 
+Ostjaid kokku: 9130 tk <br>
 Suurim ostusumma: 27668.02 EUR <br>
 Väikseim ostusumma: 20124.61 EUR <br>
 Kokku: 228336.79 EUR
@@ -50,7 +51,8 @@ Kokku: 228336.79 EUR
 ### Lisa
 
 Keskmine müügisumma: 287.53 EUR <br>
-Kliente, kes ostsid üle keskmise: 762 tk
+Kliente, kes ostsid üle keskmise: 762 tk, s.o 8.35% on üle keskmise kulutajad.
+
 
 Äriline järeldus: mitu protsenti klientidest moodustavad üle keskmise kulutajad? <br>
 Mida see UrbanStyle jaoks tähendab?
