@@ -64,7 +64,7 @@ Kokku: 228 336.79 EUR
 
 | lojaalsusaste | kliente | kogumüük   |
 | ------------- | ------- | ---------- |
-| null          | 1024    | 1 071 805.32 EUR |
+| puudub          | 1024    | 1 071 805.32 EUR |
 | silver        | 560     | 593 470.07 EUR  |
 | gold          | 491     | 533 601.64 EUR  |
 | bronze        | 476     | 423 854.75 EUR  |
