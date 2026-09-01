@@ -48,6 +48,10 @@ Kokku: 228 336.79 EUR
 
 ---
 
+kes on parimad kliendid? Millisest linnast tuleb enim müüke? Milline loyalty_tier on kõige kasumlikum?
+
+---
+
 ### Lisa
 
 Keskmine müügisumma: 287.53 EUR <br>
