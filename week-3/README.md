@@ -81,7 +81,7 @@ Suurim ostumaht tuleb  **Tallinna** klientide poolt, samas on **Tartu** klientid
 - kõrgeim müük ostu kohta: 303,82 €
 - samuti kõrgeim ostude arv kliendi kohta: 4,46
 
-> *Seega pole **pärnakad** mitte lihtsalt palju ostnud, vaid iga ost on olnud ka keskmiselt suurema väärtusega.*
+> ***Pärnakad** pole mitte lihtsalt head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.*
 
 Kasumlikuim müügikoht on UrbanStyle.ltd **Tallinna pood**. Sams palju ei jää maha ka **veebimüük**: vaid **4,2%** madalam kui füüsilises poes.
 
