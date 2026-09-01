@@ -11,10 +11,10 @@ Eesmärk analüüsida klientidega seotud müügiandmeid. Leida TOP 10 klienti ko
 ---
 ### TOP 10
 
-Unikaalseid ostjaid kokku: 2 551 <br>
-Suurim ostusumma: 27 668.02 EUR <br>
-Väikseim ostusumma: 20 124.61 EUR <br>
-Kokku: 228 336.79 EUR
+Unikaalseid ostjaid kokku: **2 551** <br>
+Suurim ostusumma: **27 668.02 EUR** <br>
+Väikseim ostusumma: **20 124.61 EUR** <br>
+Kokku: **228 336.79 EUR**
 
 | klient       | linn     | lojaalsustase | ostude arv | kogumüük |
 | ------------ | -------- | ------------- | ---------- | -------- |
@@ -73,27 +73,29 @@ Kokku: 228 336.79 EUR
 
 ### Kokkuvõte
 
-UrbanStyle.ltd parimad kliendid tulevad peamiselt `kuld-` ja `hõbeklientide` seast. Üllastuslikult kuulus TOP 10 ostleja hulka ga **kolm** `lojaalsustasemeta` klienti. <br>
+**Uurides TOP kliente INNER JOIN klausliga, leiti:**
+
+UrbanStyle.ltd parimad kliendid moodustavad oodatult peamiselt `kuld-` ja `hõbekliendid`. Kuid üllastuslikult kuulus TOP 10 ostleja hulka ka **kolm** `lojaalsustasemeta` klienti. <br>
+**29.87%** klientidest on üle keskmise kulutajad.
+
 Suurim ostumaht tuleb  **Tallinna** klientide poolt, samas on **Tartu** klientide ostumaht vaid u. **6,2%** madalam.
 
 Üllatus tuli aga hoopis **Pärnu** kliendid:
-- kõrgeim müük kliendi kohta: 1 355 €
-- kõrgeim müük ostu kohta: 303,82 €
-- samuti kõrgeim ostude arv kliendi kohta: 4,46
+- kõrgeim müük kliendi kohta: **1 355 EUR**
+- kõrgeim müük ostu kohta: **303.82 EUR**
+- samuti kõrgeim ostude arv kliendi kohta: **4,46**
 
 > ***Pärnakad** pole mitte lihtsalt head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.*
 
 Kasumlikuim müügikoht on UrbanStyle.ltd **Tallinna pood**. Sams palju ei jää maha ka **veebimüük**: vaid **4,2%** madalam kui füüsilises poes.
 
-Lojaalsusastmest on kasumlikuimaiks osutunud UrbanStyle.ltd **hõbekliendid**.
+Kliendisegmentidest osutusid kasumlikeimaiks UrbanStyle.ltd **hõbekliendid**.
 
 ---
 
-### Lisa
+#### Lisaks
 
-Keskmine müügisumma: 287.53 EUR <br>
-Kliente, kes ostsid üle keskmise: 762, s.o 29.87% on üle keskmise kulutajad.
-
-> *Keskmisest suuremaid kulutajaid on UrbanStyle'i klientide seas 29,87% . Seega ligi kolmandik klientidest tekitab keskmisest suurema ostumahu ning moodustab olulise osa ettevõtte potentsiaalsest müügitulust. <br>
-> UrbanStyle võiks keskenduda nende väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, kuna nende ostukäitumine võib mõjutada oluliselt ettevõtte müügitulemust. Ligi 70% klientidest on aga keskmisest väiksema ostumahuga, mistõttu on oluline potentsiaal suurendada ka nende klientide ostude sagedust või väärtust, et kasvatada ettevõtte kogumüüki.*
+> *Keskmisest suuremaid kulutajaid on UrbanStyle'i klientide seas **29,87%**. Seega ligi kolmandik klientidest tekitab keskmisest suurema ostumahu ning moodustab olulise osa ettevõtte potentsiaalsest müügitulust. <br>
+> UrbanStyle võiks keskenduda nende väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, liiati veel neil, kel hetkel lojaalsustase puudub. Nende ostukäitumine võib mõjutada oluliselt ettevõtte müügitulemust. <br>
+> Ligi **70%** klientidest on aga keskmisest väiksema ostumahuga, mistõttu on oluline potentsiaal suurendada ka nende klientide ostude sagedust või väärtust, et kasvatada ettevõtte kogumüüki.*
 
