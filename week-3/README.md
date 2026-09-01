@@ -155,7 +155,8 @@ Kasumlikuim müügikoht on UrbanStyle.ltd **Tallinna pood**. Sams palju ei jää
 
 ## 💎 Kliendisegmendid
 
-Kliendisegmentidest osutusid kasumlikeimaiks UrbanStyle.ltd **hõbekliendid**.
+Suurima kogumüügiga kliendisegmendil **lojaalsustase puudub**. <br>
+Järgnevad ⚪ **hõbe-**, 🟡 **kuld-** ja 🟠 **pronkskliendid**.
 
 ---
 
