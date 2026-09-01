@@ -75,12 +75,13 @@ Kokku: **228 336.79 EUR**
 
 **Uurides TOP kliente INNER JOIN klausliga, leiti:**
 
-UrbanStyle.ltd parimad kliendid moodustavad oodatult peamiselt `kuld-` ja `hõbekliendid`. Kuid üllastuslikult kuulus TOP 10 ostleja hulka ka **kolm** `lojaalsustasemeta` klienti. <br>
+Parimad UrbanStyle.ltd kliendid on oodatult peamiselt `kuld-` ja `hõbekliendid` ning eelkõige **Pärnust**. <br>
+Üllastuslikult kuulus TOP 10 ostleja hulka ka **kolm** `lojaalsustasemeta` klienti. <br>
 **29.87%** klientidest on üle keskmise kulutajad.
 
 Suurim ostumaht tuleb  **Tallinna** klientide poolt, samas on **Tartu** klientide ostumaht vaid u. **6,2%** madalam.
 
-Üllatus tuli aga hoopis **Pärnu** kliendid:
+Suurim üllatus tuli **Pärnu** klientidelt:
 - kõrgeim müük kliendi kohta: **1 355 EUR**
 - kõrgeim müük ostu kohta: **303.82 EUR**
 - samuti kõrgeim ostude arv kliendi kohta: **4,46**
