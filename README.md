@@ -40,7 +40,7 @@ SQL põhitõed ja andmebaaside andmete puhastamine. Korduste ja puuduvate andmet
 SQL põhitõed, kahe ja enam andmebaasi andmete ühendamine ning analüüs. ✅
 
 ✔️ **Grupiprojekt:** [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week3/README.md) <br>
-✔️ **Artefakt:** [Tooteandmete analüüs](week-3/README.md)
+✔️ **Artefakt:** [Müügi- ja kliendiandmete analüüs](week-3/README.md)
 
 ### Week 4: SQL Aggregation
 \- (tulemas...)
