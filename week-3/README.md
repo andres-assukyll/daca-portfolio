@@ -120,7 +120,7 @@ Kokku
 
 ## 🏙️ Tallinn vs Tartu
 
-Suurim ostumaht tuleb **Tallinna** klientide poolt, samas on **Tartu** klientide ostumaht vaid u. **6,2%** madalam.
+Suurim ostumaht tuleb **Tallinna** klientide poolt, samas on **Tartu** klientide oma vaid u. **6,2%** madalam.
 
 ---
 
@@ -155,7 +155,7 @@ osakaal üle keskmise kulutajate seast
 
 ## 🏪 Müügikohad
 
-Kasumlikuim müügikoht on UrbanStyle.ltd **Tallinna pood**. Sams palju ei jää maha ka **veebimüük**: vaid **4,2%** madalam kui füüsilises poes.
+Suurim müügimaht on UrbanStyle.ltd **Tallinna pood**. Samas palju ei jää maha ka **veebimüük**: vaid **4,2%** madalam kui füüsilises poes.
 
 ---
 
