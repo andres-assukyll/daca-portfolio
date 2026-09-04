@@ -59,7 +59,7 @@ Kokku
 |  🔟 | **Ago Kull**     | Pärnu    | `bronze`         |            64 |  **20 124.61 EUR** |
 |     | **KOKKU**        |          |                  |       **718** | **228 336.79 EUR** |
 
-> *Lisaks ligi kolmandik klientidest tekitab keskmisest suurema ostumahu ning moodustab olulise osa ettevõtte potentsiaalsest müügitulust*.
+> *Lisaks ligi **kolmandiku klientide** ostumaht on keskmisest suurem moodustades olulise osa ettevõtte potentsiaalsest müügitulust*.
 
 ---
 
