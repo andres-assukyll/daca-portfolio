@@ -143,7 +143,7 @@ kõrgeim ostude arv kliendi kohta
 </tr>
 </table>
 
-> 💡 ***Pärnakad** pole mitte lihtsalt head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.*
+> 💡 ***"Pärnakad"** pole mitte lihtsalt head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.*
 
 ---
 
