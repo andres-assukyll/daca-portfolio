@@ -114,7 +114,7 @@ Kokku
 
 > ⚠️ Samas kuulus TOP 10 ostleja hulka ka **kolm** `lojaalsustasemeta` klienti.
 
-> 📊 **29.87%** klientidest on üle keskmise kulutajad.
+> 📊 **29.87%** klientidest on üle keskmise kulutajad. Nendest **42.06%** on Pärnust.
 
 ---
 
@@ -139,8 +139,12 @@ kõrgeim müük kliendi kohta
 kõrgeim müük ostu kohta
 </td>
 <td align="center">
-<h3>📈 4,46</h3>
+<h3>📈 4.46</h3>
 kõrgeim ostude arv kliendi kohta
+</td>
+<td align="center">
+<h3>📈 42.06%</h3>
+osakaal üle keskmise kulutajate seast 
 </td>
 </tr>
 </table>
