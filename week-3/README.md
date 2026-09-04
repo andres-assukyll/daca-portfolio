@@ -46,7 +46,7 @@ Kokku
 ### 🥇 Parimad kliendid kogumüügi järgi
 
 |  🏅 | 👤 klient        | 🏙️ linn | 💎 lojaalsustase | 🛒 ostude arv |        💰 kogumüük |
-| :-: | ---------------- | -------- | ---------------- | ------------: | -----------------: |
+| :-: | ---------------- | :------: | :--------------: | :-----------: | -----------------: |
 |  🥇 | **Tiina Pärn**   | Tartu    | `gold`           |            73 |  **27 668.02 EUR** |
 |  🥈 | **Priit Rand**   | Pärnu    | `silver`         |            76 |  **26 286.10 EUR** |
 |  🥉 | **Kevin Org**    | Tallinn  | `gold`           |            78 |  **23 467.13 EUR** |
