@@ -1,7 +1,20 @@
+täna 15:59
+Vaata seda slaidipilti. Analüüsi värvikoode. Seejärel küsin küsimused?
+
+Kõik pealkirjad ja tulbanimed algavad nüüd samalt x="70" positsioonilt.
+
+Kõik pealkirjad ja tulbanimed algavad nüüd samalt x="70" positsioonilt. Vii kogu see positsioon rohkem paremale poole, nt x="100". Tulemus peab tulema selline, et visuaalselt on kogu see positsioon joondatud vasakule, nagu hetkel. Aga "Klientide keskmine käive" viimane e-täht oleks 0-kriipsust samal kaugusel, kui selle summa esimene number lõpp-kriipsust.
+
+Kasutasin ühist alguspunkti x="98". Arial 13 px juures lõpeb „Klientide keskmine käive” ligikaudu positsioonil x="240", jättes nulljooneni 10 px. Summad algavad samuti 10 px pärast lõpukriipsu.
+
+nüüd oleks veel vaja pildi vasak serv lühemaks teha. vaata palju on laius summa 2909177.98€ euro märgist kuni parema serva lõpuni. Sama suur vahe peaks jääma vasaku serva alguse ja esitähtede K vahele.
+
+Summa laius on ligikaudu 73 px, seega lõpeb euro märk positsioonil x="733". Paremas servas jääb 27 px. Uus vasak serv algab positsioonilt x="71", mistõttu jääb servast esitäheni K samuti 27 px.
+
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="760"
+     width="689"
      height="450"
-     viewBox="0 0 760 450"
+     viewBox="71 0 689 450"
      role="img"
      aria-labelledby="title desc">
 
@@ -17,7 +30,9 @@
   </desc>
 
   <!-- Taust -->
-  <rect width="760"
+  <rect x="71"
+        y="0"
+        width="689"
         height="450"
         fill="#F7F1E6"/>
 
@@ -229,7 +244,7 @@
   </g>
 
   <!-- Skaalade selgitus -->
-  <text x="724"
+  <text x="733"
         y="426"
         text-anchor="end"
         font-family="Arial, Helvetica, sans-serif"
