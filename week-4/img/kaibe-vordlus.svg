@@ -11,9 +11,9 @@
 
   <desc id="desc">
     Nelja horisontaalse tulbaga võrdlus. Kogukäive on
-    2 909 177,98 eurot, klientide kogukäive 2 622 731,78 eurot,
-    klientide keskmine käive 1 028,12 eurot ja keskmine käive
-    1 139,96 eurot. Kogusummad ja keskmised kasutavad eraldi skaalasid.
+    2 909 177.98 eurot, klientide kogukäive 2 622 731.78 eurot,
+    klientide keskmine käive 1 028.12 eurot ja keskmine käive
+    1 139.96 eurot. Kogusummad ja keskmised kasutavad eraldi skaalasid.
   </desc>
 
   <!-- Taust -->
@@ -88,13 +88,13 @@
     <text x="660"
           y="132"
           text-anchor="start">
-      2 909 177,98 €
+      2 909 177.98 €
     </text>
 
     <text x="660"
           y="180"
           text-anchor="start">
-      2 622 731,78 €
+      2 622 731.78 €
     </text>
 
   </g>
@@ -187,13 +187,13 @@
     <text x="724"
           y="312"
           text-anchor="end">
-      1 028,12 €
+      1 028.12 €
     </text>
 
     <text x="724"
           y="360"
           text-anchor="end">
-      1 139,96 €
+      1 139.96 €
     </text>
 
   </g>
