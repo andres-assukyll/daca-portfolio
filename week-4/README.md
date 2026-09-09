@@ -63,6 +63,14 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 | Terje Kukk   | puudub        |
 | Tiina Laas   | puudub        |
 
+### Klientide keskmine ostukorv ja -sagedus
+
+| segment | klientide_arv | tellimuste_arv | keskmine_ostukorv | keskmine_ostusagedus |
+| ------- | ------------- | -------------- | ----------------- | -------------------- |
+| VIP     | 19            | 1138           | 304.32 EUR        | 59.89                |
+| Regular | 917           | 4138           | 357.99 EUR        | 4.51                 |
+| Uus     | 1615          | 3854           | 206.30 EUR        | 2.39                 |
+
 ---
 
 ## AI kasutamine
