@@ -1,0 +1,548 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="542"
+     height="1079"
+     viewBox="0 0 542 1079"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">
+    VIP kliendid müügikohtade kaupa
+  </title>
+
+  <desc id="desc">
+    Kümne VIP kliendi müük nelja müügikoha kaupa.
+  </desc>
+
+  <style>
+    .header {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 12px;
+      font-weight: 700;
+      fill: #F7F1E6;
+      text-anchor: middle;
+    }
+
+    .body {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 11px;
+      fill: #2F302B;
+    }
+
+    .client-name {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 11px;
+      font-weight: 700;
+      fill: #2F302B;
+      text-anchor: start;
+    }
+
+    .client-city {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 11px;
+      fill: #2F302B;
+      text-anchor: start;
+    }
+
+    .client-total {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 11px;
+      font-weight: 700;
+      fill: #2F302B;
+      text-anchor: middle;
+    }
+
+    .number {
+      text-anchor: end;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .orders {
+      text-anchor: middle;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .group-line {
+      stroke: #D6D0C5;
+      stroke-width: 1;
+    }
+  </style>
+
+  <!-- Ploki taust -->
+  <rect width="542"
+        height="1079"
+        fill="#F7F1E6"/>
+
+  <!-- Pealkiri -->
+  <text x="18"
+        y="36"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="22"
+        font-weight="700"
+        fill="#2F302B">
+    VIP kliendid müügikohtade kaupa
+  </text>
+
+  <!-- Päise taust -->
+  <rect x="18"
+        y="55"
+        width="506"
+        height="40"
+        fill="#5E7361"/>
+
+  <!-- Päise tekst -->
+  <g class="header">
+    <text x="71"  y="80">Nimi</text>
+    <text x="153" y="80">Linn</text>
+    <text x="227" y="80">Müügikoht</text>
+    <text x="314" y="80">Käive</text>
+    <text x="395" y="80">Tellimusi</text>
+    <text x="479" y="80">Kogukäive</text>
+  </g>
+
+  <!-- Tiina Pärn -->
+  <g transform="translate(0 95)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#EFE7DA"/>
+
+    <text class="client-name" x="26" y="53">
+      Tiina Pärn
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Tartu
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      27 668 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">veebimüük</text>
+      <text class="number" x="348" y="17">14 679 EUR</text>
+      <text class="orders" x="395" y="17">24</text>
+
+      <text x="190" y="41">Tallinn</text>
+      <text class="number" x="348" y="41">6 825 EUR</text>
+      <text class="orders" x="395" y="41">28</text>
+
+      <text x="190" y="65">Tartu</text>
+      <text class="number" x="348" y="65">4 150 EUR</text>
+      <text class="orders" x="395" y="65">16</text>
+
+      <text x="190" y="89">Pärnu</text>
+      <text class="number" x="348" y="89">2 014 EUR</text>
+      <text class="orders" x="395" y="89">5</text>
+    </g>
+
+    <line class="group-line"
+          x1="18" y1="96"
+          x2="524" y2="96"/>
+
+  </g>
+
+  <!-- Priit Rand -->
+  <g transform="translate(0 191)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#FCF9F4"/>
+
+    <text class="client-name" x="26" y="53">
+      Priit Rand
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Pärnu
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      26 286 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">Tallinn</text>
+      <text class="number" x="348" y="17">9 602 EUR</text>
+      <text class="orders" x="395" y="17">24</text>
+
+      <text x="190" y="41">veebimüük</text>
+      <text class="number" x="348" y="41">8 694 EUR</text>
+      <text class="orders" x="395" y="41">33</text>
+
+      <text x="190" y="65">Tartu</text>
+      <text class="number" x="348" y="65">6 381 EUR</text>
+      <text class="orders" x="395" y="65">14</text>
+
+      <text x="190" y="89">Pärnu</text>
+      <text class="number" x="348" y="89">1 608 EUR</text>
+      <text class="orders" x="395" y="89">5</text>
+    </g>
+
+    <line class="group-line"
+          x1="18" y1="96"
+          x2="524" y2="96"/>
+
+  </g>
+
+  <!-- Kevin Org -->
+  <g transform="translate(0 287)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#EFE7DA"/>
+
+    <text class="client-name" x="26" y="53">
+      Kevin Org
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Tallinn
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      23 467 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">veebimüük</text>
+      <text class="number" x="348" y="17">8 408 EUR</text>
+      <text class="orders" x="395" y="17">25</text>
+
+      <text x="190" y="41">Tallinn</text>
+      <text class="number" x="348" y="41">8 247 EUR</text>
+      <text class="orders" x="395" y="41">26</text>
+
+      <text x="190" y="65">Tartu</text>
+      <text class="number" x="348" y="65">5 323 EUR</text>
+      <text class="orders" x="395" y="65">19</text>
+
+      <text x="190" y="89">Pärnu</text>
+      <text class="number" x="348" y="89">1 489 EUR</text>
+      <text class="orders" x="395" y="89">8</text>
+    </g>
+
+    <line class="group-line"
+          x1="18" y1="96"
+          x2="524" y2="96"/>
+
+  </g>
+
+  <!-- Laura Tammik -->
+  <g transform="translate(0 383)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#FCF9F4"/>
+
+    <text class="client-name" x="26" y="53">
+      Laura Tammik
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Pärnu
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      23 386 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">Tallinn</text>
+      <text class="number" x="348" y="17">8 244 EUR</text>
+      <text class="orders" x="395" y="17">31</text>
+
+      <text x="190" y="41">Tartu</text>
+      <text class="number" x="348" y="41">5 380 EUR</text>
+      <text class="orders" x="395" y="41">15</text>
+
+      <text x="190" y="65">veebimüük</text>
+      <text class="number" x="348" y="65">5 095 EUR</text>
+      <text class="orders" x="395" y="65">17</text>
+
+      <text x="190" y="89">Pärnu</text>
+      <text class="number" x="348" y="89">4 667 EUR</text>
+      <text class="orders" x="395" y="89">11</text>
+    </g>
+
+    <line class="group-line"
+          x1="18" y1="96"
+          x2="524" y2="96"/>
+
+  </g>
+
+  <!-- Erkki Ilves -->
+  <g transform="translate(0 479)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#EFE7DA"/>
+
+    <text class="client-name" x="26" y="53">
+      Erkki Ilves
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Tartu
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      22 942 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">veebimüük</text>
+      <text class="number" x="348" y="17">8 376 EUR</text>
+      <text class="orders" x="395" y="17">29</text>
+
+      <text x="190" y="41">Tallinn</text>
+      <text class="number" x="348" y="41">8 024 EUR</text>
+      <text class="orders" x="395" y="41">23</text>
+
+      <text x="190" y="65">Tartu</text>
+      <text class="number" x="348" y="65">4 209 EUR</text>
+      <text class="orders" x="395" y="65">14</text>
+
+      <text x="190" y="89">Pärnu</text>
+      <text class="number" x="348" y="89">2 332 EUR</text>
+      <text class="orders" x="395" y="89">6</text>
+    </g>
+
+    <line class="group-line"
+          x1="18" y1="96"
+          x2="524" y2="96"/>
+
+  </g>
+
+  <!-- Anu Kuusik -->
+  <g transform="translate(0 575)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#FCF9F4"/>
+
+    <text class="client-name" x="26" y="53">
+      Anu Kuusik
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Tallinn
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      21 626 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">Tallinn</text>
+      <text class="number" x="348" y="17">11 312 EUR</text>
+      <text class="orders" x="395" y="17">34</text>
+
+      <text x="190" y="41">veebimüük</text>
+      <text class="number" x="348" y="41">5 827 EUR</text>
+      <text class="orders" x="395" y="41">21</text>
+
+      <text x="190" y="65">Tartu</text>
+      <text class="number" x="348" y="65">3 355 EUR</text>
+      <text class="orders" x="395" y="65">14</text>
+
+      <text x="190" y="89">Pärnu</text>
+      <text class="number" x="348" y="89">1 132 EUR</text>
+      <text class="orders" x="395" y="89">8</text>
+    </g>
+
+    <line class="group-line"
+          x1="18" y1="96"
+          x2="524" y2="96"/>
+
+  </g>
+
+  <!-- Kersti Lill -->
+  <g transform="translate(0 671)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#EFE7DA"/>
+
+    <text class="client-name" x="26" y="53">
+      Kersti Lill
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Tallinn
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      21 137 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">Tallinn</text>
+      <text class="number" x="348" y="17">11 130 EUR</text>
+      <text class="orders" x="395" y="17">41</text>
+
+      <text x="190" y="41">veebimüük</text>
+      <text class="number" x="348" y="41">5 014 EUR</text>
+      <text class="orders" x="395" y="41">12</text>
+
+      <text x="190" y="65">Pärnu</text>
+      <text class="number" x="348" y="65">2 728 EUR</text>
+      <text class="orders" x="395" y="65">11</text>
+
+      <text x="190" y="89">Tartu</text>
+      <text class="number" x="348" y="89">2 266 EUR</text>
+      <text class="orders" x="395" y="89">7</text>
+    </g>
+
+    <line class="group-line"
+          x1="18" y1="96"
+          x2="524" y2="96"/>
+
+  </g>
+
+  <!-- Riina Lill -->
+  <g transform="translate(0 767)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#FCF9F4"/>
+
+    <text class="client-name" x="26" y="53">
+      Riina Lill
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Pärnu
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      20 972 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">veebimüük</text>
+      <text class="number" x="348" y="17">10 073 EUR</text>
+      <text class="orders" x="395" y="17">28</text>
+
+      <text x="190" y="41">Tallinn</text>
+      <text class="number" x="348" y="41">6 816 EUR</text>
+      <text class="orders" x="395" y="41">25</text>
+
+      <text x="190" y="65">Tartu</text>
+      <text class="number" x="348" y="65">3 756 EUR</text>
+      <text class="orders" x="395" y="65">10</text>
+
+      <text x="190" y="89">Pärnu</text>
+      <text class="number" x="348" y="89">327 EUR</text>
+      <text class="orders" x="395" y="89">4</text>
+    </g>
+
+    <line class="group-line"
+          x1="18" y1="96"
+          x2="524" y2="96"/>
+
+  </g>
+
+  <!-- Annika Saar -->
+  <g transform="translate(0 863)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#EFE7DA"/>
+
+    <text class="client-name" x="26" y="53">
+      Annika Saar
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Viljandi
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      20 727 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">Tallinn</text>
+      <text class="number" x="348" y="17">8 543 EUR</text>
+      <text class="orders" x="395" y="17">21</text>
+
+      <text x="190" y="41">veebimüük</text>
+      <text class="number" x="348" y="41">8 339 EUR</text>
+      <text class="orders" x="395" y="41">31</text>
+
+      <text x="190" y="65">Pärnu</text>
+      <text class="number" x="348" y="65">2 142 EUR</text>
+      <text class="orders" x="395" y="65">5</text>
+
+      <text x="190" y="89">Tartu</text>
+      <text class="number" x="348" y="89">1 702 EUR</text>
+      <text class="orders" x="395" y="89">9</text>
+    </g>
+
+    <line class="group-line"
+          x1="18" y1="96"
+          x2="524" y2="96"/>
+
+  </g>
+
+  <!-- Ago Kull -->
+  <g transform="translate(0 959)">
+
+    <rect x="18"
+          y="0"
+          width="506"
+          height="96"
+          fill="#FCF9F4"/>
+
+    <text class="client-name" x="26" y="53">
+      Ago Kull
+    </text>
+
+    <text class="client-city" x="132" y="53">
+      Pärnu
+    </text>
+
+    <text class="client-total" x="479" y="53">
+      20 125 EUR
+    </text>
+
+    <g class="body">
+      <text x="190" y="17">veebimüük</text>
+      <text class="number" x="348" y="17">10 008 EUR</text>
+      <text class="orders" x="395" y="17">28</text>
+
+      <text x="190" y="41">Tallinn</text>
+      <text class="number" x="348" y="41">6 965 EUR</text>
+      <text class="orders" x="395" y="41">23</text>
+
+      <text x="190" y="65">Pärnu</text>
+      <text class="number" x="348" y="65">2 175 EUR</text>
+      <text class="orders" x="395" y="65">8</text>
+
+      <text x="190" y="89">Tartu</text>
+      <text class="number" x="348" y="89">977 EUR</text>
+      <text class="orders" x="395" y="89">5</text>
+    </g>
+
+  </g>
+
+</svg>
