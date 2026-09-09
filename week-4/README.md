@@ -34,9 +34,9 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 
 | linn    | vip_kliente | regular_kliente | uusi_kliente | linna_kogukäive | linna_top_klient |
 | ------- | ----------- | --------------- | ------------ | --------------- | ---------------- |
-| Tallinn | 8           | 358             | 641          | 1006252.88      | Kevin Org        |
-| Tartu   | 2           | 190             | 333          | 523286.64       | Tiina Pärn       |
-| Pärnu   | 6           | 102             | 168          | 374005.86       | Priit Rand       |
+| Tallinn | 8           | 358             | 641          | 1 006 253 EUR   | Kevin Org        |
+| Tartu   | 2           | 190             | 333          | 523 287 EUR     | Tiina Pärn       |
+| Pärnu   | 6           | 102             | 168          | 374 006 EUR     | Priit Rand       |
 
 ---
 
