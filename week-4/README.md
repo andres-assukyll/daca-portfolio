@@ -20,9 +20,14 @@
 
 # 🏆 TOP 10
 
+![Käive](img/kaibe-vordlus.svg)
+
 ![Kliendisegmentide tabel](img/segmentide-tabel.svg)
 
-![Kliendisegmentide tabel](img/vip-kliendid-linnade-kaupa.svg)
+![VIP linnade kaupa](img/vip-kliendid-linnade-kaupa.svg)
+
+![VIP müügikoha kaupa](img/vip-kliendid-myygikoha-kaupa.svg)
+
 
 ---
 
