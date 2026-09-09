@@ -21,7 +21,7 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 
 # 🏆 TOP 10
 
-![Käive](img/kaibe-vordlus.svg)
+![Käive](img/klientide-kaive-koond.svg)
 
 ![Kliendisegmentide tabel](img/segmentide-tabel.svg)
 
