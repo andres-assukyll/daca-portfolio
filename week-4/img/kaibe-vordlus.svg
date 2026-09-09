@@ -38,7 +38,7 @@
   <text x="98"
         y="90"
         text-anchor="start"
-        font-family="Arial, Helvetica, sans-serif"
+        font-family="Georgia, 'Times New Roman', serif"
         font-size="12"
         font-weight="700"
         fill="#5E7361">
@@ -55,7 +55,7 @@
   </g>
 
   <!-- Kogukäibe tulbanimed -->
-  <g font-family="Arial, Helvetica, sans-serif"
+  <g font-family="Georgia, 'Times New Roman', serif"
      font-size="13"
      fill="#2F302B"
      text-anchor="start">
@@ -85,7 +85,7 @@
         fill="#5E7361"/>
 
   <!-- Kogukäibe väärtused -->
-  <g font-family="Arial, Helvetica, sans-serif"
+  <g font-family="Georgia, 'Times New Roman', serif"
      font-size="11"
      font-weight="700"
      fill="#2F302B"
@@ -102,7 +102,7 @@
   </g>
 
   <!-- Kogukäibe telje tähised -->
-  <g font-family="Arial, Helvetica, sans-serif"
+  <g font-family="Georgia, 'Times New Roman', serif"
      font-size="10"
      fill="#5E7361">
 
@@ -136,7 +136,7 @@
   <text x="98"
         y="270"
         text-anchor="start"
-        font-family="Arial, Helvetica, sans-serif"
+        font-family="Georgia, 'Times New Roman', serif"
         font-size="12"
         font-weight="700"
         fill="#5E7361">
@@ -153,7 +153,7 @@
   </g>
 
   <!-- Keskmise käibe tulbanimed -->
-  <g font-family="Arial, Helvetica, sans-serif"
+  <g font-family="Georgia, 'Times New Roman', serif"
      font-size="13"
      fill="#2F302B"
      text-anchor="start">
@@ -183,7 +183,7 @@
         fill="#D98F77"/>
 
   <!-- Keskmise käibe väärtused -->
-  <g font-family="Arial, Helvetica, sans-serif"
+  <g font-family="Georgia, 'Times New Roman', serif"
      font-size="11"
      font-weight="700"
      fill="#2F302B"
@@ -200,7 +200,7 @@
   </g>
 
   <!-- Keskmise käibe telje tähised -->
-  <g font-family="Arial, Helvetica, sans-serif"
+  <g font-family="Georgia, 'Times New Roman', serif"
      font-size="10"
      fill="#5E7361">
 
@@ -234,7 +234,7 @@
   <text x="733"
         y="426"
         text-anchor="end"
-        font-family="Arial, Helvetica, sans-serif"
+        font-family="Georgia, 'Times New Roman', serif"
         font-size="10"
         fill="#5E7361">
     Kogusummad ja keskmised on eri skaaladel
