@@ -1,7 +1,7 @@
-# 📊 Sales + Customers — Week 3
+# 📊 Sales + Customers — Week 4
 
 <p align="center">
-  <strong>Sales Analytics · Roll B – Müügiandmete analüüs</strong>
+  <strong>Sales Analytics · Roll B – Kliendigruppide analüüs</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,8 @@
 
 ## 🎯 Eesmärk
 
-> Analüüsida klientidega seotud müügiandmeid. Leida **TOP 10 klienti kogumüügi järgi**.
+> Segmenteerida kliendid kulutuse järgi 'VIP' / 'Regular' / 'Uus'. <br>
+Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 
 ---
 
