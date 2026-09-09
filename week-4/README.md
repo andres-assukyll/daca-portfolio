@@ -71,6 +71,14 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 | Regular | 917           | 4138           | 357.99 EUR        | 4.51                 |
 | Uus     | 1615          | 3854           | 206.30 EUR        | 2.39                 |
 
+### Allahindluste osakaal
+
+| segment | kõik_ostud | hinnangulised_kampaaniaostud | kampaaniaostude_osakaal |
+| ------- | ---------- | ---------------------------- | ----------------------- |
+| VIP     | 1138       | 24                           | 2.1 %                   |
+| Regular | 4138       | 68                           | 1.6 %                   |
+| Uus     | 3854       | 169                          | 4.4 %                   |
+
 ---
 
 ## AI kasutamine
