@@ -14,7 +14,7 @@
 
 ## 🎯 Eesmärk
 
-> Segmenteerida kliendid kulutuse järgi 'VIP' / 'Regular' / 'Uus'. <br>
+> Segmenteerida kliendid kulutuse järgi `VIP` / `Regular` / `Uus`. <br>
 Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 
 ---
