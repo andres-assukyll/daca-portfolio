@@ -30,6 +30,14 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 ![VIP müügikoha kaupa](img/vip-kliendid-myygikoha-kaupa.svg)
 
 
+#### Segmendid klientide asukoha järgi
+
+| linn    | vip_kliente | regular_kliente | uusi_kliente | linna_kogukäive | linna_top_klient |
+| ------- | ----------- | --------------- | ------------ | --------------- | ---------------- |
+| Tallinn | 8           | 358             | 641          | 1006252.88      | Kevin Org        |
+| Tartu   | 2           | 190             | 333          | 523286.64       | Tiina Pärn       |
+| Pärnu   | 6           | 102             | 168          | 374005.86       | Priit Rand       |
+
 ---
 
 ## AI kasutamine
