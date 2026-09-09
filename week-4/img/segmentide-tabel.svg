@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="720" height="260"
+     viewBox="0 0 720 260">
+
+  <!-- Ploki taust -->
+  <rect width="720" height="260" fill="#F7F1E6"/>
+
+  <!-- Pealkiri -->
+  <text x="28" y="42"
+        font-family="Georgia, serif"
+        font-size="24"
+        font-weight="700"
+        fill="#2F302B">
+    Kliendisegmendid käibe järgi
+  </text>
+
+  <!-- Päis -->
+  <rect x="28" y="65" width="664" height="42" fill="#5E7361"/>
+
+  <!-- Andmeread -->
+  <rect x="28" y="107" width="664" height="42" fill="#F9EBE4"/>
+  <rect x="28" y="149" width="664" height="42" fill="#E9F0E6"/>
+  <rect x="28" y="191" width="664" height="42" fill="#EFE7DA"/>
+
+  <!-- Eraldusjooned -->
+  <g stroke="#D6D0C5" stroke-width="1">
+    <line x1="28" y1="149" x2="692" y2="149"/>
+    <line x1="28" y1="191" x2="692" y2="191"/>
+  </g>
+
+  <!-- Päise tekst -->
+  <g font-family="Arial, sans-serif"
+     font-size="15"
+     font-weight="700"
+     fill="#F7F1E6">
+    <text x="46" y="91">Segment</text>
+    <text x="430" y="91" text-anchor="end">Kliente</text>
+    <text x="674" y="91" text-anchor="end">Keskmine käive</text>
+  </g>
+
+  <!-- VIP -->
+  <g font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="700"
+     fill="#CC6E50">
+    <text x="46" y="134">VIP</text>
+    <text x="430" y="134" text-anchor="end">19</text>
+    <text x="674" y="134" text-anchor="end">18 227,01 €</text>
+  </g>
+
+  <!-- Regular -->
+  <g font-family="Arial, sans-serif"
+     font-size="16"
+     fill="#2F302B">
+    <text x="46" y="176">Regular</text>
+    <text x="430" y="176" text-anchor="end">917</text>
+    <text x="674" y="176" text-anchor="end">1 615,43 €</text>
+  </g>
+
+  <!-- Uus -->
+  <g font-family="Arial, sans-serif"
+     font-size="16"
+     fill="#2F302B">
+    <text x="46" y="218">Uus</text>
+    <text x="430" y="218" text-anchor="end">1 615</text>
+    <text x="674" y="218" text-anchor="end">492,30 €</text>
+  </g>
+</svg>
