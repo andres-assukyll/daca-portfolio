@@ -43,7 +43,7 @@
      font-size="16"
      font-weight="700"
      fill="#CC6E50">
-    <text x="46" y="134">VIP</text>
+    <text x="46" y="134">VIP (5k+)</text>
     <text x="430" y="134" text-anchor="end">19</text>
     <text x="674" y="134" text-anchor="end">18 227.01 €</text>
   </g>
@@ -52,7 +52,7 @@
   <g font-family="Arial, sans-serif"
      font-size="16"
      fill="#2F302B">
-    <text x="46" y="176">Regular</text>
+    <text x="46" y="176">Regular (1k+)</text>
     <text x="430" y="176" text-anchor="end">917</text>
     <text x="674" y="176" text-anchor="end">1 615.43 €</text>
   </g>
