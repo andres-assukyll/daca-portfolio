@@ -45,7 +45,7 @@
      fill="#CC6E50">
     <text x="46" y="134">VIP</text>
     <text x="430" y="134" text-anchor="end">19</text>
-    <text x="674" y="134" text-anchor="end">18 227,01 €</text>
+    <text x="674" y="134" text-anchor="end">18 227.01 €</text>
   </g>
 
   <!-- Regular -->
@@ -54,7 +54,7 @@
      fill="#2F302B">
     <text x="46" y="176">Regular</text>
     <text x="430" y="176" text-anchor="end">917</text>
-    <text x="674" y="176" text-anchor="end">1 615,43 €</text>
+    <text x="674" y="176" text-anchor="end">1 615.43 €</text>
   </g>
 
   <!-- Uus -->
@@ -63,6 +63,6 @@
      fill="#2F302B">
     <text x="46" y="218">Uus</text>
     <text x="430" y="218" text-anchor="end">1 615</text>
-    <text x="674" y="218" text-anchor="end">492,30 €</text>
+    <text x="674" y="218" text-anchor="end">492.30 €</text>
   </g>
 </svg>
