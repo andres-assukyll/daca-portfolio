@@ -29,6 +29,7 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 
 ![VIP müügikoha kaupa](img/vip-kliendid-myygikoha-kaupa.svg)
 
+### LISA
 
 #### Segmendid klientide asukoha järgi
 
@@ -37,6 +38,30 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 | Tallinn | 8           | 358             | 641          | 1 006 253 EUR   | Kevin Org        |
 | Tartu   | 2           | 190             | 333          | 523 287 EUR     | Tiina Pärn       |
 | Pärnu   | 6           | 102             | 168          | 374 006 EUR     | Priit Rand       |
+
+#### VIP-klientide lojaalsusaste
+
+| nimi         | lojaalsusaste |
+| ------------ | ------------- |
+| Annika Saar  | gold          |
+| Kevin Org    | gold          |
+| Tiina Pärn   | gold          |
+| Urmas Kask   | gold          |
+| Erkki Ilves  | silver        |
+| Laura Tammik | silver        |
+| Merike Vaher | silver        |
+| Priit Rand   | silver        |
+| Ago Kull     | bronze        |
+| Marika Sepp  | bronze        |
+| Ago Lõoke    | puudub        |
+| Ants Paju    | puudub        |
+| Anu Kuusik   | puudub        |
+| Kersti Lill  | puudub        |
+| Pille Sepp   | puudub        |
+| Priit Järv   | puudub        |
+| Riina Lill   | puudub        |
+| Terje Kukk   | puudub        |
+| Tiina Laas   | puudub        |
 
 ---
 
