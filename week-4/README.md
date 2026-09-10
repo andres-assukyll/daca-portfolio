@@ -79,6 +79,12 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 | Regular | 4138       | 68                           | 1.6 %                   |
 | Uus     | 3854       | 169                          | 4.4 %                   |
 
+### Lahkumispotentsiaaliga kliendid
+
+| lahkujate_arv_kokku | vip_lahkujad | regular_lahkujad |
+| ------------------- | ------------ | ---------------- |
+| 926                 | 16           | 910              |
+
 ---
 
 ## AI kasutamine
