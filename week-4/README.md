@@ -87,8 +87,14 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 
 ---
 
-## AI kasutamine
+## LISA
 
-> *Nt kasutasin Claude'i CTE päringu debug'imiseks. AI leidis puuduva GROUP BY klausli.*
+**SQL-päringud**
+Tõõs kasutatud päringud:
+- [Põhipäringud](./week4_customer_segmentation_aggregation.sql)
+- Lisapäringud .. *laadimisel*
+
+**AI kasutamine**
+> *Kasutasin ChatGTP-d CTE alampäringute parandamiseks*.
 
 
