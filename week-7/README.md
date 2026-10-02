@@ -1,4 +1,4 @@
-
+## A
 
 
 === Esimesed 5 müügitabeli rida === 
@@ -100,3 +100,49 @@ dtype: object
 
 --
 
+## B
+
+=== Ühendatud tabeli read ja veerud enne puhastamist === 
+
+(15234, 19)
+
+ === Duplikaatide arv === 
+
+Duplikaadid: 5116
+
+ === NULL-väärtuste arv === 
+
+NULL-id:
+ sale_id                 0
+invoice_id              0
+sale_date               0
+customer_id           988
+product_id              0
+quantity                0
+unit_price              0
+total_price             0
+channel                 0
+store_location       3462
+payment_method          0
+first_name            988
+last_name             988
+email                1944
+phone                 988
+city                  988
+registration_date     988
+loyalty_tier         4660
+birth_year            988
+dtype: int64
+
+ === Kuupäevavahemiku tõttu eemaldatud read === 
+
+28
+
+ === Negatiivsete total_price väärtuste arv === 
+
+179
+
+ === Puhastamisraport === 
+
+Puhastatud tabel: 8923 rida, 2540 klienti
+Kuupäevavahemik: 2023-01-01 - 2025-02-28
