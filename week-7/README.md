@@ -300,7 +300,7 @@ print(segment_summary)
 
  === RFM segmentide kokkuvõte === 
 
-         Segment  Klientide arv  Osakaal %
+   Segment  Klientide arv  Osakaal %
 0      Potential            768       30.2
 1          Loyal            678       26.7
 2        At risk            524       20.6
