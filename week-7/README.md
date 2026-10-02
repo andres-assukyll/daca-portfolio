@@ -64,7 +64,7 @@ print(df.dtypes)
 3         2004       Jaak    Talvik     jaak.talvik@mail.ee  +372 8554 4232   
 4         2005      Raivo    Koppel  raivo.koppel@yahoo.com  +372 5298 4365   
 
-       city registration_date loyalty_tier  birth_year  
+       city registration_date loyalty_tier  birth_year    
 0   Tallinn        2024-02-27          NaN        1973  
 1  Haapsalu        2025-01-09       bronze        1988  
 2     Tartu        2021-02-03          NaN        1999  
