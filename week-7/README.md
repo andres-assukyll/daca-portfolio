@@ -238,3 +238,71 @@ dtype: int64
 
 Puhastatud tabel: 8923 rida, 2540 klienti
 Kuupäevavahemik: 2023-01-01 - 2025-02-28
+
+## RFM analüüs
+
+#### Kood:
+
+```python
+# RFM analüüs -- referents kp.
+
+today = pd.to_datetime('2025-02-28')
+
+# Viimane müügi kp
+last_sale_date = df.groupby('customer_id')['sale_date'].max()
+
+# Recency
+
+recency_days = (today - last_sale_date).dt.days.reset_index(name='recency_days')
+
+# Frequency
+
+frequency = df.groupby('customer_id')['sale_id'].count().reset_index(name='frequency')
+
+# Monetary
+
+monetary = df.groupby('customer_id')['total_price'].sum().reset_index(name='monetary')
+
+# RFM raamistik
+
+rfm = pd.merge(recency_days, frequency, on='customer_id', how='inner')
+rfm = pd.merge(rfm, monetary, on='customer_id', how='inner')
+
+# RFM skoor
+
+rfm['R_score'] = pd.qcut(rfm['recency_days'], 5, labels=[5,4,3,2,1])
+rfm['F_score'] = pd.qcut(rfm['frequency'].rank(method='first'), 5, labels=[1,2,3,4,5])
+rfm['M_score'] = pd.qcut(rfm['monetary'], 5, labels=[1,2,3,4,5])
+
+# RFM koori arvutamine
+
+rfm['RFM_score'] = rfm['R_score'].astype(int) + rfm['F_score'].astype(int) + rfm['M_score'].astype(int)
+
+# Segmenteerimine vastavalt RFM skoorile
+
+rfm['segment'] = rfm['RFM_score'].apply(lambda x: 'VIP Champions' if 13 <= x <= 15
+                                                else 'Loyal' if  10 <= x <= 12
+                                                else 'Potential' if  7 <= x <= 9
+                                                else 'At risk' if 4 <= x <= 6
+                                                else 'Lost')
+
+# Summary of the RFM segments, proportions in percentages
+
+segment_summary = rfm['segment'].value_counts().reset_index()
+segment_summary.columns = ['Segment', 'Klientide arv']
+segment_summary['Osakaal %'] = (segment_summary['Klientide arv'] / segment_summary['Klientide arv'].sum() * 100).round(1)
+
+print('\n === RFM segmentide kokkuvõte === \n')
+print(segment_summary)
+```
+
+#### Kuvab:
+
+ === RFM segmentide kokkuvõte === 
+
+         Segment  Klientide arv  Osakaal %
+0      Potential            768       30.2
+1          Loyal            678       26.7
+2        At risk            524       20.6
+3  VIP Champions            453       17.8
+4           Lost            117        4.6
