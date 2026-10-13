@@ -9,6 +9,10 @@ Visuaali loomist seekordne ülesanne ette ei näinud.
 
 #### 💻 Tehtud SQL päringud 
 
+
+<details>
+<summary>Vaata tabeli andmeid</summary>
+  
 | Koht | Linn     | Tellimusi | Kogukäive   | Osakaal | Tellimus(AVG) | Kuu        | Kuukäive   | Viimane kuu | Viimase kuu käive | Varasem kuukeskmine | Käibe erinevus |
 | :----: | -------- | --------- | ----------- | ------------- | ----------------- | ---------- | ---------- | ----------- | ----------------- | ------------------------- | -------------- |
 | 1    | Tallinn  | 1800      | 499 653 EUR | 37.83%        | 278 EUR           | 2024-01-01 | 27 634 EUR | 2024-12-01  | 56 490 EUR        | 40 288 EUR                | 16 202 EUR     |
@@ -71,3 +75,5 @@ Visuaali loomist seekordne ülesanne ette ei näinud.
 | 5    | Viljandi | 193       | 51 762 EUR  | 3.92%         | 268 EUR           | 2024-10-01 | 2 920 EUR  | 2024-12-01  | 5 643 EUR         | 4 193 EUR                 | 1 451 EUR      |
 | 5    | Viljandi | 193       | 51 762 EUR  | 3.92%         | 268 EUR           | 2024-11-01 | 3 749 EUR  | 2024-12-01  | 5 643 EUR         | 4 193 EUR                 | 1 451 EUR      |
 | 5    | Viljandi | 193       | 51 762 EUR  | 3.92%         | 268 EUR           | 2024-12-01 | 5 643 EUR  | 2024-12-01  | 5 643 EUR         | 4 193 EUR                 | 1 451 EUR      |
+
+</details>
