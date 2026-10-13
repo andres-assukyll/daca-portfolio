@@ -29,7 +29,7 @@ flowchart LR
 
 ### 🔍 OSA 1. Duplikaadid ja nende tuvastamine
 
-TABEL: *Sales*
+TABEL: *sales_test*
 
 Leiti **4013** korduvat `sale_id`väärtust. Neist enim korratud, **6** korda, olid `sale_id`**2706** ja **4256**. <br>
 Uuriti korduste rahalist kogumõju ja saadi, et vahe on ca **66%**.
@@ -43,6 +43,16 @@ Leiti **509** korduvat e-posti aadressi, mis on tekkinud erineva ees- ja/või pe
 ---
 
 ### ⚠️ OSA 2. NULL väärtused
+
+TABEL: *customers_test*
+
+Leiti **1487** tellimust, kus klient on teadmata. Samuti leiti **2770** klienti, kelle e-posti aadress on teada. Lisaks asendati puuduv klientide e-posti aadress vaikeväärtusega **puudub@urbanstyle.ee**
+
+TABEL: *products_test*
+
+Muudeti 0-hinnaga tooted NULL-iks.
+
+[SQL koondpäring](w2_NULL_query.sql)
 
 ---
 
