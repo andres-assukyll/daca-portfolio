@@ -31,7 +31,7 @@ Tõõs kasutatud päringud:
 
 #### Segmendid klientide asukoha järgi
 
-| linn    | vip_kliente | regular_kliente | uusi_kliente | linna_kogukäive | linna_top_klient |
+| linn    | VIP-kliente | tavakliente | uusi kliente | linna kogukäive | linna TOP klient |
 | ------- | ----------- | --------------- | ------------ | --------------- | ---------------- |
 | Tallinn | 8           | 358             | 641          | 1 006 253 EUR   | Kevin Org        |
 | Tartu   | 2           | 190             | 333          | 523 287 EUR     | Tiina Pärn       |
@@ -63,7 +63,7 @@ Tõõs kasutatud päringud:
 
 ### Klientide keskmine ostukorv ja -sagedus
 
-| segment | klientide_arv | tellimuste_arv | keskmine_ostukorv | keskmine_ostusagedus |
+| segment | klientide arv | tellimuste_arv | keskmine_ostukorv | keskmine_ostusagedus |
 | ------- | ------------- | -------------- | ----------------- | -------------------- |
 | VIP     | 19            | 1138           | 304.32 EUR        | 59.89                |
 | Regular | 917           | 4138           | 357.99 EUR        | 4.51                 |
