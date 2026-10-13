@@ -46,7 +46,8 @@ Leiti **509** korduvat e-posti aadressi, mis on tekkinud erineva ees- ja/või pe
 
 TABEL: *customers_test*
 
-Leiti **1487** tellimust, kus klient on teadmata. Samuti leiti **2770** klienti, kelle e-posti aadress on teada. Lisaks asendati puuduv klientide e-posti aadress vaikeväärtusega **puudub@urbanstyle.ee**
+Leiti **1487** tellimust, kus klient on teadmata. Samuti leiti **2770** klienti, kelle e-posti aadress on teada. <br>
+Lisaks asendati puuduv klientide e-posti aadress vaikeväärtusega **puudub@urbanstyle.ee**.
 
 TABEL: *products_test*
 
