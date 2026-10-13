@@ -56,7 +56,11 @@ SQL põhitõed, kahe ja enam andmebaasi andmete ühendamine ning analüüs. ✅
 [JOIN harjutused](week-3/Iseseisev_töö_w3.md)
 
 ### Week 4: SQL Aggregation
-\- (tulemas...)
+
+👥 **Grupitöö** 🤝 <br>
+[UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week4/README.md) <br>
+🧩 **Artefakt** 🛠️ <br> 
+[Kliendigruppide analüüs](week-3/README.md)
 
 ### Week 5-6: Visualialization
 \- (tulemas...)
