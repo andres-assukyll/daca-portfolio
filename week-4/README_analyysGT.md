@@ -11,6 +11,10 @@
 > Segmenteerida kliendid kulutuse järgi `VIP` · `Regular` · `Uus`. <br>
 Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 
+Tõõs kasutatud päringud:
+- [Põhipäringud](./week4_customer_segmentation_aggregation.sql)
+- [Lisapäringud](./week4_customer_segmentation_aggregation_add.sql)
+  
 ---
 
 # 🏆 TOP 10
@@ -80,13 +84,6 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 | 926                 | 16           | 910              |
 
 ---
-
-## LISA
-
-**SQL-päringud**
-Tõõs kasutatud päringud:
-- [Põhipäringud](./week4_customer_segmentation_aggregation.sql)
-- [Lisapäringud](./week4_customer_segmentation_aggregation_add.sql)
 
 **AI kasutamine**
 > *Kasutasin ChatGTP-d CTE alampäringute parandamiseks*.
