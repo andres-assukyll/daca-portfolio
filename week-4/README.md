@@ -87,6 +87,6 @@ Tõõs kasutatud päringud:
 
 #### **🤖 Kasutamine ✨**
 > *Kasutasin ChatGPT abi svg-failide kiiremaks genereerimiseks GitHub-i*. <br>
-> *Samuti CTE alampäringute parandamiseks*.
+> *Samuti CTE-päringute parandamiseks*.
 
 
