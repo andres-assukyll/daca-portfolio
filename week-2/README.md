@@ -6,7 +6,8 @@
 **Roll:** C – Product Data Cleaner <br>
 **Link grupitööle:** [Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week2/README.md)
 
-Eesmärk analüüsida ja puhastada tooteandmete tabel.
+## 🎯 Eesmärk 
+> *Analüüsida ja puhastada tooteandmete tabel*.
 
 ---
 
