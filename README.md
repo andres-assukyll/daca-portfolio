@@ -57,7 +57,7 @@ SQL põhitõed, kahe ja enam andmebaasi andmete ühendamine ning analüüs. ✅
 
 ### Week 4: SQL Aggregation
 
-Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtreerimine HAVING klausliga ja eristamine WHERE-st.Keeruliste päringute struktureerimine CTE ja window funktsioonidega. ✅
+Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtreerimine HAVING klausliga ja eristamine WHERE-st. Keeruliste päringute struktureerimine CTE ja window funktsioonidega. ✅
 
 👥 **Grupitöö** 🤝 <br>
 [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week4/README.md) <br>
