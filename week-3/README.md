@@ -1,14 +1,8 @@
 # 📊 Sales + Customers — Week 3
 
-<p align="center">
-  <strong>Sales Analytics · Roll A – Müügi ja klientide ühendamine</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week3/README.md">
-    🔗 Vaata grupitööd
-  </a>
-</p>
+**Meeskond:** Sales Analytics <br>
+**Roll:** A – Müügi ja klientide ühendamine <br>
+**Link grupitööle:** [Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week3/README.md))
 
 ---
 
