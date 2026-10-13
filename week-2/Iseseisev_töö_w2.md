@@ -76,3 +76,5 @@ TABEL: *customers_test* : leiti linnanimede teisendid ja koostati SQL päring ne
 | Jõhvi      | 83      | 4          |
 | Võru       | 81      | 5          |
 | Paide      | 66      | 5          |
+
+[SQL koondpäring](w2_formats_query.sql)
