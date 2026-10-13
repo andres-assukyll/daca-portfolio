@@ -15,7 +15,7 @@ Visuaali loomist harjutuste läbimine ette ei näinud.
 
 #### 💻 osa I SQL päringud 
 
-[SQL päringute harjutused](week4_lessons_query.sgl)
+[SQL päringute harjutused](week4_individual_lessons_query.sgl)
 <br><br>
 
 **OSA II**
@@ -24,7 +24,7 @@ Töö II poole eesmärgiks oli praktiline harjutus, mille käigus tuli koostada 
 
 #### 💻 osa II SQL päringud 
 
-[SQL päringute harjutused](week4_ceo_report_query.sgl)
+[SQL päringute harjutused](week4_individual_ceo_report_query.sgl)
 
 #### 📊 CEO Raport
 
