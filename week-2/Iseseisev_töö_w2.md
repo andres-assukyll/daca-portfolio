@@ -60,7 +60,7 @@ Muudeti 0-hinnaga tooted NULL-iks.
 ### 🔄 OSA 3. Andmeformaadid ja tüübikonversioonid
 
 TABEL: *sales_test* : vormindati kuupäevad. <br>
-TABEL: *customers_test* : leiti linnanimede teisendid ja koostati SQL päring nende ühtlustamiseks.
+TABEL: *customers_test* : leiti linnanimede teisendid ja koostati SQL päring nende ühtlustamiseks. <br>
 TABEL: *products_test* : kontrolliti hinnaveeru tüüpe ja väärtusi.
 
 | linn       | kliente | teisendeid |
