@@ -27,11 +27,11 @@ Tõõs kasutatud päringud:
 
 ![VIP müügikoha kaupa](img/vip-kliendid-myygikoha-kaupa.svg)
 
-### LISA
+### LISATULEMUSED
 
 #### Segmendid klientide asukoha järgi
 
-| linn    | VIP-kliente | tavakliente | uusi kliente | linna kogukäive | linna TOP klient |
+| Linn    | VIP-kliente | Tavakliente | Uusi kliente | Linna kogukäive | TOP klient linnas |
 | ------- | ----------- | --------------- | ------------ | --------------- | ---------------- |
 | Tallinn | 8           | 358             | 641          | 1 006 253 EUR   | Kevin Org        |
 | Tartu   | 2           | 190             | 333          | 523 287 EUR     | Tiina Pärn       |
@@ -39,7 +39,7 @@ Tõõs kasutatud päringud:
 
 #### VIP-klientide lojaalsusaste
 
-| nimi         | lojaalsusaste |
+| Nimi         | Lojaalsusaste |
 | ------------ | ------------- |
 | Annika Saar  | gold          |
 | Kevin Org    | gold          |
@@ -63,7 +63,7 @@ Tõõs kasutatud päringud:
 
 ### Klientide keskmine ostukorv ja -sagedus
 
-| segment | klientide arv | tellimuste_arv | keskmine_ostukorv | keskmine_ostusagedus |
+| Segment | Kliente | Tellimusi | Keskmine ostukorv | Keskmine ostusagedus |
 | ------- | ------------- | -------------- | ----------------- | -------------------- |
 | VIP     | 19            | 1138           | 304.32 EUR        | 59.89                |
 | Regular | 917           | 4138           | 357.99 EUR        | 4.51                 |
@@ -71,7 +71,7 @@ Tõõs kasutatud päringud:
 
 ### Allahindluste osakaal
 
-| segment | kõik_ostud | hinnangulised_kampaaniaostud | kampaaniaostude_osakaal |
+| Segment | Ostud kokku | Hinnangulised kampaaniaostud | Kampaaniaostude osakaal |
 | ------- | ---------- | ---------------------------- | ----------------------- |
 | VIP     | 1138       | 24                           | 2.1 %                   |
 | Regular | 4138       | 68                           | 1.6 %                   |
@@ -79,7 +79,7 @@ Tõõs kasutatud päringud:
 
 ### Lahkumispotentsiaaliga kliendid
 
-| lahkujate_arv_kokku | vip_lahkujad | regular_lahkujad |
+| Lahkujaid kokku | VIP lahkujad | Tavaklientidest lahkujad |
 | ------------------- | ------------ | ---------------- |
 | 926                 | 16           | 910              |
 
