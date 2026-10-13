@@ -2,7 +2,7 @@
 
 **Meeskond:** Sales Analytics <br>
 **Roll:** A – Müügi ja klientide ühendamine <br>
-**Link grupitööle:** [Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week3/README.md))
+**Link grupitööle:** [Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week3/README.md)
 
 ---
 
