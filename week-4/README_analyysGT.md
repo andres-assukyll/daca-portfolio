@@ -92,7 +92,7 @@ Leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
 **SQL-päringud**
 Tõõs kasutatud päringud:
 - [Põhipäringud](./week4_customer_segmentation_aggregation.sql)
-- Lisapäringud .. *laadimisel*
+- [Lisapäringud](./week4_customer_segmentation_aggregation_add.sql)
 
 **AI kasutamine**
 > *Kasutasin ChatGTP-d CTE alampäringute parandamiseks*.
