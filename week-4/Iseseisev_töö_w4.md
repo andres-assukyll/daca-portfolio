@@ -1,17 +1,35 @@
 # Nädal 4: SQL Aggregation
 
-> ***Iseseisev töö, kus harjutati kahe ja enama andmebaasi ühendamist ja analüüsi JOIN funktsioonide kaudu.***
+> ***Iseseisev töö, kus harjutati andmete grupeerimist, filtreerimist ning struktureerimist.***
 
 #### 🎯 Eesmärk
 
-Iseseisva töö eesmärgiks oli läbi teha erinevad `JOIN` tüüpidega SQL päringud ja vastavad integreerivad harjutused. <br>
-Visuaali loomist seekordne ülesanne ette ei näinud.
+**OSA I**
 
-#### 💻 Tehtud SQL päringud 
+Iseseisva töö I poole eesmärgiks oli läbi teha erinevad harjutused: <br> 
+- andmete grupeerimine (GROUP BY), <br>
+- filtreerimine HAVING klausliga ja eristamine WHERE-st, <br>
+- keeruliste päringute struktureerimine CTE ja window funktsioonidega.
+  
+Visuaali loomist harjutuste läbimine ette ei näinud.
 
+#### 💻 osa I SQL päringud 
+
+[SQL päringute harjutused](week4_lessons_query.sgl)
+<br><br>
+
+**OSA II**
+
+Töö II poole eesmärgiks oli praktiline harjutus, mille käigus tuli koostada ja täiendada CTE-päring CEO raporti loomiseks. <br>
+
+#### 💻 osa II SQL päringud 
+
+[SQL päringute harjutused](week4_ceo_report_query.sgl)
+
+#### 📊 CEO Raport
 
 <details>
-<summary>Vaata tabeli andmeid</summary>
+<summary>Vaata raporti andmeid</summary>
   
 | Koht | Linn     | Tellimusi | Kogukäive   | Osakaal | Tellimus(AVG) | Kuu        | Kuukäive   | Viimane kuu | Viimase kuu käive | Varasem kuukeskmine | Käibe erinevus |
 | :----: | -------- | --------- | ----------- | ------------- | ----------------- | ---------- | ---------- | ----------- | ----------------- | ------------------------- | -------------- |
