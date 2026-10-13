@@ -64,6 +64,9 @@ Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtre
 🧩 **Artefakt** 🛠️ <br> 
 [Kliendigruppide analüüs](week-3/README.md)
 
+👤 **Iseseisev töö** ✨ <br>
+[Andmete koondamise harjutused](week-4/Iseseisev_töö_w4.md)
+
 ### Week 5-6: Visualialization
 \- (tulemas...)
 
