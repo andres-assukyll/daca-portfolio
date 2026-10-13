@@ -78,13 +78,13 @@ Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtre
  
 ## Oskused
  
-\- **SQL:** PostgreSQL, Supabase
+\- **SQL:** PostgreSQL, Supabase ✅
 
-\- **Python:** pandas, plotly (tulemas...)
+\- **Python:** pandas, plotly ✅
 
-\- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
+\- **Visualiseerimine:** Power BI / Streamlit ✅
 
-\- **Tööriistad:** Git, GitHub, VS Code
+\- **Tööriistad:** Git, GitHub, VS Code ✅
  
 ## Kontakt
  
