@@ -1,1 +1,400 @@
+-- ====================================
+-- Iseseisev töö : nädal 4
+-- ====================================
+-- INTEGREERIV HARJUTUS : CEO RAPORT
+-- ====================================
+
+-- Minu CTE-päring: ülevaade Kristile TOP 5 linnast koos igakuise trendiga.
+WITH linna_müük AS (
+    -- CTE 1: iga linna kogumüük
+    SELECT
+        c.city AS linn,
+        COUNT(DISTINCT s.sale_id) AS tellimusi,
+        SUM(s.total_price) AS kogukäive,
+        ROUND(AVG(s.total_price), 2) AS keskmine_tellimus
+    FROM customers c
+    JOIN sales s
+        ON c.customer_id = s.customer_id
+    WHERE s.sale_date >= '2024-01-01'
+      AND s.sale_date < '2025-01-01'
+    GROUP BY c.city
+    HAVING COUNT(DISTINCT s.sale_id) > 5
+),
+linna_järjestus AS (
+    -- CTE 2: järjestame linnad käibe järgi
+    SELECT
+        linn,
+        tellimusi,
+        kogukäive,
+        keskmine_tellimus,
+        ROW_NUMBER() OVER (
+            ORDER BY kogukäive DESC
+        ) AS koht
+    FROM linna_müük
+),
+top_linnad AS (
+    -- CTE 3: valime TOP 5 linna
+    SELECT *
+    FROM linna_järjestus
+    WHERE koht <= 5
+),
+igakuine_müük AS (
+    -- CTE 4: arvutame igakuise käibe linnade kaupa
+    SELECT
+        c.city AS linn,
+        DATE_TRUNC('month', s.sale_date)::date AS kuu,
+        SUM(s.total_price) AS kuukäive
+    FROM customers c
+    JOIN sales s
+        ON c.customer_id = s.customer_id
+    WHERE s.sale_date >= '2024-01-01'
+      AND s.sale_date < '2025-01-01'
+    GROUP BY
+        c.city,
+        DATE_TRUNC('month', s.sale_date)::date
+)
+SELECT
+    t.koht,
+    t.linn,
+    t.tellimusi,
+    t.kogukäive,
+    t.keskmine_tellimus,
+    i.kuu,
+    i.kuukäive
+FROM top_linnad t
+JOIN igakuine_müük i
+    ON t.linn = i.linn
+ORDER BY
+    t.koht,
+    i.kuu;
+
+-- lisan eelnevale iga linna osakaalu kogu käibest (protsentides)
+WITH linna_müük AS (
+    -- CTE 1: iga linna kogumüük
+    SELECT
+        c.city AS linn,
+        COUNT(DISTINCT s.sale_id) AS tellimusi,
+        SUM(s.total_price) AS kogukäive,
+        ROUND(AVG(s.total_price), 2) AS keskmine_tellimus
+    FROM customers c
+    JOIN sales s
+        ON c.customer_id = s.customer_id
+    WHERE s.sale_date >= '2024-01-01'
+      AND s.sale_date < '2025-01-01'
+    GROUP BY c.city
+    HAVING COUNT(DISTINCT s.sale_id) > 5
+),
+linna_järjestus AS (
+    -- CTE 2: arvutame käibe osakaalu protsentides
+    -- ja järjestame linnad käibe järgi
+    SELECT
+        linn,
+        tellimusi,
+        kogukäive,
+        keskmine_tellimus,
+        TO_CHAR(
+            100.0 * kogukäive / SUM(kogukäive) OVER (),
+            'FM999999990.00'
+        ) || '%' AS käibe_osakaal,
+        ROW_NUMBER() OVER (
+            ORDER BY kogukäive DESC
+        ) AS koht
+    FROM linna_müük
+),
+top_linnad AS (
+    -- CTE 3: valime TOP 5 linna
+    SELECT *
+    FROM linna_järjestus
+    WHERE koht <= 5
+),
+igakuine_müük AS (
+    -- CTE 4: arvutame igakuise käibe linnade kaupa
+    SELECT
+        c.city AS linn,
+        DATE_TRUNC('month', s.sale_date)::date AS kuu,
+        SUM(s.total_price) AS kuukäive
+    FROM customers c
+    JOIN sales s
+        ON c.customer_id = s.customer_id
+    WHERE s.sale_date >= '2024-01-01'
+      AND s.sale_date < '2025-01-01'
+    GROUP BY
+        c.city,
+        DATE_TRUNC('month', s.sale_date)::date
+)
+SELECT
+    t.koht,
+    t.linn,
+    t.tellimusi,
+    t.kogukäive,
+    t.käibe_osakaal,
+    t.keskmine_tellimus,
+    i.kuu,
+    i.kuukäive
+FROM top_linnad t
+JOIN igakuine_müük i
+    ON t.linn = i.linn
+ORDER BY
+    t.koht,
+    i.kuu;
+
+-- Lisan eelnevale viimase kuu käive vs ülejäänud kuude keskmine
+WITH linna_müük AS (
+    -- CTE 1: iga linna kogumüük
+    SELECT
+        c.city AS linn,
+        COUNT(DISTINCT s.sale_id) AS tellimusi,
+        SUM(s.total_price) AS kogukäive,
+        ROUND(AVG(s.total_price), 2) AS keskmine_tellimus
+    FROM customers c
+    JOIN sales s
+        ON c.customer_id = s.customer_id
+    WHERE s.sale_date >= '2024-01-01'
+      AND s.sale_date < '2025-01-01'
+    GROUP BY c.city
+    HAVING COUNT(DISTINCT s.sale_id) > 5
+),
+linna_järjestus AS (
+    -- CTE 2: arvutame käibe osakaalu ja järjestame linnad
+    SELECT
+        linn,
+        tellimusi,
+        kogukäive,
+        keskmine_tellimus,
+        TO_CHAR(
+            100.0 * kogukäive / SUM(kogukäive) OVER (),
+            'FM999999990.00'
+        ) || '%' AS käibe_osakaal,
+        ROW_NUMBER() OVER (
+            ORDER BY kogukäive DESC
+        ) AS koht
+    FROM linna_müük
+),
+top_linnad AS (
+    -- CTE 3: valime TOP 5 linna
+    SELECT *
+    FROM linna_järjestus
+    WHERE koht <= 5
+),
+igakuine_müük AS (
+    -- CTE 4: arvutame igakuise käibe linnade kaupa
+    SELECT
+        c.city AS linn,
+        DATE_TRUNC('month', s.sale_date)::date AS kuu,
+        SUM(s.total_price) AS kuukäive
+    FROM customers c
+    JOIN sales s
+        ON c.customer_id = s.customer_id
+    WHERE s.sale_date >= '2024-01-01'
+      AND s.sale_date < '2025-01-01'
+    GROUP BY
+        c.city,
+        DATE_TRUNC('month', s.sale_date)::date
+),
+viimane_kuu AS (
+    -- CTE 5: leiame iga linna viimase müügikuu
+    SELECT
+        linn,
+        MAX(kuu) AS viimane_kuu
+    FROM igakuine_müük
+    GROUP BY linn
+),
+kuude_võrdlus AS (
+    -- CTE 6: viimase kuu käive vs. varasemate kuude keskmine
+    SELECT
+        i.linn,
+        MAX(i.kuu) AS viimane_kuu,
+        MAX(i.kuukäive) FILTER (
+            WHERE i.kuu = v.viimane_kuu
+        ) AS viimase_kuu_käive,
+        ROUND(
+            AVG(i.kuukäive) FILTER (
+                WHERE i.kuu < v.viimane_kuu
+            ),
+            2
+        ) AS varasemate_kuude_keskmine
+    FROM igakuine_müük i
+    JOIN viimane_kuu v
+        ON i.linn = v.linn
+    GROUP BY
+        i.linn,
+        v.viimane_kuu
+)
+SELECT
+    t.koht,
+    t.linn,
+    t.tellimusi,
+    t.kogukäive,
+    t.käibe_osakaal,
+    t.keskmine_tellimus,
+    i.kuu,
+    i.kuukäive,
+    k.viimane_kuu,
+    k.viimase_kuu_käive,
+    k.varasemate_kuude_keskmine,
+    ROUND(
+        k.viimase_kuu_käive - k.varasemate_kuude_keskmine,
+        2
+    ) AS käibe_erinevus
+FROM top_linnad t
+JOIN igakuine_müük i
+    ON t.linn = i.linn
+JOIN kuude_võrdlus k
+    ON t.linn = k.linn
+ORDER BY
+    t.koht,
+    i.kuu;
+
+-- lisan eelnenule täienduse, et kuvaks summasid kohe 123 456 EUR kujul
+WITH linna_müük AS (
+    -- CTE 1: iga linna kogumüük
+    SELECT
+        c.city AS linn,
+        COUNT(DISTINCT s.sale_id) AS tellimusi,
+        SUM(s.total_price) AS kogukäive,
+        ROUND(AVG(s.total_price), 2) AS keskmine_tellimus
+    FROM customers c
+    JOIN sales s
+        ON c.customer_id = s.customer_id
+    WHERE s.sale_date >= '2024-01-01'
+      AND s.sale_date < '2025-01-01'
+    GROUP BY c.city
+    HAVING COUNT(DISTINCT s.sale_id) > 5
+),
+linna_järjestus AS (
+    -- CTE 2: käibe osakaal ja linnade järjestus
+    SELECT
+        linn,
+        tellimusi,
+        kogukäive,
+        keskmine_tellimus,
+        TO_CHAR(
+            100.0 * kogukäive / NULLIF(SUM(kogukäive) OVER (), 0),
+            'FM999999990.00'
+        ) || '%' AS käibe_osakaal,
+        ROW_NUMBER() OVER (
+            ORDER BY kogukäive DESC
+        ) AS koht
+    FROM linna_müük
+),
+top_linnad AS (
+    -- CTE 3: valime TOP 5 linna
+    SELECT *
+    FROM linna_järjestus
+    WHERE koht <= 5
+),
+igakuine_müük AS (
+    -- CTE 4: igakuine käive linnade kaupa
+    SELECT
+        c.city AS linn,
+        DATE_TRUNC('month', s.sale_date)::date AS kuu,
+        SUM(s.total_price) AS kuukäive
+    FROM customers c
+    JOIN sales s
+        ON c.customer_id = s.customer_id
+    WHERE s.sale_date >= '2024-01-01'
+      AND s.sale_date < '2025-01-01'
+    GROUP BY
+        c.city,
+        DATE_TRUNC('month', s.sale_date)::date
+),
+viimane_kuu AS (
+    -- CTE 5: iga linna viimane müügikuu
+    SELECT
+        linn,
+        MAX(kuu) AS viimane_kuu
+    FROM igakuine_müük
+    GROUP BY linn
+),
+kuude_võrdlus AS (
+    -- CTE 6: viimase kuu käive ja varasemate kuude keskmine
+    SELECT
+        i.linn,
+        v.viimane_kuu,
+        MAX(i.kuukäive) FILTER (
+            WHERE i.kuu = v.viimane_kuu
+        ) AS viimase_kuu_käive,
+        ROUND(
+            AVG(i.kuukäive) FILTER (
+                WHERE i.kuu < v.viimane_kuu
+            ),
+            2
+        ) AS varasemate_kuude_keskmine
+    FROM igakuine_müük i
+    JOIN viimane_kuu v
+        ON i.linn = v.linn
+    GROUP BY
+        i.linn,
+        v.viimane_kuu
+)
+SELECT
+    t.koht,
+    t.linn,
+    t.tellimusi,
+
+    -- Linna kogukäive, täisarvuna ja EUR-märgisega
+    REPLACE(
+        TO_CHAR(ROUND(t.kogukäive), 'FM999G999G999G999G990'),
+        ',',
+        ' '
+    ) || ' EUR' AS kogukäive,
+
+    t.käibe_osakaal,
+
+    -- Keskmine tellimus
+    REPLACE(
+        TO_CHAR(ROUND(t.keskmine_tellimus), 'FM999G999G999G999G990'),
+        ',',
+        ' '
+    ) || ' EUR' AS keskmine_tellimus,
+
+    i.kuu,
+
+    -- Igakuine käive
+    REPLACE(
+        TO_CHAR(ROUND(i.kuukäive), 'FM999G999G999G999G990'),
+        ',',
+        ' '
+    ) || ' EUR' AS kuukäive,
+
+    k.viimane_kuu,
+
+    -- Viimase kuu käive
+    REPLACE(
+        TO_CHAR(ROUND(k.viimase_kuu_käive), 'FM999G999G999G999G990'),
+        ',',
+        ' '
+    ) || ' EUR' AS viimase_kuu_käive,
+
+    -- Varasemate kuude keskmine käive
+    REPLACE(
+        TO_CHAR(
+            ROUND(k.varasemate_kuude_keskmine),
+            'FM999G999G999G999G990'
+        ),
+        ',',
+        ' '
+    ) || ' EUR' AS varasemate_kuude_keskmine,
+
+    -- Viimase kuu käibe erinevus keskmisest
+    REPLACE(
+        TO_CHAR(
+            ROUND(
+                k.viimase_kuu_käive - k.varasemate_kuude_keskmine
+            ),
+            'FM999G999G999G999G990'
+        ),
+        ',',
+        ' '
+    ) || ' EUR' AS käibe_erinevus
+
+FROM top_linnad t
+JOIN igakuine_müük i
+    ON t.linn = i.linn
+JOIN kuude_võrdlus k
+    ON t.linn = k.linn
+ORDER BY
+    t.koht,
+    i.kuu;
+
 
