@@ -53,7 +53,7 @@ TABEL: *products_test*
 
 Muudeti 0-hinnaga tooted NULL-iks.
 
-[SQL koondpäring](w2_NULL_query.sql)
+[SQL koondpäring](./w2_NULL_query.sql)
 
 ---
 
@@ -61,6 +61,7 @@ Muudeti 0-hinnaga tooted NULL-iks.
 
 TABEL: *sales_test* : vormindati kuupäevad. <br>
 TABEL: *customers_test* : leiti linnanimede teisendid ja koostati SQL päring nende ühtlustamiseks.
+TABEL: *products_test* : kontrolliti hinnaveeru tüüpe ja väärtusi.
 
 | linn       | kliente | teisendeid |
 | ---------- | -------: | :--------: |
@@ -77,4 +78,4 @@ TABEL: *customers_test* : leiti linnanimede teisendid ja koostati SQL päring ne
 | Võru       | 81      | 5          |
 | Paide      | 66      | 5          |
 
-[SQL koondpäring](w2_formats_query.sql)
+[SQL koondpäring](./w2_formats_query.sql)
