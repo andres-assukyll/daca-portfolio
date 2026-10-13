@@ -34,11 +34,11 @@ TABEL: *Sales*
 Leiti **4013** korduvat `sale_id`väärtust. Neist enim korratud, **6** korda, olid `sale_id`**2706** ja **4256**. <br>
 Uuriti korduste rahalist kogumõju ja saadi, et vahe on ca **66%**.
 
-[Duplikaadid](./w2_duplicates_query.sql)
+[SQL päring: duplikaadid](./w2_duplicates_query.sql)
 
 Leiti **509** korduvat e-posti aadressi, mis on tekkinud erineva ees- ja/või perenime teisendi tõttu.
 
-[Duplikaadid](./w2_emails_query.sql)
+[SQL päring: korduvad e-mailid](./w2_emails_query.sql)
 
 ---
 
