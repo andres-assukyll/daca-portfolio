@@ -1,14 +1,8 @@
-# 📊 Sales + Customers — Week 4
+# Sales + Customers — Week 4
 
-<p align="center">
-  <strong>Sales Analytics · Roll B – Kliendigruppide analüüs</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week4/README.md">
-    🔗 Vaata grupitööd
-  </a>
-</p>
+**Meeskond:** Sales Analytics <br>
+**Roll:** B – Kliendigruppide analüüs <br>
+**Link grupitööle:** [Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week4/README.md)
 
 ---
 
