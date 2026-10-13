@@ -1,4 +1,4 @@
-# 📊 Sales + Customers — Week 3
+# Sales + Customers — Week 3
 
 **Meeskond:** Sales Analytics <br>
 **Roll:** A – Müügi ja klientide ühendamine <br>
