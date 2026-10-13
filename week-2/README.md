@@ -8,6 +8,7 @@
 
 ## 🎯 Eesmärk 
 > *Analüüsida ja puhastada tooteandmete tabel*.
+[SQL koondpäring](./week2_products_cleaning.sql)
 
 ---
 
