@@ -9,7 +9,7 @@ Visuaali loomist seekordne ülesanne ette ei näinud.
 
 #### 💻 Tehtud SQL päringud 
 
-| koht | linn     | tellimusi | kogukäive   | käibe_osakaal | keskmine_tellimus | kuu        | kuukäive   | viimane_kuu | viimase_kuu_käive | varasemate_kuude_keskmine | käibe_erinevus |
+| Koht | Linn     | Tellimusi | Kogukäive   | Osakaal | Tellimus(AVG) | Kuu        | Kuukäive   | Viimane kuu | Viimase kuu käive | Varasem kuukeskmine | Käibe erinevus |
 | ---- | -------- | --------- | ----------- | ------------- | ----------------- | ---------- | ---------- | ----------- | ----------------- | ------------------------- | -------------- |
 | 1    | Tallinn  | 1800      | 499 653 EUR | 37.83%        | 278 EUR           | 2024-01-01 | 27 634 EUR | 2024-12-01  | 56 490 EUR        | 40 288 EUR                | 16 202 EUR     |
 | 1    | Tallinn  | 1800      | 499 653 EUR | 37.83%        | 278 EUR           | 2024-02-01 | 28 358 EUR | 2024-12-01  | 56 490 EUR        | 40 288 EUR                | 16 202 EUR     |
