@@ -16,6 +16,9 @@
 
 > Analüüsida klientidega seotud müügiandmeid. Leida **TOP 10 klienti kogumüügi järgi**.
 
+[SQL põhipäringud](week3_roll_a_myyk_kliendid.sql) <br>
+[SQL lisapäringud](week3_lisa_roll_a_myyk_kliendid.sql)
+
 ---
 
 # 🏆 TOP 10
