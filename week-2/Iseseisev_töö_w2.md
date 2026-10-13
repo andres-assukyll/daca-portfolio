@@ -58,3 +58,21 @@ Muudeti 0-hinnaga tooted NULL-iks.
 ---
 
 ### 🔄 OSA 3. Andmeformaadid ja tüübikonversioonid
+
+TABEL: *sales_test* : vormindati kuupäevad. <br>
+TABEL: *customers_test* : leiti linnanimede teisendid ja koostati SQL päring nende ühtlustamiseks.
+
+| linn       | kliente | teisendeid |
+| ---------- | -------: | :--------: |
+| Tallinn    | 1238    | 5          |
+| Tartu      | 658     | 5          |
+| Pärnu      | 346     | 5          |
+| Narva      | 177     | 4          |
+| Viljandi   | 112     | 5          |
+| Rakvere    | 107     | 5          |
+| Kuressaare | 98      | 5          |
+| Valga      | 94      | 2          |
+| Haapsalu   | 90      | 4          |
+| Jõhvi      | 83      | 4          |
+| Võru       | 81      | 5          |
+| Paide      | 66      | 5          |
