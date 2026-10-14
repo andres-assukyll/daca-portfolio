@@ -1,4 +1,4 @@
-## 📊 RMF-ANALÜÜS
+### 📊 RMF-analüüsi tulemused
 ![](./img/d1.png) <br>
 ![](./img/d2.png) <br>
 ![](./img/d3.png)
