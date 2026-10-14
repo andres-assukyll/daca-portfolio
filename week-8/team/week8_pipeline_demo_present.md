@@ -44,7 +44,7 @@ python3 pipeline.py \
 - [Mai 2023 tulemused](../../docs/kpi_summary_20261007_2023May.html)
 
 #### 📅 [Nädalapõhise müügitulu raportid]
-- [Jaanuar 2023 tulemused](../../vweekly_revenue_20261007_2023Jan.html)
+- [Jaanuar 2023 tulemused](../../docs/weekly_revenue_20261007_2023Jan.html)
 - [Märts 2023 tulemused](../../docs/weekly_revenue_20261007_2023Mar.html)
 - [Mai 2023 tulemused](../../docs/weekly_revenue_20261007_2023May.html)
 
