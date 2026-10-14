@@ -1,10 +1,10 @@
-### 📊 RMF-analüüsi tulemused
+## 📊 RMF-analüüsi tulemused
 
-#### Segmenteerimine
+### 🗂️ Klientide jaotamine
 
 2540 unikaalset klienti jaotati ostude hiljutisuse, sageduse ja rahalise väärtuse põhjal viide ligikaudu võrdse suurusega segmenti. Edasiseks visualiseerimiseks koostati täiendavalt lisaks ka RFM-andmeid sisaldav CSV-fail.
 
-#### Graafikud
+### 🎨 Visualiseerimine
 
 ![](./img/d1.png) <br>
 ![](./img/d2.png) <br>
