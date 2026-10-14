@@ -1,4 +1,4 @@
-# Python : RFM analüüs — Week 7
+# Python : RFM-analüüs — Week 7
 
 **Meeskond:** Sales Analytics <br>
 **Roll:** A – Andmete laadimine ja puhastamine <br>
