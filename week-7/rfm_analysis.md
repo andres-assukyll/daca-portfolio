@@ -3,7 +3,7 @@
 ![](./img/d2.png) <br>
 ![](./img/d3.png)
 
-### Soovitused
+### 💡 Soovitused
 ✨ **VIP programm**: paku klientidele varajast ligipääsu uutele kollektsioonidele ja tasuta tarnet alates kindlast ostusummast. Testi programmi 60 päeva ning mõõda kordusostumäära ja kasumit kliendi kohta.
 
 🔄 **Win-back kampaania**: saada At Risk klientidele personaalne pakkumine, näiteks 10% soodustus kehtivusega 14 päeva, ja üks meeldetuletus 7. päeval. Võrdle 30 päeva ostumäära kampaaniat mitte saanud kontrollrühmaga ning kontrolli, kas lisamüük katab soodustuse kulu.
