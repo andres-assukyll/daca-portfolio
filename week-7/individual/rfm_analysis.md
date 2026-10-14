@@ -14,13 +14,15 @@ Unikaalsed kliendid jaotati ostude hiljutisuse, sageduse ja rahalise väärtuse 
 | At Risk | 524 | 20,6% |
 | Lost | 117 | 4,6% |
 
-📓 Ava Jupyter Notebooki fail
+📓 [Jupyter Notebooki segmenteerimise fail](./individual/week7_rfm_role_A_seg.ipynb)
 
 ### 🎨 Visualiseerimine
 
 ![](./img/d1.png) <br>
 ![](./img/d2.png) <br>
 ![](./img/d3.png)
+
+📓 [Jupyter Notebooki visualiseerimise fail](./individual/week7_rfm_role_A_vis.ipynb)
 
 ### 💡 Soovitused
 
