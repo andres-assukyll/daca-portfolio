@@ -17,7 +17,7 @@ Kontrollida andmete struktuuri ja kvaliteeti ning liita tabelid üheks töötava
 
 ---
 
-## 📊 Tulemused
+## 📈 RFM-analüüsi ettevalmistus
 
 Müügi- ja kliendiandmete töötlemiseks koostati **Pythonis** andmetöötluse lahendus **Jupyter Notebooki** keskkonnas. CSV-failid laaditi **pandase DataFrame**'idesse ning kontrolliti andmete struktuuri ja kvaliteeti. Seejärel ühendati tabelid ühtseks **DataFrame**'iks ning koostati andmete **puhastusraport** edasise **RFM-analüüsi** ettevalmistamiseks.
 
