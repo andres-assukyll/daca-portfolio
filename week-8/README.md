@@ -1,4 +1,4 @@
-# Python : API ja pipline – Nädal 8
+# Python : API ja pipeline – Nädal 8
   
 **Meeskond:** Sales Analytics    
 **Roll:** B – Data processing
