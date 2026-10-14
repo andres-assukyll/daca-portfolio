@@ -24,7 +24,7 @@ Lisaks rakendada logimise funktsionaalsus (`logging`), et salvestada protsessi k
 🔗 [Vaata kogu Python koodi](individual/transform.py)
 
 
-#### ✨ **Lisaülesanded**
+### ✨ **Lisaülesanded**
 
 🔄 **Korduskatsete (*retry*) seadistuste haldamine**
 
