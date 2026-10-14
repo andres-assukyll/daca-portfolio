@@ -1,5 +1,7 @@
 # 📊 Sales Data Pipeline demo : Sales Analytics : Week 8
 
+- [📊 Jaanuar 2023 tulemused](https://andres-assukyll.github.io/daca-portfolio/kpi_summary_20261007_2023Jan.html)
+
 ## 📝 Projekti ülevaade
 
 See projekt hõlmab ETL-pipeline’i loomist, mille eesmärk on hankida müügi- ja kliendiandmed Supabase’ist, need valideerida ja puhastada: Seejärel arvutada nädalapõhiseid müügi koondnäitajad ja peamised tulemusnäitajad (KPI-d) ning eksportida tulemused CSV-failide ja graafikutena.
