@@ -30,13 +30,19 @@ Lisaks rakendada logimise funktsionaalsus (`logging`), et salvestada protsessi k
 
 Lisada `data_fetcher.py` faili funktsioon `get_retry_settings()`, mis loeb `config.yaml` failist andmete päringute korduskatsete seadistused, sealhulgas maksimaalse korduskatsete arvu (`max_retries`) ja korduskatsete vahelise viivituse (`retry_delay_seconds`). Luua eraldi `config.yaml` konfiguratsioonifail, et korduskatsete parameetreid saaks hallata ja muuta Python-koodi väliselt. Hoida seadistuste lugemise funktsioon eraldi, et selle vastutus oleks selgelt piiritletud ning konfiguratsiooni kasutamine lihtsasti hallatav.
 
+🔗 [Vaata retry funktsiooni](individual/data_fetcher_retry.py)
+
 ⚙️ **Töödeldava perioodi valik ja ETL-pipeline'i täiendamine**
 
 Täiendada `pipeline.py` faili käsurea argumentide töötlemisega, kasutades `argparse` moodulit. Lisada `--period` argument, mille kaudu saab määrata ühe või mitu andmete töötlemise perioodi. See võimaldab käivitada ETL-pipeline'i ühe käsuga ning töödelda valitud ajavahemike müügi- ja kliendiandmeid ilma iga perioodi jaoks eraldi käivitust tegemata. Tagada, et iga määratud periood läbib vajalikud andmete hankimise, puhastamise, transformeerimise, analüüsi ja tulemuste väljastamise etapid.
+
+🔗 [Vaata perioodi argumenti](individual/pipeline_period.py)
 
 📧 **Kogu pipeline'i tulemusi koondav teavitus e-kirja teel**
 
 Lisada `pipeline.py` faili e-kirja teavituse funktsionaalsus, mis koondab ühe käivitamise käigus töödeldud perioodide tulemused ühte kokkuvõtvasse e-kirja. Teavitus peab sisaldama töödeldud perioodide infot, peamisi tulemusi ja KPI-sid, loodud väljundfailide asukohti ning vajaduse korral infot töötlemise käigus tekkinud vigade kohta. Kujundada teavituse sisu nii, et see annaks kiire ülevaate kogu pipeline'i käivitamise tulemusest, mitte ainult üksiku perioodi töötlemisest.
 
 Lisada käivitamise lõpus üldise staatuse määramine (`SUCCESS`, `WARNING` või `FAILURE`), et eristada edukat töötlemist, osaliste probleemidega käivitamist ja ebaõnnestumist. Saata koondteavitus pärast perioodide töötlemist ning kuvada lõplik staatus ka terminalis. Eesmärk on muuta andmetöötlusprotsess paremini jälgitavaks, lihtsamini hallatavaks ja automatiseerimiseks sobivaks.
+
+🔗 [Vaata e-kirja teavituse koodi](individual/transform.py)
 
