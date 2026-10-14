@@ -26,7 +26,7 @@ python3 pipeline.py \
 ### 📈 Tulemused
 
 | Periood | Müügikirjed | Kogutulu | Unikaalsed kliendid | Keskmine tellimus |
-|---|---:|---:|---:|---:|
+|---|---:|:---:|---:|:---:|
 | Jaanuar 2023 | 261 | €79,735.03 | 217 | €305.50 |
 | Märts 2023 | 343 | €91,499.55 | 283 | €266.76 |
 | Mai 2023 | 343 | €95,316.25 | 277 | €277.89 |
