@@ -1,7 +1,7 @@
 # Python : API ja pipeline – Nädal 8
   
 **Meeskond:** Sales Analytics    
-**Roll:** B – Data processing
+**Roll:** B – Data processing <br>
 **Link grupitööle:** [Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week8/README.md)
 
 ---
