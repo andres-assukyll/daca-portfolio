@@ -39,14 +39,14 @@ python3 pipeline.py \
 - [Mai 2023 tulemused](output/results_20261007_2023May.csv)
 
 #### 📈 KPI raportid
-- [Jaanuar 2023 tulemused](output/docs/kpi_summary_20261007_2023Jan.html)
-- [Märts 2023 tulemused](output/kpi_summary_20261007_2023Mar.html)
-- [Mai 2023 tulemused](output/kpi_summary_20261007_2023May.html)
+- [Jaanuar 2023 tulemused](../../docs/kpi_summary_20261007_2023Jan.html)
+- [Märts 2023 tulemused](../../kpi_summary_20261007_2023Mar.html)
+- [Mai 2023 tulemused](../../kpi_summary_20261007_2023May.html)
 
 #### 📅 [Nädalapõhise müügitulu raportid]
-- [Jaanuar 2023 tulemused](output/docs/weekly_revenue_20261007_2023Jan.html)
-- [Märts 2023 tulemused](output/weekly_revenue_20261007_2023Mar.html)
-- [Mai 2023 tulemused](output/weekly_revenue_20261007_2023May.html)
+- [Jaanuar 2023 tulemused](../../weekly_revenue_20261007_2023Jan.html)
+- [Märts 2023 tulemused](../../weekly_revenue_20261007_2023Mar.html)
+- [Mai 2023 tulemused](../../weekly_revenue_20261007_2023May.html)
 
 
 ## 📧 Saadetud e-kirja teavitus
