@@ -22,8 +22,7 @@ Koostada `transform.py` fail, mis impordib müügi- ja kliendiandmed `data_fetch
 Lisaks rakendada logimise funktsionaalsus (`logging`), et salvestada protsessi käigus olulised sündmused, teated ja vead ning lihtsustada andmetöötluse jälgimist ja probleemide tuvastamist.
 
 🔗 [Vaata kogu Python koodi](individual/transform.py)
-    ...
-</details>
+
 
 #### ✨ **Lisaülesanded**
 
