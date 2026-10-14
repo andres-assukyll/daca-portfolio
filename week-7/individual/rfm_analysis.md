@@ -1,8 +1,18 @@
 ## 📊 RMF-analüüsi tulemused
 
+Analüüs hõlmab 2540 ostnud klienti ja 8923 positiivset müügikirjet.
+
 ### 🗂️ Klientide jaotamine
 
 2540 unikaalset klienti jaotati ostude hiljutisuse, sageduse ja rahalise väärtuse põhjal viide ligikaudu võrdse suurusega segmenti. Edasiseks visualiseerimiseks koostati täiendavalt lisaks ka RFM-andmeid sisaldav CSV-fail.
+
+| Kliendisegment | Kliente | Osakaal |
+|---|---:|---:|
+| VIP Champions | 453 | 17,8% |
+| Loyal | 678 | 26,7% |
+| Potential | 768 | 30,2% |
+| At Risk | 524 | 20,6% |
+| Lost | 117 | 4,6% |
 
 ### 🎨 Visualiseerimine
 
