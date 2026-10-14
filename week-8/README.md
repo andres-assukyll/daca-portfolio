@@ -1,4 +1,4 @@
-# Nädal 8: Python API
+# Python API – Nädal 8
 
 **Nimi:** Andres Assuküll   
 **Meeskond:** Sales Analytics    
