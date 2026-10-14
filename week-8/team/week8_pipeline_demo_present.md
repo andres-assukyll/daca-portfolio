@@ -38,4 +38,5 @@ python3 pipeline.py \
 
 ## ✅ Staatus
 
-**SUCCESS** — pipeline käivitati edukalt ning tulemused genereeriti kõigi kolme perioodi kohta. Lõpetamisel saadetakse e-kirjaga tulemuste kokkuvõte.
+**SUCCESS** — pipeline käivitati edukalt ning tulemused genereeriti kõigi kolme perioodi kohta. Lõpetamisel saadeti tulemuste kokkuvõte e-kirja teel. <br>
+👉 [Vaata e-kirja teavituse näidist grupitöös](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week8/README.md#-e-kirja-teavitus-success)
