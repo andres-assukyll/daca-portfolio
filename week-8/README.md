@@ -1,8 +1,11 @@
-# Python API – Nädal 8
+# Python : API ja pipline – Nädal 8
 
 **Nimi:** Andres Assuküll   
 **Meeskond:** Sales Analytics    
 **Roll:** B – Data processing
+**Link grupitööle:** [Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week8/README.md)
+
+---
 <br>
 
 ### 📋 LÜHIKOKKUVÕTE
