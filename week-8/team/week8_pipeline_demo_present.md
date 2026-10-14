@@ -34,9 +34,9 @@ python3 pipeline.py \
 ## 📁 Väljundfailid
 
 #### 📂 CSV failid
-- [Jaanuar 2023 tulemused](output/results_20261014_2023Jan.csv)
-- [Märts 2023 tulemused](output/results_20261014_2023Mar.csv)
-- [Mai 2023 tulemused](output/results_20261014_2023May.csv)
+- [Jaanuar 2023 tulemused](output/results_20261007_2023Jan.csv)
+- [Märts 2023 tulemused](output/results_20261007_2023Mar.csv)
+- [Mai 2023 tulemused](output/results_20261007_2023May.csv)
 
 #### 📈 KPI raportid
 - [Jaanuar 2023 tulemused](output/kpi_summary_20261007_2023Jan)
