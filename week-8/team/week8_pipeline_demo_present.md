@@ -39,12 +39,12 @@ python3 pipeline.py \
 - [Mai 2023 tulemused](output/results_20261007_2023May.csv)
 
 #### 📈 KPI raportid
-- [Jaanuar 2023 tulemused](output/kpi_summary_20261007_2023Jan)
+- [Jaanuar 2023 tulemused](output/docs/kpi_summary_20261007_2023Jan)
 - [Märts 2023 tulemused](output/kpi_summary_20261007_2023Mar)
 - [Mai 2023 tulemused](output/kpi_summary_20261007_2023May)
 
 #### 📅 [Nädalapõhise müügitulu raportid]
-- [Jaanuar 2023 tulemused](output/weekly_revenue_20261007_2023Jan)
+- [Jaanuar 2023 tulemused](output/docs/weekly_revenue_20261007_2023Jan)
 - [Märts 2023 tulemused](output/weekly_revenue_20261007_2023Mar)
 - [Mai 2023 tulemused](output/weekly_revenue_20261007_2023May)
 
