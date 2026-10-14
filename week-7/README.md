@@ -21,4 +21,4 @@ Kontrollida andmete struktuuri ja kvaliteeti ning liita tabelid üheks töötava
 
 Koostati...
 
-📓 [Ava Jupyter Notebook – RFM analüüs](week7_rfm_role_A.ipynb)
+📓 [Ava Jupyter Notebook fail](week7_rfm_role_A.ipynb)
