@@ -1,0 +1,190 @@
+
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>STAR Interview | Week 9</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="./star.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="./index.html">Hiring Toolkit</a>
+      <span class="header-tag">STAR INTERVIEW</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="page-intro">
+      <a class="back-link" href="./index.html">← Kõik tööriistad</a>
+      <h1>STAR Interview</h1>
+      <p>
+        Kogu kandidaadi käitumise kohta konkreetseid tõendeid.
+        Erista olukorra kirjeldus kandidaadi enda tegevusest
+        ja saavutatud tulemusest.
+      </p>
+    </section>
+
+    <div class="layout">
+      <div class="main-column">
+        <section class="panel">
+          <h2>Intervjuu andmed</h2>
+          <div class="field">
+            <label for="candidateName">Kandidaadi nimi või ID *</label>
+            <input id="candidateName" required
+              placeholder="Kasuta Scorecardiga sama kandidaati">
+          </div>
+          <div class="field">
+            <label for="position">Ametikoht</label>
+            <input id="position" placeholder="Ametikoha nimetus">
+          </div>
+          <div class="field">
+            <label for="interviewer">Intervjueerija</label>
+            <input id="interviewer" placeholder="Intervjueerija nimi">
+          </div>
+          <p class="help-text">
+            Kasuta STAR- ja Scorecard-vormis sama kandidaadi nime või ID-d.
+            Mõlemad vormid kasutavad ühist brauserisalvestust.
+          </p>
+        </section>
+
+        <section class="panel">
+          <h2>Vali hinnatav kompetents</h2>
+          <div id="competencyTabs" class="star-tabs"></div>
+          <div class="status" id="questionPrompt"></div>
+
+          <div class="field" style="margin-top:20px">
+            <label for="customQuestion">Intervjuuküsimus</label>
+            <textarea id="customQuestion" rows="3"></textarea>
+          </div>
+
+          <div class="star-field">
+            <h3>S — Situation (olukord)</h3>
+            <p class="help-text">
+              Milline oli olukord? Millal ja mis kontekstis see juhtus?
+            </p>
+            <textarea id="situation"
+              placeholder="Kirjelda olukorda ja konteksti..."></textarea>
+          </div>
+
+          <div class="star-field">
+            <h3>T — Task (ülesanne)</h3>
+            <p class="help-text">
+              Milline oli kandidaadi ülesanne, eesmärk või vastutus?
+            </p>
+            <textarea id="task"
+              placeholder="Millist eesmärki tuli saavutada?"></textarea>
+          </div>
+
+          <div class="star-field">
+            <h3>A — Action (tegevus)</h3>
+            <p class="help-text">
+              Mida kandidaat isiklikult tegi? Milliseid otsuseid ja samme ta kirjeldab?
+            </p>
+            <textarea id="action"
+              placeholder="Kirjelda kandidaadi enda tegevust..."></textarea>
+          </div>
+
+          <div class="star-field">
+            <h3>R — Result (tulemus)</h3>
+            <p class="help-text">
+              Mis oli tulemus? Kas see oli mõõdetav ja mida kandidaat õppis?
+            </p>
+            <textarea id="result"
+              placeholder="Tulemus, mõju, mõõdikud ja õppetunnid..."></textarea>
+          </div>
+
+          <div class="field">
+            <label for="followUp">Täpsustavad küsimused ja puuduv info</label>
+            <textarea id="followUp"
+              placeholder="Mida tuleks veel küsida või kontrollida?"></textarea>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>Kompetentsi hinnang</h2>
+          <div class="field">
+            <label for="starScore">Hinne (1–5)</label>
+            <select id="starScore">
+              <option value="">Vali hinne</option>
+              <option value="1">1 — Puudulik tõendus</option>
+              <option value="2">2 — Osaline tõendus</option>
+              <option value="3">3 — Piisav tõendus</option>
+              <option value="4">4 — Tugev tõendus</option>
+              <option value="5">5 — Väga tugev tõendus</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="evidence">Hinde põhjendus</label>
+            <textarea id="evidence"
+              placeholder="Millised konkreetsed näited toetavad hinnet?"></textarea>
+          </div>
+          <div class="button-row">
+            <button type="button" id="saveButton">Salvesta STAR-vastus</button>
+            <button type="button" class="secondary"
+              id="exportButton">Ekspordi JSON</button>
+            <button type="button" class="secondary"
+              id="printButton">Prindi / PDF</button>
+          </div>
+          <p id="saveStatus" class="status" role="status"
+            aria-live="polite">Valmis.</p>
+        </section>
+      </div>
+
+      <aside class="side-column">
+        <section class="panel">
+          <h2>STAR-meetod</h2>
+          <p><strong>S — Situation</strong><br>
+            <span class="muted">Milline oli olukord?</span></p>
+          <p><strong>T — Task</strong><br>
+            <span class="muted">Milline oli ülesanne?</span></p>
+          <p><strong>A — Action</strong><br>
+            <span class="muted">Mida kandidaat tegi?</span></p>
+          <p><strong>R — Result</strong><br>
+            <span class="muted">Milline oli tulemus?</span></p>
+        </section>
+
+        <section class="panel">
+          <h2>Intervjuu kontrollnimekiri</h2>
+          <p class="help-text">
+            Kas kandidaat kirjeldas enda tegevust, mitte ainult
+            meeskonna tegevust? Kas tulemus oli konkreetne?
+          </p>
+          <label class="rating-option">
+            <input type="checkbox" id="checkSpecific">
+            Konkreetsed näited
+          </label>
+          <label class="rating-option">
+            <input type="checkbox" id="checkOwnership">
+            Isiklik panus
+          </label>
+          <label class="rating-option">
+            <input type="checkbox" id="checkResult">
+            Selge tulemus
+          </label>
+          <label class="rating-option">
+            <input type="checkbox" id="checkEvidence">
+            Hinnet toetavad tõendid
+          </label>
+        </section>
+
+        <section class="panel">
+          <h2>Jätka hindamist</h2>
+          <p class="help-text">
+            Ava Scorecard, et vaadata kõigi kompetentside
+            koondhinnet ja lisada lõplik värbamissoovitus.
+          </p>
+          <a class="button" href="./scorecard.html">Ava Scorecard →</a>
+        </section>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">Week 9 · STAR Interview</div>
+  </footer>
+</body>
+</html>
+
