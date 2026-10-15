@@ -35,23 +35,23 @@ Hea kandidaat kirjeldab oma projekte selgelt ja loogiliselt. Tema portfoolio võ
 - 💡 Milliseid järeldusi saab tulemustest teha?
 - ⚠️ Millised olid analüüsi piirangud?
 
-**UrbanStyle'i näide:** kandidaat selgitab, kuidas e-poe ja füüsiliste kaupluste müügi võrdlus aitab hinnata eri müügikanalite tulemuslikkust.
+Nt selgitab sobilik kandidaat, kuidas e-poe ja füüsiliste kaupluste müügi võrdlus aitab hinnata eri müügikanalite tulemuslikkust.
 
-Remote-töös on olulised selge ingliskeelne suhtlus, otsuste dokumenteerimine ja oskus jagada infot nii, et kolleegid saaksid sellega tutvuda ka hiljem.
+Kaugtöös on olulised: selge **ingliskeelne suhtlus**, **otsuste dokumenteerimine** ja **info jagamise oskus** kolleegidele hilisemaks tutvumiseks.
 
 ### 🔍 2.2. Probleemilahendus
 
-Loogilist mõtlemist näitab oskus sõnastada uurimisküsimus, jagada probleem väiksemateks osadeks ning kontrollida andmete kvaliteeti enne järelduste tegemist.
+Loogilist mõtlemist näitab oskus sõnastada uurimisküsimus(ed), jagada need väiksemateks osadeks ning kontrollida andmete kvaliteeti enne järelduste tegemist.
 
 Hea kandidaat:
 
-- 🔎 kontrollib puuduvaid väärtusi ja võimalikke vigu;
-- 🧩 jagab keeruka probleemi väiksemateks ülesanneteks;
-- ⚖️ põhjendab analüüsimeetodi valikut;
-- 📈 eristab andmetest nähtavaid seoseid tõendatud põhjustest;
+- 🔎 kontrollib puuduvaid väärtusi ja võimalikke vigu,
+- 🧩 jagab keeruka probleemi väiksemateks ülesanneteks,
+- ⚖️ põhjendab analüüsimeetodi valikut,
+- 📈 eristab andmetest nähtavaid seoseid tõendatud põhjustest,
 - 📝 kirjeldab tulemuste piiranguid ja võimalikke järgmisi samme.
 
-**UrbanStyle'i näide:** enne müügikanalite võrdlemist kontrollib kandidaat, kas perioodid on võrreldavad ning kas tagastused või puuduvad väärtused võivad tulemust mõjutada.
+Nt kontrollib sobilik kandidaat enne müügikanalite võrdlemist, kas perioodid on võrreldavad ning kas tagastused või puuduvad väärtused võivad tulemust mõjutada.
 
 ### 🤝 2.3. Meeskonnatöö
 
@@ -59,13 +59,13 @@ Koostööoskust näitavad avatud suhtlus, tagasiside arvestamine, teadmiste jaga
 
 Positiivsed märgid:
 
-- 👂 kandidaat kuulab teiste ettepanekuid ja arvestab põhjendatud tagasisidega;
-- 🗣️ selgitab analüüsi tulemusi ka mittetehnilistele kolleegidele;
-- 🧑‍🤝‍🧑 tunnustab teiste panust ja lahendab erimeelsusi konstruktiivselt;
-- 📋 hoiab Jira või Linear ülesanded ajakohasena;
+- 👂 kandidaat kuulab teiste ettepanekuid ja arvestab põhjendatud tagasisidega,
+- 🗣️ selgitab analüüsi tulemusi ka mittetehnilistele kolleegidele,
+- 🧑‍🤝‍🧑 tunnustab teiste panust ja lahendab erimeelsusi konstruktiivselt,
+- 📋 hoiab Jira või Linear ülesanded ajakohasena,
 - 📚 dokumenteerib otsused Notionis, Confluence'is või Google Docsis.
 
-**UrbanStyle'i näide:** kandidaat teeb koostööd turundus- või müügitiimiga ning kohandab oma analüüsi esitlust vastavalt nende vajadustele.
+Sobilik kandidaat teeb koostööd turundus- või müügitiimiga ning kohandab oma analüüsi esitlust vastavalt nende vajadustele.
 
 ### 🌱 2.4. Kultuuriline sobivus
 
@@ -105,9 +105,9 @@ Sobiv kandidaat tunnistab vigu, küsib vajaduse korral abi, võtab tagasisidest 
 
 ---
 
-## 🌍 4. Rahvusvaheline ja remote-koostöö
+## 🌍 4. Rahvusvaheline- ja kaugkoostöö
 
-UrbanStyle'i Soome ja Saksamaa remote-positsioonide puhul on oluline, et kandidaat suudaks töötada iseseisvalt ning hoida meeskonda oma tööga kursis.
+UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat suudaks töötada iseseisvalt ning hoida meeskonda oma tööga kursis.
 
 | Valdkond | Ootus kandidaadile |
 |---|---|
