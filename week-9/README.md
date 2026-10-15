@@ -1,6 +1,6 @@
 # 🏙️ UrbanStyle Junior Data Analyst värbamisjuhend – Nädal 9
 
-> **👤 Roll:** Personalijuht (People Manager)  
+> **👤 Roll:** Personalijuht
 > **🎯 Eesmärk:** Hinnata kandidaadi pehmeid oskusi, meeskonnatööd ja kultuurilist sobivust.  
 > **📌 Fookus:** Üldised värbamiskriteeriumid, mitte konkreetse inimese hindamine.
 
