@@ -140,12 +140,12 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 
 ---
 
-## 📋 5. Hin
+## 🧭 5. Kandidaadi hindamine ja struktureeritud intervjuu
 
 <details>
 <summary>Vaata kandidaatide hindamisvormi</summary>
 
-***Hiring Scorecard* — kandidaatide hindamisvorm**
+### 📋 5.1. *Hiring Scorecard* – kandidaatide hindamisvorm
 
 **Eesmärk:** võrrelda kandidaate samade kriteeriumide alusel ja dokumenteerida värbamisotsuse põhjendused.
 
@@ -200,9 +200,9 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 <details>
 <summary>Vaata STAR-maatriksit</summary>
 
-# ⭐ STAR-intervjuu maatriks – Junior Data Analyst
+### ⭐ 5.2. STAR-intervjuu maatriks – käitumuslike kompetentside hindamine
 
-## 🎯 Eesmärk
+### 🎯 Eesmärk
 
 STAR-intervjuu maatriksi eesmärk on hinnata Junior Data Analyst'i ametikohale kandideerija käitumuslikke kompetentse ja seda, kuidas ta lahendab tegelikke tööolukordi.
 
@@ -217,7 +217,7 @@ Intervjuus hinnatakse nelja põhivaldkonda:
 
 ---
 
-## 🧩 STAR-meetod
+### 🧩 STAR-meetod
 
 Iga vastuse puhul püüa tuvastada neli elementi:
 
@@ -234,7 +234,7 @@ Kõik vastused ei pea olema täiuslikult STAR-struktuuris. Eriti juuniorilt või
 
 ---
 
-## 1. 🗣️ Communication & Data Storytelling
+### 1. 🗣️ Communication & Data Storytelling
 
 ### Intervjuuküsimus
 
