@@ -143,7 +143,7 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 ## 📋 5. Hin
 
 <details>
-<submit>Vaata kandidaatide hindamisvormi</submit>
+<summary>Vaata kandidaatide hindamisvormi</summary>
 
 ***Hiring Scorecard* — kandidaatide hindamisvorm**
 
@@ -198,7 +198,7 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 </details>
 
 <details>
-<submit>Vaata STAR-maatriksit</submit>
+<summary>Vaata STAR-maatriksit</summary>
 
 # ⭐ STAR-intervjuu maatriks – Junior Data Analyst
 
