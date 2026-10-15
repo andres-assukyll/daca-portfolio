@@ -1,8 +1,8 @@
 # 🏙️ UrbanStyle Junior Data Analyst värbamisjuhend – Nädal 9
 
-> **👤 Roll:** Personalijuht <br>
-> **🎯 Eesmärk:** Hinnata kandidaadi pehmeid oskusi, meeskonnatööd ja kultuurilist sobivust.  
-> **📌 Fookus:** Üldised värbamiskriteeriumid, mitte konkreetse inimese hindamine.
+> **👤 Roll C:** Personalijuht <br>
+> **🎯 Eesmärk:** hinnata juunior andmeanalüütiku rolli jaoks olulisi suhtlemis-, probleemilahendus- ja koostööoskusi ning õppimisvalmidust.
+> **📌 Fookus:** struktureeritud ja tõenduspõhine kandidaatide hindamine, mitte konkreetse inimese isikuomaduste üldine hindamine.
 
 ---
 
