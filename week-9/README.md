@@ -108,7 +108,7 @@ Sobiv kandidaat tunnistab vigu, küsib vajaduse korral abi, võtab tagasisidest 
 
 ---
 
-## 🌍 4. Rahvusvaheline- ja kaugkoostöö
+## 🌍 4. Rahvusvaheline koostöö ja kaugtöö
 
 UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat suudaks töötada iseseisvalt ning hoida meeskonda oma tööga kursis.
 
