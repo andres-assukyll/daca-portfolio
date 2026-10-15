@@ -1,4 +1,4 @@
-# 🏙️ UrbanStyle Junior Data Analyst värbamisjuhend – Nädal 9
+# 🏙️ UrbanStyle.ltd värbamisjuhend – Nädal 9
 
 > **👤 Roll C:** Personalijuht <br>
 > **🎯 Eesmärk:** hinnata juunior andmeanalüütiku rolli jaoks olulisi suhtlemis-, probleemilahendus- ja koostööoskusi ning õppimisvalmidust.
