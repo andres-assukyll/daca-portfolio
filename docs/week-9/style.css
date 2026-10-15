@@ -1,47 +1,42 @@
 
-/* =========================================
-   UrbanStyle — Week 9 Hiring Toolkit
-   Official visual design system
-   ========================================= */
+/* ==========================================
+   UrbanStyle — Hiring Toolkit
+   UrbanStyle official color palette
+   ========================================== */
 
-/* 1. Design tokens */
+/* 1. Color palette and design variables */
 :root {
-  --color-primary: #009B8D;
-  --color-primary-dark: #007F75;
-  --color-navy: #1A1A2E;
+  --primary: #009B8D;
+  --primary-dark: #007F75;
+  --primary-light: #E2F4F1;
 
-  --color-white: #FFFFFF;
-  --color-background: #F5F5F5;
-  --color-border: #E2E5E9;
+  --navy: #1A1A2E;
+  --white: #FFFFFF;
+  --light-gray: #F5F5F5;
+  --border: #E2E5E9;
 
-  --color-success: #228B55;
-  --color-warning: #E58A26;
-  --color-neutral: #858B96;
+  --success: #228B55;
+  --success-bg: #E8F5EE;
 
-  --color-text: #1A1A2E;
-  --color-text-muted: #626978;
+  --warning: #C87919;
+  --warning-bg: #FFF3E2;
 
-  --font-family: Calibri, "Segoe UI", Arial, sans-serif;
+  --neutral: #858B96;
+  --neutral-bg: #ECEEF1;
 
-  --font-heading: 24pt;
-  --font-body: 13pt;
-  --font-label: 11pt;
+  --text: #1A1A2E;
+  --text-muted: #626978;
 
-  --radius-small: 6px;
-  --radius-medium: 12px;
-  --radius-large: 18px;
+  --font: Calibri, "Segoe UI", Arial, sans-serif;
 
-  --shadow-card: 0 4px 16px rgba(26, 26, 46, 0.07);
+  --radius-sm: 6px;
+  --radius: 12px;
+  --radius-lg: 18px;
 
-  --space-1: 4px;
-  --space-2: 8px;
-  --space-3: 12px;
-  --space-4: 16px;
-  --space-5: 24px;
-  --space-6: 32px;
+  --shadow: 0 4px 14px rgba(26, 26, 46, 0.06);
 }
 
-/* 2. Global reset and page defaults */
+/* 2. Reset */
 * {
   box-sizing: border-box;
 }
@@ -52,37 +47,26 @@ html {
 
 body {
   margin: 0;
-  font-family: var(--font-family);
-  font-size: var(--font-body);
+  font-family: var(--font);
+  font-size: 13pt;
   line-height: 1.6;
-  color: var(--color-text);
-  background: var(--color-background);
+  color: var(--text);
+  background: var(--light-gray);
 }
 
-img,
-svg {
+img {
   max-width: 100%;
+  height: auto;
 }
 
 a {
-  color: var(--color-primary-dark);
+  color: var(--primary-dark);
   text-decoration: none;
 }
 
 a:hover {
-  color: var(--color-primary);
+  color: var(--primary);
   text-decoration: underline;
-}
-
-button,
-input,
-select,
-textarea {
-  font: inherit;
-}
-
-button {
-  cursor: pointer;
 }
 
 /* 3. Main layout */
@@ -90,37 +74,59 @@ button {
 .page-container,
 main {
   width: min(1100px, calc(100% - 32px));
-  margin-inline: auto;
+  margin: 0 auto;
 }
 
 header,
 .site-header {
-  background: var(--color-white);
-  border-bottom: 3px solid var(--color-primary);
+  background: var(--white);
+  border-bottom: 3px solid var(--primary);
 }
 
 header .container,
 .site-header .container {
-  padding-block: var(--space-4);
+  padding: 16px 0;
 }
 
 section {
-  margin-block: var(--space-5);
+  margin: 24px 0;
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+
+/* 4. Cards and panels */
 .card,
 .panel,
 .scorecard,
 .star-card,
 .dashboard-card {
-  padding: var(--space-5);
-  background: var(--color-white);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-medium);
-  box-shadow: var(--shadow-card);
+  padding: 24px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
 
-/* 4. Typography */
+.card h2,
+.panel h2,
+.scorecard h2,
+.star-card h2,
+.dashboard-card h2 {
+  margin-top: 0;
+}
+
+/* 5. Typography */
 h1,
 h2,
 h3,
@@ -128,8 +134,8 @@ h4,
 h5,
 h6 {
   margin-top: 0;
-  color: var(--color-navy);
-  font-family: var(--font-family);
+  color: var(--navy);
+  font-family: var(--font);
   line-height: 1.25;
 }
 
@@ -157,72 +163,74 @@ h6 {
 
 p,
 li {
-  font-size: var(--font-body);
+  font-size: 13pt;
+}
+
+small,
+.caption,
+.help-text,
+label {
+  font-size: 11pt;
 }
 
 small,
 .caption,
 .help-text,
 .muted {
-  color: var(--color-text-muted);
+  color: var(--text-muted);
 }
 
-small,
-.caption,
-.help-text {
-  font-size: var(--font-label);
-}
-
-label,
-.field-label,
-.badge,
-.tag {
-  font-size: var(--font-label);
+label {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--navy);
   font-weight: 600;
 }
 
-/* 5. Brand accent and navigation */
+/* 6. Brand and navigation */
 .brand,
 .logo,
 .accent-text {
-  color: var(--color-primary);
+  color: var(--primary);
 }
 
 nav {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: var(--space-3);
+  gap: 16px;
 }
 
 nav a {
-  color: var(--color-navy);
+  color: var(--navy);
   font-weight: 600;
 }
 
 nav a:hover,
 nav a.active {
-  color: var(--color-primary-dark);
+  color: var(--primary-dark);
 }
 
-/* 6. Buttons */
+/* 7. Buttons */
 button,
 .btn,
 .button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: var(--space-2);
+  gap: 8px;
   min-height: 42px;
   padding: 10px 18px;
-  color: var(--color-white);
-  background: var(--color-primary);
-  border: 1px solid var(--color-primary);
-  border-radius: var(--radius-small);
+  font-family: var(--font);
+  font-size: 12pt;
   font-weight: 600;
-  text-decoration: none;
+  color: var(--white);
+  background: var(--primary);
+  border: 1px solid var(--primary);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
   transition:
-    background-color 0.2s ease,
+    background 0.2s ease,
     border-color 0.2s ease,
     transform 0.2s ease;
 }
@@ -230,9 +238,9 @@ button,
 button:hover,
 .btn:hover,
 .button:hover {
-  color: var(--color-white);
-  background: var(--color-primary-dark);
-  border-color: var(--color-primary-dark);
+  color: var(--white);
+  background: var(--primary-dark);
+  border-color: var(--primary-dark);
   text-decoration: none;
 }
 
@@ -245,37 +253,39 @@ button:active,
 .btn-secondary,
 .button-secondary,
 button.secondary {
-  color: var(--color-navy);
-  background: var(--color-white);
-  border-color: var(--color-border);
+  color: var(--navy);
+  background: var(--white);
+  border-color: var(--border);
 }
 
 .btn-secondary:hover,
 .button-secondary:hover,
 button.secondary:hover {
-  color: var(--color-navy);
-  background: var(--color-background);
-  border-color: var(--color-neutral);
+  color: var(--navy);
+  background: var(--light-gray);
+  border-color: var(--neutral);
 }
 
 button:disabled,
 .btn:disabled,
 .button:disabled {
-  cursor: not-allowed;
   opacity: 0.55;
+  cursor: not-allowed;
 }
 
-/* 7. Forms and interactive scorecard fields */
+/* 8. Forms */
 input,
 select,
 textarea {
   width: 100%;
   min-height: 42px;
   padding: 10px 12px;
-  color: var(--color-navy);
-  background: var(--color-white);
+  font-family: var(--font);
+  font-size: 12pt;
+  color: var(--navy);
+  background: var(--white);
   border: 1px solid #C9CDD4;
-  border-radius: var(--radius-small);
+  border-radius: var(--radius-sm);
 }
 
 textarea {
@@ -285,7 +295,7 @@ textarea {
 
 input::placeholder,
 textarea::placeholder {
-  color: var(--color-neutral);
+  color: var(--neutral);
 }
 
 input:focus,
@@ -293,9 +303,9 @@ select:focus,
 textarea:focus,
 button:focus-visible,
 a:focus-visible {
-  outline: 3px solid rgba(0, 155, 141, 0.25);
+  outline: 3px solid rgba(0, 155, 141, 0.22);
   outline-offset: 2px;
-  border-color: var(--color-primary);
+  border-color: var(--primary);
 }
 
 .form-group,
@@ -303,162 +313,159 @@ a:focus-visible {
 .input-group {
   display: flex;
   flex-direction: column;
-  gap: var(--space-2);
-  margin-bottom: var(--space-4);
+  gap: 6px;
+  margin-bottom: 16px;
 }
 
 input[type="radio"],
 input[type="checkbox"] {
   width: auto;
   min-height: auto;
-  accent-color: var(--color-primary);
+  accent-color: var(--primary);
 }
 
-/* 8. Scorecard and rating components */
+/* 9. Hiring Scorecard */
 .competency,
 .rating-row,
 .score-row {
-  padding: var(--space-4);
-  margin-block: var(--space-3);
-  background: var(--color-background);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-small);
+  padding: 16px;
+  margin: 12px 0;
+  background: var(--light-gray);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
 }
 
 .rating,
 .score,
 .score-value {
-  color: var(--color-primary-dark);
+  color: var(--primary-dark);
   font-weight: 700;
 }
 
 .score-summary,
 .summary-card,
 .result-card {
-  padding: var(--space-5);
-  background: var(--color-white);
-  border-left: 5px solid var(--color-primary);
-  border-radius: var(--radius-small);
-}
-
-.score-summary h2,
-.summary-card h2,
-.result-card h2 {
-  margin-bottom: var(--space-2);
+  padding: 24px;
+  background: var(--white);
+  border-left: 5px solid var(--primary);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
 }
 
 .score-number,
 .metric-value {
-  color: var(--color-navy);
+  color: var(--navy);
   font-size: 24pt;
   font-weight: 700;
 }
 
-/* 9. Meaningful data colors */
-.success,
-.positive,
-.status-success {
-  color: var(--color-success);
-}
-
-.success-bg,
-.positive-bg {
-  background: #E8F5EE;
-}
-
-.warning,
-.risk,
-.status-warning {
-  color: #A85A00;
-}
-
-.warning-bg,
-.risk-bg {
-  background: #FFF3E2;
-}
-
-.neutral,
-.status-neutral {
-  color: var(--color-neutral);
-}
-
-.neutral-bg {
-  background: #ECEEF1;
-}
-
-/* 10. Status badges */
-.badge,
-.tag {
-  display: inline-block;
-  padding: 4px 10px;
-  border-radius: 999px;
-  background: var(--color-background);
-  color: var(--color-navy);
-}
-
-.badge-primary {
-  color: var(--color-primary-dark);
-  background: #E2F4F1;
-}
-
-.badge-success {
-  color: var(--color-success);
-  background: #E8F5EE;
-}
-
-.badge-warning {
-  color: #A85A00;
-  background: #FFF3E2;
-}
-
-.badge-neutral {
-  color: #555D69;
-  background: #ECEEF1;
-}
-
-/* 11. STAR method sections */
+/* 10. STAR method */
 .star-section,
 .star-step {
-  padding: var(--space-4);
-  margin-block: var(--space-3);
-  background: var(--color-white);
-  border: 1px solid var(--color-border);
-  border-left: 4px solid var(--color-primary);
-  border-radius: var(--radius-small);
+  padding: 18px;
+  margin: 16px 0;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--primary);
+  border-radius: var(--radius-sm);
 }
 
 .star-section h2,
 .star-step h2,
 .star-section h3,
 .star-step h3 {
-  margin-bottom: var(--space-2);
+  margin-bottom: 8px;
 }
 
 .star-letter,
 .star-label {
-  color: var(--color-primary-dark);
+  color: var(--primary-dark);
   font-weight: 700;
 }
 
-/* 12. Tables and dashboard data */
+/* 11. Meaningful data colors */
+.success,
+.positive,
+.status-success {
+  color: var(--success);
+}
+
+.success-bg,
+.positive-bg {
+  background: var(--success-bg);
+}
+
+.warning,
+.risk,
+.status-warning {
+  color: var(--warning);
+}
+
+.warning-bg,
+.risk-bg {
+  background: var(--warning-bg);
+}
+
+.neutral,
+.status-neutral {
+  color: var(--neutral);
+}
+
+.neutral-bg {
+  background: var(--neutral-bg);
+}
+
+/* 12. Status badges */
+.badge,
+.tag {
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: 11pt;
+  font-weight: 600;
+  border-radius: 999px;
+  background: var(--neutral-bg);
+  color: var(--navy);
+}
+
+.badge-primary {
+  color: var(--primary-dark);
+  background: var(--primary-light);
+}
+
+.badge-success {
+  color: var(--success);
+  background: var(--success-bg);
+}
+
+.badge-warning {
+  color: #965000;
+  background: var(--warning-bg);
+}
+
+.badge-neutral {
+  color: #555D69;
+  background: var(--neutral-bg);
+}
+
+/* 13. Tables */
 table {
   width: 100%;
   border-collapse: collapse;
-  background: var(--color-white);
+  background: var(--white);
 }
 
 th,
 td {
   padding: 12px 14px;
-  border-bottom: 1px solid var(--color-border);
   text-align: left;
   vertical-align: top;
+  border-bottom: 1px solid var(--border);
 }
 
 th {
-  color: var(--color-navy);
-  background: var(--color-background);
-  font-size: var(--font-label);
+  color: var(--navy);
+  background: var(--light-gray);
+  font-size: 11pt;
   font-weight: 700;
 }
 
@@ -466,46 +473,33 @@ tr:hover td {
   background: #FAFCFC;
 }
 
-/* 13. Progress indicators */
+/* 14. Progress indicators */
 progress {
   width: 100%;
   height: 12px;
-  accent-color: var(--color-primary);
+  accent-color: var(--primary);
 }
 
 .progress-bar {
-  overflow: hidden;
   height: 10px;
-  background: #E5E8EB;
+  overflow: hidden;
+  background: var(--neutral-bg);
   border-radius: 999px;
 }
 
 .progress-bar-fill {
   height: 100%;
-  background: var(--color-primary);
+  background: var(--primary);
   border-radius: inherit;
   transition: width 0.25s ease;
 }
 
-/* 14. Layout utilities */
-.grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: var(--space-4);
-}
-
-.flex {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: var(--space-3);
-}
-
+/* 15. Action groups and utility classes */
 .actions {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-3);
-  margin-top: var(--space-4);
+  gap: 12px;
+  margin-top: 16px;
 }
 
 .text-center {
@@ -513,39 +507,43 @@ progress {
 }
 
 .text-muted {
-  color: var(--color-text-muted);
+  color: var(--text-muted);
 }
 
 .bg-white {
-  background: var(--color-white);
+  background: var(--white);
 }
 
 .bg-light {
-  background: var(--color-background);
+  background: var(--light-gray);
 }
 
 .border-accent {
-  border-color: var(--color-primary);
+  border-color: var(--primary);
 }
 
-/* 15. Footer */
+/* 16. Footer */
 footer,
 .site-footer {
-  margin-top: var(--space-6);
-  padding: var(--space-5) 16px;
-  color: var(--color-text-muted);
-  background: var(--color-white);
-  border-top: 1px solid var(--color-border);
+  margin-top: 32px;
+  padding: 24px 16px;
+  color: var(--text-muted);
+  background: var(--white);
+  border-top: 1px solid var(--border);
   text-align: center;
-  font-size: var(--font-label);
+  font-size: 11pt;
 }
 
-/* 16. Responsive layout */
+/* 17. Responsive layout */
 @media (max-width: 700px) {
   .container,
   .page-container,
   main {
-    width: min(100% - 24px, 1100px);
+    width: calc(100% - 24px);
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
   }
 
   h1 {
@@ -565,16 +563,16 @@ footer,
   .scorecard,
   .star-card,
   .dashboard-card {
-    padding: var(--space-4);
+    padding: 16px;
   }
 
-  .grid {
-    grid-template-columns: 1fr;
+  .actions {
+    flex-direction: column;
   }
 
-  .actions,
   .actions button,
-  .actions .btn {
+  .actions .btn,
+  .actions .button {
     width: 100%;
   }
 
@@ -584,11 +582,11 @@ footer,
   }
 }
 
-/* 17. Print styles */
+/* 18. Print */
 @media print {
   body {
-    color: #000000;
-    background: #FFFFFF;
+    color: #000;
+    background: #fff;
     font-size: 12pt;
   }
 
@@ -597,7 +595,8 @@ footer,
   footer,
   .no-print,
   button,
-  .btn {
+  .btn,
+  .button {
     display: none !important;
   }
 
@@ -615,7 +614,7 @@ footer,
   }
 
   a {
-    color: #000000;
+    color: #000;
     text-decoration: none;
   }
 }
