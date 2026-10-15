@@ -107,7 +107,7 @@ Sobiv kandidaat tunnistab vigu, küsib vajaduse korral abi, võtab tagasisidest 
 
 ## 🌍 4. Rahvusvaheline koostöö ja kaugtöö
 
-UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat suudaks töötada iseseisvalt ning hoida meeskonda oma tööga kursis.
+UrbanStyle'i Soome ja Saksamaa kaugtöö positsioonide puhul on oluline, et kandidaat suudaks töötada iseseisvalt ning hoida meeskonda oma tööga kursis.
 
 | Valdkond | Ootus kandidaadile |
 |---|---|
@@ -121,11 +121,11 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 
 - **Soome:** väärtustada tuleb iseseisvust, otsekohest suhtlust ja madala hierarhiaga koostööd.
 - **Saksamaa:** oluline võib olla põhjalik dokumentatsioon, struktureeritud töökorraldus ja formaalsem suhtlus.
-- **Inglise keel:** mõlema remote-positsiooni töökeel.
+- **Inglise keel:** mõlema kaugtöö töökeel.
 - **Saksa keel:** täiendav eelis, kuid mitte kohustuslik nõue.
-- **Ajavöönd:** Soomega on üldjuhul sama aeg; Saksamaa on tavaliselt ühe tunni võrra Tallinnast maas.
+- **Ajavöönd:** Soomega on üsama aeg, Saksamaa on tavaliselt ühe tunni võrra mõlemast maas.
 
-### 🛠️ Remote-koostöö tööriistad
+### 🛠️ Kaugkoostöö tööriistad
 
 | Kasutus | Tööriistad |
 |---|---|
@@ -136,7 +136,7 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 | 💻 Koodijagamine | GitHub, VS Code Live Share |
 | 📊 Dashboard'id | Power BI Service, Streamlit Cloud |
 
-**Onboarding'u põhimõtted:** remote-töötajale määratakse Tallinna kontorist buddy, korraldatakse vähemalt kolm videostand-up'i nädalas ja üks 1:1 kohtumine juhiga ning kasutatakse struktureeritud 30–60–90 päeva plaani.
+**Onboarding'u põhimõtted:** kaugtöö tegijatele määratakse Tallinna kontorist tugiisik, korraldatakse vähemalt kolm videokohtumist nädalas ja üks kohtumine juhiga ning kasutatakse struktureeritud 30–60–90 päeva plaani.
 
 ---
 
@@ -145,9 +145,9 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 ### 📋 5.1. *Hiring Scorecard* – kandidaatide hindamisvorm
 
 <details>
-<summary>Ava kandidaatide hindamisvormi</summary>
+<summary>Ava kandidaatide hindamisvorm</summary>
 
-### 🎯 *Hiring Scorecard*i eesmärk 
+### 🎯 *Hiring Scorecard*'i eesmärk 
 
 Võrrelda kandidaate samade kriteeriumide alusel ja dokumenteerida värbamisotsuse põhjendused.
 
@@ -162,11 +162,11 @@ Võrrelda kandidaate samade kriteeriumide alusel ja dokumenteerida värbamisotsu
 
 | Hinne | Tähendus |
 |---:|---|
-| 1 | ❌ Ei vasta ootustele |
-| 2 | ⚠️ Alla ootuste |
-| 3 | ✅ Vastab junior-taseme ootustele |
-| 4 | 🌟 Ületab ootusi |
-| 5 | 🏆 Ületab ootusi märkimisväärselt |
+| 1 | ❌ Kompetentsi kohta puuduvad asjakohased tõendid. |
+| 2 | ⚠️ Tõendid on piiratud; oluline osa kompetentsist jääb näitamata.|
+| 3 | ✅ Näitab juunior-tasemel vajalikku kompetentsi. |
+| 4 | 🌟 Põhjendab valikuid, tegutseb süsteemselt ja selgitab tulemusi. |
+| 5 | 🏆 Analüüsib kriitiliselt eeldusi, kaalub alternatiive ja põhjendab järeldusi põhjalikult. |
 
 ### 📊 Hindamistabel
 
@@ -181,6 +181,8 @@ Võrrelda kandidaate samade kriteeriumide alusel ja dokumenteerida värbamisotsu
 **Koondhinne arvutatakse järgmiselt:**
 
 `(Kommunikatsioon + Probleemilahendus + Meeskonnatöö + Kultuuriline sobivus) / 4`
+
+> Koondhinne on abivahend kandidaatide võrdlemiseks, mitte automaatne otsustusreegel. Värbamissoovituse tegemisel hinda iga kompetentsi eraldi ning arvesta hinnete aluseks olevaid tõendeid. Kui mõne olulise kompetentsi hinne on madal või tõendid on ebapiisavad, täpsusta hinnangut enne lõpliku otsuse tegemist.
 
 ### 🎯 Värbamissoovitus
 
@@ -202,7 +204,7 @@ Võrrelda kandidaate samade kriteeriumide alusel ja dokumenteerida värbamisotsu
 ### ⭐ 5.2. STAR-intervjuu maatriks – käitumuslike kompetentside hindamine
 
 <details>
-<summary>Ava STAR-maatriksit</summary>
+<summary>Ava STAR-maatriks</summary>
 
 ### 🎯 STAR-maatriksi eesmärk
 
@@ -393,7 +395,7 @@ Kasuta pärast iga vastust allolevat juhendit. Hinda kandidaadi vastuses esitatu
 | ------------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **1 – Väga nõrk**        | Puudub asjakohane tõendus          | Kandidaat ei suuda näidet selgitada või vastus ei näita hinnatavat kompetentsi.                                          |
 | **2 – Nõrk**             | Tõendus on piiratud                | Näide on ebamäärane, isiklik panus jääb ebaselgeks või põhjendused puuduvad.                                             |
-| **3 – Ootustele vastav** | Piisav tõendus                     | Kandidaat kirjeldab asjakohast olukorda, enda tegevust ja mõistlikku tulemust või õpitut.                                |
+| **3 – Ootustele vastav** | Piisav tõendus                     | Kandidaat kirjeldab asjakohast olukorda, enda tegevust ja tulemust või õpitut ning põhjendab oma peamisi valikuid piisavalt, et näidata juunior-tasemel vajalikku kompetentsi.                                |
 | **4 – Tugev**            | Selge ja hästi põhjendatud tõendus | Kandidaat tegutseb süsteemselt, põhjendab oma valikuid ja selgitab mõju või õpitut.                                      |
 | **5 – Väga tugev**       | Põhjalik ja kriitiline lähenemine  | Kandidaat näitab iseseisvat mõtlemist, kontrollib oma eeldusi, arvestab alternatiividega ja analüüsib tulemusi sügavuti. |
 
@@ -435,6 +437,8 @@ Kasuta iga kompetentsi puhul sama struktuuri.
 - Tõsine ja põhjendatud probleem, näiteks teadlikult eksitavate andmete esitamine, võib olla oluline otsust mõjutav tegur.
 - Kui tõendeid on liiga vähe, märgi see hindamises ära, selle asemel et teha oletusi.
 - Võrdle kandidaate samade kriteeriumide alusel ja dokumenteeri otsuse põhjendus.
+
+> Iga kompetentsi kohta koostatakse üks lõplik hinne. See põhineb vastava STAR-intervjuu vastusel, täpsustavatel küsimustel ja kogutud tõenditel. Kui sama kompetentsi kohta kogutakse mitu asjakohast näidet, arvestatakse neid koos. Lõplik hinne kantakse *Hiring Scorecard*'i koos lühikese põhjendusega.
 
 ---
 
