@@ -14,7 +14,7 @@ UrbanStyle on kiiresti kasvav ettevõte, kus andmeanalüüs aitab teha paremaid 
 |---|---|
 | 👥 ~45 töötajat | Analüütik peab olema mitmekülgne ja koostöövalmis. |
 | 💶 ~3 miljonit eurot käivet | Andmepõhised otsused on ettevõtte jaoks olulised. |
-| 🏬 3 asukohta + remote-töötajad | Vajalik on selge suhtlus ja hea dokumenteerimine. |
+| 🏬 3 asukohta + kaugtöökohad | Vajalik on selge suhtlus ja hea dokumenteerimine. |
 | 🌍 Soome ja Saksamaa | Rahvusvaheline koostöö toimub peamiselt inglise keeles. |
 | 📈 150% kasv kahe aastaga | Vajalikud on õppimisvalmidus, iseseisvus ja kohanemisvõime. |
 | 🛒 E-pood + füüsilised kauplused | Analüütik peab mõistma eri müügikanalite andmeid. |
