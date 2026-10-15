@@ -4,6 +4,11 @@
 > **🎯 Eesmärk:** hinnata juunior andmeanalüütiku rolli jaoks olulisi suhtlemis-, probleemilahendus- ja koostööoskusi ning õppimisvalmidust. <br>
 > **📌 Fookus:** struktureeritud ja tõenduspõhine kandidaatide hindamine, mitte konkreetse inimese isikuomaduste üldine hindamine.
 
+## 🧰 Interaktiivsed värbamistööriistad
+
+- [Hiring Scorecard – kandidaadi hindamisvorm](https://andres-assukyll.github.io/daca-portfolio/week-9/hiring-scorecard.html)
+- [STAR-intervjuu maatriks](https://andres-assukyll.github.io/daca-portfolio/week-9/star-interview.html)
+
 ---
 
 ## 🏢 1. UrbanStyle'i ettevõtte kontekst
