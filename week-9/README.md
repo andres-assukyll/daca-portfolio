@@ -6,9 +6,6 @@
 
 ---
 
-- [📋 Hiring Scorecard](#-51-hiring-scorecard--kandidaatide-hindamisvorm)
-- [⭐ STAR-intervjuu maatriks](#-52-star-intervjuu-maatriks--käitumuslike-kompetentside-hindamine)
-
 ## 🏢 1. UrbanStyle'i ettevõtte kontekst
 
 UrbanStyle on kiiresti kasvav ettevõte, kus andmeanalüüs aitab teha paremaid äriotsuseid.
