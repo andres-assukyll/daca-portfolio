@@ -6,13 +6,11 @@ Hindamisprotsessi toetavad kolm omavahel seotud veebilehte: tööriistade avaleh
 
 ### 🛠️ 5.1. Interaktiivsed värbamistööriistad
 
-**[Ava interaktiivsed värbamistööriistad](https://andres-assukyll.github.io/daca-portfolio/week-9/index.html)**
-
 Tööriistade avaleht koondab värbamise hindamiseks vajalikud vormid ja juhised.
 
-### 📊 5.2. Hiring Scorecard – kandidaadi hindamisvorm
+**[Ava interaktiivsed värbamistööriistad](https://andres-assukyll.github.io/daca-portfolio/week-9/index.html)**
 
-**[Ava Hiring Scorecard](https://andres-assukyll.github.io/daca-portfolio/week-9/scorecard.html)**
+### 📊 5.2. Hiring Scorecard – kandidaadi hindamisvorm
 
 Hindamisvorm võimaldab hinnata kandidaadi kompetentse skaalal 1–5, lisada hindeid toetavaid tõendeid ning koostada põhjendatud värbamissoovituse.
 
@@ -24,9 +22,9 @@ Hindamisel lähtutakse neljast põhivaldkonnast:
 
 Vorm toetab koondhinde arvutamist, hindamisandmete salvestamist brauseris ning tulemuste eksportimist JSON-failina või printimist PDF-iks.
 
-### ⭐ 5.3. STAR-intervjuu maatriks
+**[Ava Hiring Scorecard](https://andres-assukyll.github.io/daca-portfolio/week-9/scorecard.html)**
 
-**[Ava STAR-intervjuu maatriks](https://andres-assukyll.github.io/daca-portfolio/week-9/star.html)**
+### ⭐ 5.3. STAR-intervjuu maatriks
 
 STAR-vorm aitab koguda struktureeritud näiteid kandidaadi varasemast käitumisest, probleemide lahendamisest ja tööalasest koostööst.
 
@@ -37,6 +35,8 @@ Iga vastuse puhul analüüsitakse nelja elementi:
 - **R – Result:** tulemus, mõju ja õpitu
 
 Intervjuu käigus dokumenteeritakse kandidaadi vastused, hinnatakse kompetentse ning talletatakse hindeid toetavad tõendid.
+
+**[Ava STAR-intervjuu maatriks](https://andres-assukyll.github.io/daca-portfolio/week-9/star.html)**
 
 ### 🔄 5.4. Tööriistade kasutamine värbamisprotsessis
 
