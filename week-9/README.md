@@ -140,7 +140,12 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 
 ---
 
-## 📋 5. *Hiring Scorecard* — kandidaatide hindamisvorm
+## 📋 5. Hin
+
+<details>
+<submit>Vaata kandidaatide hindamisvormi</submit>
+
+***Hiring Scorecard* — kandidaatide hindamisvorm**
 
 **Eesmärk:** võrrelda kandidaate samade kriteeriumide alusel ja dokumenteerida värbamisotsuse põhjendused.
 
@@ -189,6 +194,8 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 - Järgmised sammud:
 
 > *Scorecard* toetab otsust, kuid ei asenda tehniliste oskuste hindamist ega värbava juhi professionaalset otsust. Hindeid tuleks võrrelda koos kommentaaride ja kogutud tõenditega.
+
+</details>
 
 ---
 
