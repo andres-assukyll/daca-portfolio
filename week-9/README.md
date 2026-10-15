@@ -145,12 +145,14 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 
 ## 🧭 5. Kandidaadi hindamine ja struktureeritud intervjuu
 
-<details>
-<summary>Vaata kandidaatide hindamisvormi</summary>
-
 ### 📋 5.1. *Hiring Scorecard* – kandidaatide hindamisvorm
 
-**Eesmärk:** võrrelda kandidaate samade kriteeriumide alusel ja dokumenteerida värbamisotsuse põhjendused.
+<details>
+<summary>Ava kandidaatide hindamisvormi</summary>
+
+### 🎯 *Hiring Scorecard*i eesmärk 
+
+Võrrelda kandidaate samade kriteeriumide alusel ja dokumenteerida värbamisotsuse põhjendused.
 
 ### 👤 Kandidaadi andmed
 
@@ -200,12 +202,12 @@ UrbanStyle'i Soome ja Saksamaa kaugpositsioonide puhul on oluline, et kandidaat 
 
 </details>
 
-<details>
-<summary>Vaata STAR-maatriksit</summary>
-
 ### ⭐ 5.2. STAR-intervjuu maatriks – käitumuslike kompetentside hindamine
 
-### 🎯 Eesmärk
+<details>
+<summary>Ava STAR-maatriksit</summary>
+
+### 🎯 STAR-maatriksi eesmärk
 
 STAR-intervjuu maatriksi eesmärk on hinnata Junior Data Analyst'i ametikohale kandideerija käitumuslikke kompetentse ja seda, kuidas ta lahendab tegelikke tööolukordi.
 
@@ -220,7 +222,7 @@ Intervjuus hinnatakse nelja põhivaldkonda:
 
 ---
 
-### 🧩 STAR-meetod
+### 🧩 STAR meetod
 
 Iga vastuse puhul püüa tuvastada neli elementi:
 
@@ -421,7 +423,7 @@ Kasuta iga kompetentsi puhul sama struktuuri.
 
 ---
 
-## ⚖️ 5.3 Kuidas ühendada STAR-maatriks *Hiring Scorecard*iga?
+### ⚖️ 5.3 Kuidas ühendada STAR-maatriks *Hiring Scorecard*iga?
 
 1. Esita igale kandidaadile samad põhiküsimused ja vajaduse korral võrreldavad täpsustavad küsimused.
 2. Pane vastuse ajal kirja kandidaadi enda tegevused ja konkreetsed näited.
@@ -429,7 +431,7 @@ Kasuta iga kompetentsi puhul sama struktuuri.
 4. Täida Hiring Scorecard, kasutades STAR-vastustest saadud tõendeid.
 5. Arvesta lõppotsuses ka tehnilisi oskusi, rolli nõudeid ja muid asjakohaseid hindamistulemusi.
 
-### Otsustamise põhimõtted
+#### Otsustamise põhimõtted
 
 - Ära tee otsust ainult Green Flag'ide või Red Flag'ide arvu põhjal.
 - Üks murettekitav vastus ei tähenda automaatselt kandidaadi välistamist. Küsi vajaduse korral täpsustavaid küsimusi ja kontrolli, kas probleem on korduv ning ametikohaga seotud.
@@ -439,7 +441,7 @@ Kasuta iga kompetentsi puhul sama struktuuri.
 
 ---
 
-## ✅ 5.4 Intervjuu lõplik kontrollnimekiri
+### ✅ 5.4 Intervjuu lõplik kontrollnimekiri
 
 - [ ] Kõik neli kompetentsi on läbi arutatud.
 - [ ] Vastuste kohta on kirjas konkreetsed STAR-tõendid.
