@@ -210,6 +210,7 @@ Tööriistad toetavad värbamisotsuse tegemist, kuid ei asenda värbava juhi pro
 
 - 🧠 Pehmete oskuste hindamiskriteeriumide ideed.
 - 📋 Struktureeritud hindamisvormi loomine.
+- 💻 HTML-, CSS- ja JavaScript-koodi koostamine.
 
 ---
 
