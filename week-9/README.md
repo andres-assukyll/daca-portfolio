@@ -1,7 +1,7 @@
 # 🏙️ HR : UrbanStyle.ltd värbamisjuhend – Nädal 9
 
 > **👤 Roll C:** Personalijuht <br>
-> **🎯 Eesmärk:** hinnata juunior andmeanalüütiku rolli jaoks olulisi suhtlemis-, probleemilahendus- ja koostööoskusi ning õppimisvalmidust.
+> **🎯 Eesmärk:** hinnata juunior andmeanalüütiku rolli jaoks olulisi suhtlemis-, probleemilahendus- ja koostööoskusi ning õppimisvalmidust. <br>
 > **📌 Fookus:** struktureeritud ja tõenduspõhine kandidaatide hindamine, mitte konkreetse inimese isikuomaduste üldine hindamine.
 
 ---
