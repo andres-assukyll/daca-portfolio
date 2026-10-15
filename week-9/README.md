@@ -6,8 +6,8 @@
 
 ## 🧰 Interaktiivsed värbamistööriistad
 
-- [Hiring Scorecard – kandidaadi hindamisvorm](https://andres-assukyll.github.io/daca-portfolio/week-9/hiring-scorecard.html)
-- [STAR-intervjuu maatriks](https://andres-assukyll.github.io/daca-portfolio/week-9/star-interview.html)
+- [Hiring Scorecard – kandidaadi hindamisvorm](https://andres-assukyll.github.io/daca-portfolio/week-9/scorecard.html)
+- [STAR-intervjuu maatriks](https://andres-assukyll.github.io/daca-portfolio/week-9/star.html)
 
 ---
 
