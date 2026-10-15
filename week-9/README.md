@@ -192,8 +192,6 @@ Intervjuu käigus dokumenteeritakse kandidaadi vastused, hinnatakse kompetentse 
 
 Tööriistad toetavad värbamisotsuse tegemist, kuid ei asenda värbava juhi professionaalset hinnangut ega tehniliste oskuste eraldi hindamist.
 
----
-
 ### ✅ 5.5 Intervjuu lõplik kontrollnimekiri
 
 - [ ] Kõik neli kompetentsi on läbi arutatud.
