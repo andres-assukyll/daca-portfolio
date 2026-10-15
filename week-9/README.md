@@ -1,4 +1,4 @@
-# 🏙️ UrbanStyle | Junior Data Analyst värbamisjuhend
+# 🏙️ UrbanStyle Junior Data Analyst värbamisjuhend – Nädal 9
 
 > **👤 Roll:** Personalijuht (People Manager)  
 > **🎯 Eesmärk:** Hinnata kandidaadi pehmeid oskusi, meeskonnatööd ja kultuurilist sobivust.  
@@ -140,7 +140,7 @@ UrbanStyle'i Soome ja Saksamaa remote-positsioonide puhul on oluline, et kandida
 
 ---
 
-## 📋 5. Hiring Scorecard — kandidaatide hindamisvorm
+## 📋 5. *Hiring Scorecard* — kandidaatide hindamisvorm
 
 **Eesmärk:** võrrelda kandidaate samade kriteeriumide alusel ja dokumenteerida värbamisotsuse põhjendused.
 
@@ -188,14 +188,12 @@ UrbanStyle'i Soome ja Saksamaa remote-positsioonide puhul on oluline, et kandida
 - Olulised tõendid:
 - Järgmised sammud:
 
-> Scorecard toetab otsust, kuid ei asenda tehniliste oskuste hindamist ega värbava juhi professionaalset otsust. Hindeid tuleb võrrelda koos kommentaaride ja kogutud tõenditega.
+> *Scorecard* toetab otsust, kuid ei asenda tehniliste oskuste hindamist ega värbava juhi professionaalset otsust. Hindeid tuleks võrrelda koos kommentaaride ja kogutud tõenditega.
 
 ---
 
-## 🤖 6. AI kasutamise dokumentatsioon
+## 🤖 Kasutamine ✨
 
-
-**AI panus:**
 - 🧠 Pehmete oskuste hindamiskriteeriumide ideed.
 - 📋 Struktureeritud hindamisvormi loomine.
 
