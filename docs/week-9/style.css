@@ -1,18 +1,16 @@
-
 :root {
-  --bg: #F5F5F5;
-  --surface: #FFFFFF;
-  --text: #1A1A2E;
+  --bg: #f5f7fb;
+  --surface: #ffffff;
+  --text: #182230;
   --muted: #657185;
-  --primary: #009B8D;
-  --primary-dark: #007F75;
-  --border: #dfe5e9;
-  --soft: #e2f4f1;
-  --success: #228B55;
+  --primary: #3157d5;
+  --primary-dark: #2443ae;
+  --border: #dfe5ef;
+  --soft: #edf2ff;
+  --success: #16794b;
   --danger: #b42318;
-  --warning: #E58A26;
   --radius: 16px;
-  --shadow: 0 8px 30px rgba(26, 26, 46, 0.06);
+  --shadow: 0 8px 30px rgba(30, 45, 80, 0.06);
 }
 
 * {
@@ -27,13 +25,14 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: Calibri, "Segoe UI", Arial, sans-serif;
-  font-size: 13pt;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, sans-serif;
+  font-size: 16px;
   line-height: 1.65;
 }
 
 a {
-  color: var(--primary-dark);
+  color: var(--primary);
 }
 
 .container {
@@ -63,10 +62,10 @@ a {
 
 .header-tag,
 .eyebrow {
-  color: var(--primary-dark);
-  font-size: 11pt;
+  color: var(--primary);
+  font-size: 0.76rem;
   font-weight: 800;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.12em;
 }
 
 .hero {
@@ -76,15 +75,15 @@ a {
 .hero h1 {
   max-width: 780px;
   margin: 8px 0 12px;
-  font-size: clamp(24pt, 5vw, 34pt);
+  font-size: clamp(2rem, 5vw, 3.4rem);
   line-height: 1.12;
-  letter-spacing: -0.035em;
+  letter-spacing: -0.045em;
 }
 
 .lead {
   max-width: 680px;
   color: var(--muted);
-  font-size: 14pt;
+  font-size: 1.1rem;
 }
 
 .tool-grid {
@@ -132,7 +131,7 @@ a {
   height: 46px;
   border-radius: 13px;
   background: var(--soft);
-  color: var(--primary-dark);
+  color: var(--primary);
   font-weight: 800;
 }
 
@@ -162,8 +161,6 @@ button {
 .button:hover,
 button:hover {
   background: var(--primary-dark);
-  border-color: var(--primary-dark);
-  color: #fff;
 }
 
 button:active {
@@ -173,14 +170,7 @@ button:active {
 button.secondary,
 .button.secondary {
   background: var(--surface);
-  color: var(--primary-dark);
-  border-color: var(--border);
-}
-
-button.secondary:hover,
-.button.secondary:hover {
-  background: var(--soft);
-  border-color: var(--primary);
+  color: var(--primary);
 }
 
 button.danger {
@@ -204,9 +194,9 @@ button.danger {
 
 .page-intro h1 {
   margin: 0 0 6px;
-  font-size: clamp(24pt, 4vw, 28pt);
+  font-size: clamp(2rem, 4vw, 2.7rem);
   line-height: 1.2;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.04em;
 }
 
 .page-intro p {
@@ -242,7 +232,7 @@ button.danger {
 }
 
 .panel h2 {
-  font-size: 18pt;
+  font-size: 1.15rem;
   margin: 0 0 16px;
 }
 
@@ -259,7 +249,7 @@ button.danger {
 label,
 .field-label {
   font-weight: 700;
-  font-size: 12pt;
+  font-size: 0.92rem;
 }
 
 input,
@@ -268,7 +258,7 @@ textarea {
   display: block;
   width: 100%;
   min-width: 0;
-  border: 1px solid #cbd4d7;
+  border: 1px solid #cbd4e2;
   border-radius: 9px;
   padding: 11px 12px;
   background: #fff;
@@ -281,9 +271,8 @@ select:focus,
 textarea:focus,
 button:focus-visible,
 a:focus-visible {
-  outline: 3px solid rgba(0, 155, 141, 0.25);
+  outline: 3px solid #b9c9ff;
   outline-offset: 2px;
-  border-color: var(--primary);
 }
 
 textarea {
@@ -293,7 +282,7 @@ textarea {
 
 .help-text {
   color: var(--muted);
-  font-size: 11pt;
+  font-size: 0.84rem;
 }
 
 .competency {
@@ -310,13 +299,13 @@ textarea {
 
 .competency h3 {
   margin: 0 0 4px;
-  font-size: 14pt;
+  font-size: 1rem;
 }
 
 .competency p {
   margin: 0 0 12px;
   color: var(--muted);
-  font-size: 12pt;
+  font-size: 0.9rem;
 }
 
 .rating-group {
@@ -353,11 +342,10 @@ textarea {
 }
 
 .score-number {
-  font-size: 28pt;
+  font-size: 2.4rem;
   font-weight: 850;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.05em;
   line-height: 1.3;
-  color: var(--navy, #1A1A2E);
 }
 
 .progress {
@@ -365,7 +353,7 @@ textarea {
   overflow: hidden;
   margin: 12px 0;
   border-radius: 99px;
-  background: #e7eceb;
+  background: #e9edf5;
 }
 
 .progress-bar {
@@ -380,25 +368,7 @@ textarea {
   background: var(--soft);
   border-radius: 9px;
   color: var(--primary-dark);
-  font-size: 12pt;
-}
-
-/* Contextual data colors */
-.status.success,
-.status.positive {
-  background: #e8f5ee;
-  color: var(--success);
-}
-
-.status.warning,
-.status.risk {
-  background: #fff3e2;
-  color: #965000;
-}
-
-.status.neutral {
-  background: #eceef1;
-  color: #555d69;
+  font-size: 0.88rem;
 }
 
 .button-row {
@@ -424,7 +394,6 @@ textarea {
 
 .star-tabs button[aria-pressed="true"] {
   background: var(--primary-dark);
-  border-color: var(--primary-dark);
 }
 
 .star-field {
@@ -435,7 +404,6 @@ textarea {
 
 .star-field h3 {
   margin: 0 0 8px;
-  font-size: 18pt;
 }
 
 .star-field textarea {
@@ -446,7 +414,7 @@ textarea {
   padding: 25px 0;
   border-top: 1px solid var(--border);
   color: var(--muted);
-  font-size: 11pt;
+  font-size: 0.88rem;
 }
 
 @media (max-width: 760px) {
