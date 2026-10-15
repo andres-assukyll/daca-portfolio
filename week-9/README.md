@@ -237,9 +237,9 @@ Kõik vastused ei pea olema täiuslikult STAR-struktuuris. Eriti juuniorilt või
 
 ---
 
-### 1. 🗣️ Communication & Data Storytelling
+### 🗣️ *Communication & Data Storytelling*
 
-### Intervjuuküsimus
+#### Intervjuuküsimus
 
 > **„Kirjelda üht analüüsiprojekti, mille kallal oled töötanud. Kuidas selgitasid tulemusi inimesele, kes ei olnud tehniline spetsialist?“**
 
@@ -250,21 +250,21 @@ Vajadusel küsi lisaks:
 - Kuidas kontrollisid, kas kuulaja sai sinu järeldustest aru?
 - Kas sinu analüüs mõjutas mõnda otsust või tegevust?
 
-### Mida hinnata?
+#### Mida hinnata?
 
 - Kas kandidaat suudab selgitada analüüsi eesmärki lihtsas ja arusaadavas keeles?
 - Kas ta seostab andmed ärilise küsimuse, KPI või otsusega?
 - Kas ta eristab andmetest nähtud fakti enda tõlgendusest?
 - Kas ta kohandab selgituse kuulaja teadmiste ja vajaduste järgi?
 
-### ✅ Positiivsed märgid (Green Flags)
+#### ✅ *Green Flags*
 
 - Selgitab, **miks analüüs oli oluline**, mitte ainult seda, milliseid tehnilisi samme ta tegi.
 - Toob välja mõõdetava tulemuse või konkreetse ärilise järelduse, näiteks: „Leidsime, et püsikliendid moodustasid 60% tulust.“
 - Oskab keerulise tulemuse kokku võtta mõne selge põhisõnumina.
 - Tunnistab ausalt, kui analüüs ei võimaldanud kindlat järeldust teha.
 
-### 🚩 Ohumärgid (Red Flags)
+#### 🚩 *Red Flags*
 
 - Kirjeldab ainult SQL-i, Pythoni või teiste tööriistade kasutamist, selgitamata analüüsi eesmärki.
 - Esitab oletusi kindlate faktidena või väidab, et analüüs tõestas rohkem, kui andmed tegelikult näitasid.
@@ -272,9 +272,9 @@ Vajadusel küsi lisaks:
 
 ---
 
-## 2. 🔎 Problem-Solving & Responsible Tool Use
+### 🔎 *Problem-Solving & Responsible Tool Use*
 
-### Intervjuuküsimus
+#### Intervjuuküsimus
 
 > **„Räägi olukorrast, kus analüüsitavad andmed sisaldasid vigu, ebatäpsusi või duplikaate. Kuidas probleemi tuvastasid ja lahendasid? Kasutasid selleks ka tehisintellekti või muid abivahendeid?“**
 
@@ -285,21 +285,21 @@ Vajadusel küsi lisaks:
 - Kuidas veendusid, et parandused olid õiged?
 - Kui kasutasid tehisintellekti, siis kuidas kontrollisid selle soovitusi või loodud koodi?
 
-### Mida hinnata?
+#### Mida hinnata?
 
 - Kas kandidaat läheneb probleemile süsteemselt?
 - Kas ta kontrollib andmete kvaliteeti, näiteks puuduvaid väärtusi, duplikaate, andmetüüpe ja ebaloogilisi väärtusi?
 - Kas ta põhjendab, miks konkreetse puhastus- või parandamisviisi valis?
 - Kas ta kontrollib tehisintellekti või teiste tööriistade väljundit enne selle kasutamist?
 
-### ✅ Positiivsed märgid (Green Flags)
+#### ✅ *Green Flags*
 
 - Kirjeldab konkreetseid kontrolle ja selgitab, kuidas need probleemi esile tõid.
 - Võrdleb tulemusi algandmetega või kasutab kontrollpäringuid, teste ja mõistlikkuse kontrolle.
 - Kasutab tehisintellekti vajaduse korral abivahendina, kuid kontrollib selle pakutud lahendusi ise.
 - Tunnistab, kui probleemi põhjus jäi ebaselgeks, ja kirjeldab, kuidas ta seda edasi uuriks.
 
-### 🚩 Ohumärgid (Red Flags)
+#### 🚩 *Red Flags*
 
 - Eeldab, et andmed on õiged, ilma et nende kvaliteeti kontrolliks.
 - Võtab tehisintellekti loodud koodi või vastuse kriitiliselt hindamata kasutusele.
@@ -310,9 +310,9 @@ Vajadusel küsi lisaks:
 
 ---
 
-## 3. 🤝 Teamwork & Async Collaboration
+### 🤝 *Teamwork & Async Collaboration*
 
-### Intervjuuküsimus
+#### Intervjuuküsimus
 
 > **„Kirjelda hiljutist meeskonnaprojekti. Milline oli sinu roll, kuidas jagasite ülesandeid ja kuidas tagasid, et sinu kood või analüüsi tulemused oleksid teistele arusaadavad?“**
 
@@ -323,21 +323,21 @@ Vajadusel küsi lisaks:
 - Kuidas dokumenteerisid oma tööd või andsid selle teisele inimesele üle?
 - Kuidas lahendasite erimeelsuse või olukorra, kus töö sõltus kolleegi panusest?
 
-### Mida hinnata?
+#### Mida hinnata?
 
 - Kas kandidaat eristab enda panust meeskonna ühisest tulemusest?
 - Kas ta jagab infot arusaadavalt ja õigeaegselt?
 - Kas ta dokumenteerib töö nii, et kolleeg saab seda jätkata?
 - Kas ta võtab vastutuse ja oskab teiste panust tunnustada?
 
-### ✅ Positiivsed märgid (Green Flags)
+### ✅ *Green Flags*
 
 - Selgitab konkreetselt oma vastutust ja tegevusi, tunnustades samal ajal teiste panust.
 - Kirjeldab, kuidas ta kasutas README-faile, kommentaare, ülesannete haldust või muid dokumenteerimisvahendeid.
 - Mõtleb sellele, et kolleegid saaksid tema tööd mõista ja vajadusel jätkata.
 - Jagab takistustest varakult infot ning küsib vajaduse korral abi.
 
-### 🚩 Ohumärgid (Red Flags)
+#### 🚩 *Red Flags*
 
 - Räägib ainult „meie tegime“, kuid ei suuda oma panust selgitada.
 - Võtab kogu meeskonna edu enda arvele või süüdistab ebaõnnestumises ainult teisi.
@@ -348,9 +348,9 @@ Vajadusel küsi lisaks:
 
 ---
 
-## 4. 🌱 Cultural Fit & Adaptability
+### 🌱 *Cultural Fit & Adaptability*
 
-### Intervjuuküsimus
+#### Intervjuuküsimus
 
 > **„Kirjelda olukorda, kus jäid ülesandega hätta, tegid vea või ei teadnud vastust. Kuidas olukorrale reageerisid ja mida sellest õppisid?“**
 
@@ -361,21 +361,21 @@ Vajadusel küsi lisaks:
 - Mida teeksid nüüd teisiti?
 - Kuidas käitud olukorras, kus ülesande eesmärk või juhised pole täiesti selged?
 
-### Mida hinnata?
+#### Mida hinnata?
 
 - Kas kandidaat tunneb oma tugevusi ja arengukohti?
 - Kas ta tunnistab vigu ning otsib neile lahendusi?
 - Kas ta suudab tagasiside põhjal oma lähenemist muuta?
 - Kas ta oskab iseseisvalt uurida, millal abi küsida ja kuidas õpitut rakendada?
 
-### ✅ Positiivsed märgid (Green Flags)
+#### ✅ *Green Flags*
 
 - Tunnistab ausalt, mida ta ei teadnud või kus ta eksis.
 - Selgitab, milliseid samme ta probleemi lahendamiseks astus ja mida õppis.
 - Võtab tagasisidet vastu ning toob näite, kuidas see tema tegevust muutis.
 - Oskab tasakaalustada iseseisvat probleemilahendust ja õigel ajal abi küsimist.
 
-### 🚩 Ohumärgid (Red Flags)
+#### 🚩 *Red Flags*
 
 - Ei suuda tuua ühtegi näidet eksimusest, raskusest või õppimisest ega oska selgitada, kuidas ta sellistes olukordades käitub.
 - Varjab vigu või lükkab vastutuse automaatselt teistele.
@@ -386,7 +386,7 @@ Vajadusel küsi lisaks:
 
 ---
 
-## 📝 STAR-vastuste hindamise juhend
+### 📝 STAR-vastuste hindamise juhend
 
 Kasuta pärast iga vastust allolevat juhendit. Hinda kandidaadi vastuses esitatud tõendeid, mitte üldmuljet või isiklikku sümpaatiat.
 
@@ -402,11 +402,11 @@ Junior-taseme puhul ei tohiks kõrgeim hinne eeldada pikaajalist töökogemust. 
 
 ---
 
-## 📋 Intervjueerija märkmete mall
+### 📋 Intervjueerija märkmete mall
 
 Kasuta iga kompetentsi puhul sama struktuuri.
 
-### Kompetents: [vali üks neljast valdkonnast]
+#### Kompetents: [vali üks neljast valdkonnast]
 
 - **STAR – Situation:** Milline oli olukord?
 - **STAR – Task:** Milline oli kandidaadi ülesanne või vastutus?
@@ -417,9 +417,11 @@ Kasuta iga kompetentsi puhul sama struktuuri.
 - **Hinne (1–5):** [sisesta hinne]
 - **Põhjendus:** [kirjuta lühike põhjendus koos konkreetse näitega]
 
+</details>
+
 ---
 
-## ⚖️ Kuidas ühendada STAR-maatriks Hiring Scorecard'iga?
+## ⚖️ 5.3 Kuidas ühendada STAR-maatriks *Hiring Scorecard*iga?
 
 1. Esita igale kandidaadile samad põhiküsimused ja vajaduse korral võrreldavad täpsustavad küsimused.
 2. Pane vastuse ajal kirja kandidaadi enda tegevused ja konkreetsed näited.
@@ -437,7 +439,7 @@ Kasuta iga kompetentsi puhul sama struktuuri.
 
 ---
 
-## ✅ Intervjuu lõplik kontrollnimekiri
+## ✅ 5.4 Intervjuu lõplik kontrollnimekiri
 
 - [ ] Kõik neli kompetentsi on läbi arutatud.
 - [ ] Vastuste kohta on kirjas konkreetsed STAR-tõendid.
@@ -448,8 +450,6 @@ Kasuta iga kompetentsi puhul sama struktuuri.
 - [ ] Lõppotsuse põhjendus on dokumenteeritud.
 
 **Lõppeesmärk:** valida kandidaat, kes suudab analüütiliselt mõelda, selgitada andmetest saadud järeldusi, teha koostööd ning õppida oma vigadest ja tagasisidest.
-  
-</details>
 
 ---
 
