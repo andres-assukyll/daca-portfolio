@@ -6,6 +6,9 @@
 
 ---
 
+- [📋 Hiring Scorecard](#-51-hiring-scorecard--kandidaatide-hindamisvorm)
+- [⭐ STAR-intervjuu maatriks](#-52-star-intervjuu-maatriks--käitumuslike-kompetentside-hindamine)
+
 ## 🏢 1. UrbanStyle'i ettevõtte kontekst
 
 UrbanStyle on kiiresti kasvav ettevõte, kus andmeanalüüs aitab teha paremaid äriotsuseid.
@@ -84,9 +87,9 @@ Sobiv kandidaat tunnistab vigu, küsib vajaduse korral abi, võtab tagasisidest 
 
 ---
 
-## 🚦 3. Rohelised ja punased lipud
+## 🚦 3. Kandidaadi hindamiskriteeriumid
 
-### 🟢 Rohelised lipud — tugevad kandidaadi tunnused
+### 🟢 3.1. Positiivsed märgid (*Green Flags*)
 
 | Lipp | Mida personalijuht otsib? |
 |---|---|
@@ -94,7 +97,7 @@ Sobiv kandidaat tunnistab vigu, küsib vajaduse korral abi, võtab tagasisidest 
 | 🟢 **2. Koostöövalmidus** | Kandidaat arvestab tagasisidega, jagab teadmisi ja lahendab erimeelsusi konstruktiivselt. |
 | 🟢 **3. Vastutustunne ja õppimisvalmidus** | Kandidaat kontrollib andmeid, tunnistab vigu, dokumenteerib otsuseid ja küsib vajaduse korral abi. |
 
-### 🔴 Punased lipud — võimalikud hoiatusmärgid
+### 🔴 3.2. Ohumärgid (*Red Flags*)
 
 | Lipp | Miks see on oluline? |
 |---|---|
