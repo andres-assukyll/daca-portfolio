@@ -1,1 +1,138 @@
 
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hiring Scorecard | Week 9</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="./scorecard.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="./index.html">Hiring Toolkit</a>
+      <span class="header-tag">SCORECARD</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="page-intro">
+      <a class="back-link" href="./index.html">← Kõik tööriistad</a>
+      <h1>Hiring Scorecard</h1>
+      <p>
+        Hinda kõiki kompetentse samadel alustel. Lisa hindele
+        põhjendus ja tõendid kandidaadi vastustest.
+      </p>
+    </section>
+
+    <form id="scorecardForm">
+      <div class="layout">
+        <div class="main-column">
+          <section class="panel">
+            <h2>Kandidaadi andmed</h2>
+
+            <div class="field">
+              <label for="candidateName">Kandidaadi nimi või ID *</label>
+              <input id="candidateName" required
+                placeholder="Kandidaat 001">
+            </div>
+
+            <div class="field">
+              <label for="position">Ametikoht</label>
+              <input id="position" placeholder="Ametikoha nimetus">
+            </div>
+
+            <div class="field">
+              <label for="evaluator">Hindaja</label>
+              <input id="evaluator" placeholder="Hindaja nimi">
+            </div>
+
+            <div class="field">
+              <label for="interviewDate">Intervjuu kuupäev</label>
+              <input id="interviewDate" type="date">
+            </div>
+          </section>
+
+          <section class="panel">
+            <h2>Kompetentside hindamine</h2>
+            <p class="help-text">
+              1 = ei vasta ootustele; 2 = osaliselt alla ootuste;
+              3 = vastab ootustele; 4 = ületab ootusi;
+              5 = ületab ootusi märkimisväärselt.
+            </p>
+
+            <div id="competencyFields"></div>
+          </section>
+
+          <section class="panel">
+            <h2>Lõplik hinnang</h2>
+
+            <div class="field">
+              <label for="recommendation">Värbamissoovitus *</label>
+              <select id="recommendation" required>
+                <option value="">Vali soovitus</option>
+                <option value="strong_hire">Tugev soovitus palgata</option>
+                <option value="hire">Palgata</option>
+                <option value="more_evidence">Vaja lisatõendeid / lisavestlus</option>
+                <option value="no_hire">Mitte palgata</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="overallNotes">Koondkommentaar ja põhjendus</label>
+              <textarea id="overallNotes"
+                placeholder="Peamised tugevused, riskid ja põhjendatud järgmised sammud..."></textarea>
+            </div>
+          </section>
+        </div>
+
+        <aside class="side-column">
+          <section class="score-summary">
+            <p class="eyebrow">KOONDHINNE</p>
+            <div id="averageScore" class="score-number">— / 5</div>
+            <div class="progress">
+              <div id="progressBar" class="progress-bar"></div>
+            </div>
+            <p id="scoreStatus" class="muted">
+              Hinda kõiki nelja kompetentsi.
+            </p>
+            <p id="scoreCount" class="help-text">0 / 4 hinnatud</p>
+          </section>
+
+          <section class="panel">
+            <h2>Andmete haldamine</h2>
+            <p class="help-text">
+              Salvesta hindamine sellesse brauserisse või ekspordi
+              JSON-failina.
+            </p>
+            <div class="button-row">
+              <button type="button" id="saveButton">Salvesta</button>
+              <button type="button" class="secondary"
+                id="exportButton">Ekspordi JSON</button>
+              <button type="button" class="secondary"
+                id="printButton">Prindi / PDF</button>
+            </div>
+            <p id="saveStatus" class="status" role="status"
+              aria-live="polite">Valmis.</p>
+          </section>
+
+          <section class="panel">
+            <h2>Hindamisskaala</h2>
+            <p><strong>1 —</strong> Puudulik tõendus</p>
+            <p><strong>2 —</strong> Osaline tõendus</p>
+            <p><strong>3 —</strong> Piisav tõendus</p>
+            <p><strong>4 —</strong> Tugev tõendus</p>
+            <p><strong>5 —</strong> Väga tugev tõendus</p>
+          </section>
+        </aside>
+      </div>
+    </form>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">Week 9 · Hiring Scorecard</div>
+  </footer>
+</body>
+</html>
+
