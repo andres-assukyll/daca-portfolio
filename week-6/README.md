@@ -67,6 +67,9 @@ See muster võib viidata ajalooliste andmete impordi või kliendiandmete sidumis
 
 Andmestikus ei leitud kontrollitud ID-veergudes duplikaate ega puuduvaid tooteviiteid. Peamised uurimist vajavad probleemid on puuduvad kliendi-ID-d, müügisummade arvutuslikud vastuolud ja kümme toodet, mille jaehind on omahinnast madalam.
 
-Enne lõplike äriotsuste tegemist tuleb kontrollida, kas tuvastatud vastuolud tulenevad andmevigadest või ettevõtte tegelikust müügi- ja hinnastamisloogikast.
+## 💡 Äriline soovitus Annale
+Soovitan Annal keskenduda müügiandmete kvaliteedi parandamisele. Esmalt tuleks uurida 988 puuduva kliendi-ID põhjust ja kontrollida 501 müügirea summade erinevusi. Lisaks tuleks üle vaadata 10 toodet, mille jaehind on omahinnast madalam.
+
+Eesmärk: tagada usaldusväärsed müügi- ja kasumlikkuse analüüsid ning teha andmetel põhinevaid ärilisi otsuseid.
 
 
