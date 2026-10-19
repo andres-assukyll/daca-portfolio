@@ -1,4 +1,4 @@
-# Visual Design — Week 5
+# Visual Design : SQL — Week 5
 
 **Meeskond:** Sales Analytics <br>
 **Roll:** E+F – Valideerija & Kvaliteedikontroll + Ärisünteesi koondaja <br>
