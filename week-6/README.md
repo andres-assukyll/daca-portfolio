@@ -15,7 +15,7 @@ stakeholderini jõuab, peab kontrollima, et numbrid klapiksid ja lugu oleks üht
 
 ## 📋 Kvaliteedikontroll
 
-### Peamised leiud
+### 🔎 Peamised leiud
 
 | Kontroll | Tulemus | Hinnang |
 |---|---:|---|
