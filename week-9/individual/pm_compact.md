@@ -9,7 +9,7 @@
 **Ülesanne**: koostada UrbanStyle’i personalijuhi värbamisjuhend juunior andmeanalüütiku värbamiseks. 
 
 > Juhend lähtub UrbanStyle'i ettevõtte kontekstist: kiiresti kasvav ja rahvusvaheline ettevõte, kus analüütik peab töötama erinevate müügikanalite andmetega, suhtlema eri osakondadega ning tegema koostööd ka rahvusvahelises kaugtöö keskkonnas.
-> #### 🔗 **[VAATA TÄIES MAHUS VÄRBAMISJUHENDIT](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-9/README.md)**
+> #### 🔗 **[VAATA TÄIES MAHUS VÄRBAMISJUHENDIT(pm_full.md)**
 
 ---
 
