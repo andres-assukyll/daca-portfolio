@@ -15,6 +15,11 @@ stakeholderini jõuab, peab kontrollima, et numbrid klapiksid ja lugu oleks üht
 
 ## 📋 Kvaliteedikontroll
 
+### Kontrollis kasutatud Python päringud
+
+[Andmete valideerimine](src/week6_validate_data.py) <br>
+[Positiivsed müügid](src/week6_positive_sales_check.py) <br>
+[Ristvalideerimine](src/week6_cross_validation.py)
 
 ### 🔎 Peamised leiud
 
