@@ -9,11 +9,11 @@
 
 ### Esmane tabelite põhikontroll
 
-[SQL päring](src/w5.esmane_kontroll.sql)
+[SQL päring](src/week5.esmane_kontroll.sql)
 
 ### UrbanStyle’i andmete valideerimise kokkuvõte
 
-[SQL päring](src/w5.andmete_kvaliteedikontroll.sql)
+[SQL päring](src/week5.andmete_kvaliteedikontroll.sql)
 
 ### Päringute kontroll: OK / PARANDA
 
@@ -49,7 +49,7 @@
 
 ### Lisakontrollid
 
-[SQL päring](src/w5.lisakontrollid.sql)
+[SQL päring](src/week5.lisakontrollid.sql)
 
 Need päringud aitavad eristada tegelikke andmevigu tavapärastest äritehingutest.
 Lisakontrollid A ja B. Need mõjutavad kõige otsesemalt käibe usaldusväärsust. 
