@@ -1,4 +1,4 @@
-# Sales + Customers — Week 4
+# Visual Design — Week 5
 
 **Meeskond:** Sales Analytics <br>
 **Roll:** E+F – Valideerija & Kvaliteedikontroll + Ärisünteesi koondaja <br>
