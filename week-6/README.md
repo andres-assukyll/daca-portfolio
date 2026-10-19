@@ -1,4 +1,4 @@
-# Visual Design : Python — Week 6
+# Visual Design & Python — Week 6
 
 **Meeskond:** Sales Analytics <br>
 **Roll:** E+F – Valideerija & Kvaliteedikontroll + Ärisünteesi koondaja <br>
