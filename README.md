@@ -70,6 +70,11 @@ Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtre
 ### Week 5-6: Visualialization
 \- (tulemas...)
 
+👥 **Grupitöö** 🤝 <br>
+[UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week6/README.md) <br>
+🧩 **Artefakt** 🛠️ <br> 
+[Kvaliteedikontrolli dashboard](week-6/README.md)
+
 ### Week 7-8: Python
 \- (tulemas...)
 
