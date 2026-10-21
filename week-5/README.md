@@ -27,22 +27,22 @@ stakeholderini jõuab, peab kontrollima, et numbrid klapiksid ja lugu oleks üht
 | Päring | Hinnang | Põhjendus |
 |---|---|---|
 | 1. Müügiandmete üldkontroll | **PARANDA / kontrolli** | 10 118 müügirida ja 10 118 unikaalset rearea ID-d. Puuduva kliendi-ID-ga on 988 rida ning negatiivse müügisummaga 195 rida. |
-| 2. Aastakäive ja kasv | **OK** | 2023. aasta käive oli 1 234 758,90 € ja 2024. aastal 1 470 358,02 €. Käibe kasv **19,08%** vastab varasemale tulemusele. |
-| 3. Käive kanali ja asukoha järgi | **OK, kontrolli perioodi** | Tallinn 1 092 083,15 €, online 1 006 747,68 €, Tartu 521 603,11 € ja Pärnu 288 744,04 €. |
+| 2. Aastakäive ja kasv | **OK** | 2023. aasta käive oli 1 234 758 € ja 2024. aastal 1 470 358 €. Käibe kasv **19,08%** vastab varasemale tulemusele. |
+| 3. Käive kanali ja asukoha järgi | **OK, kontrolli perioodi** | Tallinn 1 092 083 €, online 1 006 747 €, Tartu 521 603 € ja Pärnu 288 744 €. |
 | 4. Kanalite osakaal | **OK** | Füüsiliste poodide osakaal on 65,39% ja online-kanali osakaal 34,61%. |
 | 5. Laoseis kategooriate kaupa | **VAJA LISAKONTROLLI** | Meeste riietel on suurim laokogus ja aksessuaaridel väikseim. Kogused üksi ei näita, kas laovaru on müügiga võrreldes sobiv. |
 | 6. Laoandmete kvaliteet | **PARANDA** | 10 negatiivse laoseisuga rida, 7 nullkogusega rida ja 226 tellimispunktist madalama kogusega rida. Toodete vasted on olemas. |
-| 7. Müügisumma kontroll | **PARANDA / uuri** | 501 rida ei vasta kontrollile `quantity × unit_price`; erinevuste summa on −117 003,03 €. Põhjuseks võivad olla allahindlused, maksud, tagastused või andmevead. |
+| 7. Müügisumma kontroll | **PARANDA / uuri** | 501 rida ei vasta kontrollile `quantity × unit_price`; erinevuste summa on −117 003 €. Põhjuseks võivad olla allahindlused, maksud, tagastused või andmevead. |
 
 ## Olulisemad leiud
 
 | Valdkond | Tulemus | Hinnang | Järeldus |
 |---|---|---|---|
-| Müügikasv | 2023: 1 234 758,90 €; 2024: 1 470 358,02 €; kasv 19,08% | **OK** | 2024. aasta müügikasv on kinnitatud. |
-| Kogukäive | 2 909 177,98 € | **OK, kontrolli perioodi** | Kogukäive on ligikaudu 2,91 miljonit eurot. |
+| Müügikasv | 2023: 1 234 758 €; 2024: 1 470 358 €; kasv 19,08% | **OK** | 2024. aasta müügikasv on kinnitatud. |
+| Kogukäive | 2 909 177 € | **OK, kontrolli perioodi** | Kogukäive on ligikaudu 2,91 miljonit eurot. |
 | Negatiivsed müügiread | 195 rida | **VAJA LISAKONTROLLI** | Selgita, kas tegemist on tagastuste, kreeditarvete või andmevigadega. |
 | Puuduvad kliendi-ID-d | 988 rida | **VAJA LISAKONTROLLI** | Kontrolli, kas anonüümsed või tuvastamata kliendid on äriprotsessi järgi lubatud. |
-| Müügisummade erinevused | 501 rida; erinevuste summa −117 003,03 € | **VAJA LISAKONTROLLI** | Kontrolli allahindluste, maksude ja tagastuste arvestust enne summade korrigeerimist. |
+| Müügisummade erinevused | 501 rida; erinevuste summa −117 003 € | **VAJA LISAKONTROLLI** | Kontrolli allahindluste, maksude ja tagastuste arvestust enne summade korrigeerimist. |
 | Laoseis | 10 negatiivse laoseisuga rida | **PARANDA / uuri** | Kontrolli laoliikumisi ja võimalikke arvestusvigu. |
 | Tellimispunktist madalam laoseis | 226 rida | **VAJA TEGEVUST** | Hinda täiendamise vajadust asukoha, müügikiiruse ja tarnetingimuste järgi. |
 | Toodete seosed laoga | 0 vasteta tooterida | **OK** | Kõik kontrollitud laokirjed seostuvad olemasoleva tootega. |
@@ -75,7 +75,7 @@ Seejärel kontrolliti negatiivseid laoseise päringuga C. Hetkel on aastase kasv
 | Näitaja | Tulemus | Järeldus |
 |---|---:|---|
 | Müügiridade arv | 10 118 | Kõikidel ridadel on unikaalne `id`. |
-| Kogukäive | 2 909 177,98 € | Ümardatult 2,91 mln €. |
+| Kogukäive | 2 909 177 € | Ümardatult 2,91 mln €. |
 | Ostnud kliendid | 2 551 | Kooskõlas varasema koondtulemusega; tühjad kliendi-ID-d ei kuulu arvestusse. |
 | Käibe kasv 2024 vs 2023 | 19,08% | Kinnitatud. |
 | Puuduv `customer_id` | 988 rida | Kliendipõhine analüüs võib olla puudulik. |
@@ -92,10 +92,10 @@ Seejärel kontrolliti negatiivseid laoseise päringuga C. Hetkel on aastase kasv
 
 | Kanal või asukoht | Käive | Osakaal kogukäibest |
 |---|---:|---:|
-| Tallinna pood | 1 092 083,15 € | 37,5% |
-| Online | 1 006 747,68 € | 34,6% |
-| Tartu pood | 521 603,11 € | 17,9% |
-| Pärnu pood | 288 744,04 € | 9,9% |
+| Tallinna pood | 1 092 08 € | 37,5% |
+| Online | 1 006 747 € | 34,6% |
+| Tartu pood | 521 603 € | 17,9% |
+| Pärnu pood | 288 744 € | 9,9% |
 > *Osakaalud on arvutatud ligikaudsest kogukäibest 2,91 mln eurot; ümardamise tõttu ei pruugi need kokku anda täpselt 100%*.
 
 Tallinna pood on suurima käibega müügikoht ja online-kanal on sellele lähedal. Füüsiliste poodide koondkäive on 1 902 430,30 € ehk 65,39% ning online-kanali osakaal 34,61%.
