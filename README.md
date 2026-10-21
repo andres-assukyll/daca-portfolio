@@ -112,3 +112,4 @@ Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtre
 
 
 
+
