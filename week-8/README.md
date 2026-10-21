@@ -46,3 +46,6 @@ Lisada käivitamise lõpus üldise staatuse määramine (`SUCCESS`, `WARNING` v�
 
 🔗 [Vaata e-kirja teavituse koodi](individual/transform.py)
 
+#### 🤖 Kasutamine ✨
+> Python...
+
