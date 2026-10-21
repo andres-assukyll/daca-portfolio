@@ -21,17 +21,9 @@ stakeholderini jõuab, peab kontrollima, et numbrid klapiksid ja lugu oleks üht
 [Positiivsed müügid](src/week6_positive_sales_check.py) <br>
 [Ristvalideerimine](src/week6_cross_validation.py)
 
-### 🔎 Peamised leiud
+### Peamised leiud
 
-| Kontroll | Tulemus | Hinnang |
-|---|---:|---|
-| Kõik müügiread | 10 118 | Kontrolli alus |
-| Kontrollitud ID-de duplikaadid | 0 | Hea |
-| Puuduv kliendi-ID | 988 (9,8%) | Vajab uurimist |
-| Negatiivse summaga read | 195 | Võimalikud tagastused või kreeditarved |
-| Positiivse summaga vastuolulised read | 306 | Vajab täiendavat kontrolli |
-| Puuduvate kliendi-ID-dega müügitulu | 286 446,20 € | Piirab kliendianalüüsi |
-| Tooted, mille jaehind on omahinnast madalam | 10 | Vajab hinnastamise kontrolli |
+![Dashboard](./img/quality_ctrl_dashboard.png)
 
 #### Müügisummade vastuolud
 
