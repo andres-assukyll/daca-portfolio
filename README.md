@@ -1,17 +1,17 @@
-# DACA Portfoolio
+<div align="center">
+ 
+# Andres Assuküll | DACA Portfoolio
 
 **Programm:** Data Analyst Career Accelerator (DACA)
 
-**Osaleja:**  Andres Assuküll
-
 **Algus:**  06.08.2026
 
-## Kirjeldus
+</div>
 
-See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
+### Kirjeldus
 
-## Eesmärk
-Õppida andmeanalüüsi – SQL, Python, visualiseerimine – ja ehitada professionaalne portfoolio.
+See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot. <br>
+**Eesmärk**: Õppida andmeanalüüsi – SQL, Python, visualiseerimine – ja ehitada professionaalne portfoolio.
 
 ## Projektid
  
