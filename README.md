@@ -93,13 +93,19 @@ Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtre
 
 ---
 
-<p align="center">
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-293B63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andres-assukyll)
-[![Email](https://img.shields.io/badge/Email-7665C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andres.assukyll@gmail.com)
 
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/andres-assukyll">
+    <img src="https://img.shields.io/badge/GitHub-293B63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:andres.assukyll@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7665C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
+
 
 
 
