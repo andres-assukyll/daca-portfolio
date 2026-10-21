@@ -87,9 +87,9 @@ RFM-analüüsi koostamine ja visualiseerimine.
 ETL-pipeline loomine.
 
 👥 **Grupitöö** 🤝 <br>
-[UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week7/README.md) <br>
+[UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week8/README.md) <br>
 🧩 **Artefakt** 🛠️ <br> 
-[Jupyteri märkmik](week-8/team/week7_rfm_complete.ipynb)
+[Pipeline demo](week-8/team/week8_pipeline_demo.md)
 
 ### Week 9-10: Portfolio + Career
 \- (tulemas...)
