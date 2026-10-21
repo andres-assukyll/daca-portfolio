@@ -90,12 +90,17 @@ Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtre
 \- **Visualiseerimine:** Power BI / Streamlit ✅
 
 \- **Tööriistad:** Git, GitHub, VS Code ✅
- 
-## Kontakt
- 
-\- **GitHub:** [github.com/andres-assukyll](https://github.com/andres-assukyll)
 
-\- **E-post:** andres.assukyll@gmail.com
+---
+
+<p align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-293B63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andres-assukyll)
+[![Email](https://img.shields.io/badge/Email-7665C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andres.assukyll@gmail.com)
+
+</p>
+
 
 
 
