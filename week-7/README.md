@@ -30,3 +30,6 @@ Müügi- ja kliendiandmete töötlemiseks koostati **Pythonis** andmetöötluse 
 RFM-mudeli abil segmenteeriti kliendid nende ostukäitumise põhjal ning visualiseeriti analüüsi tulemused, et tuua esile kliendisegmentide erinevused ja toetada andmepõhiste turundusotsuste tegemist.
 
 📊 [Vaata täpsemalt RFM-analüüsi ja visualiseeringuid](./individual/rfm_analysis.md)
+
+#### 🤖 Kasutamine ✨
+> Jupyter...
