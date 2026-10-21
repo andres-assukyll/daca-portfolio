@@ -69,5 +69,5 @@ Keskenduda müügiandmete kvaliteedi parandamisele. Esmalt tuleks uurida 988 puu
 
 **Eesmärk**: tagada usaldusväärsed müügi- ja kasumlikkuse analüüsid ning teha andmetel põhinevaid ärilisi otsuseid.
 
-### 🤖 Kasutamine ✨
-DAX ...
+#### 🤖 Kasutamine ✨
+> DAX ...
