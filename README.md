@@ -73,9 +73,17 @@ Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtre
 👥 **Grupitöö** 🤝 <br>
 [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week6/README.md) <br>
 🧩 **Artefakt** 🛠️ <br> 
+[Jupyteri märkmik](week-6/README.md)
+
+### Week 7 : Python ja RFM-kliendianalüüs
+
+
+👥 **Grupitöö** 🤝 <br>
+[UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week7/README.md) <br>
+🧩 **Artefakt** 🛠️ <br> 
 [Kvaliteedikontrolli dashboard](week-6/README.md)
 
-### Week 7-8: Python
+### Week 8: Python
 \- (tulemas...)
 
 ### Week 9-10: Portfolio + Career
