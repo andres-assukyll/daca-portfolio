@@ -113,3 +113,5 @@ Laokategooriate koondpildi järgi on suurim laokogus meeste rõivastel ja väiks
 
 UrbanStyle’i müügiandmete esialgne valideerimine kinnitab, et 2024. aasta müügitulu kasvas võrreldes 2023. aastaga 19,08%, ulatudes 1,47 miljoni euroni. Suurima käibega müügikanal on Tallinna pood 1,09 miljoni euroga, millele järgneb e-poodligikaudu 1,01 miljoni euroga; füüsiliste poodide koondosakaal on 65,39%. Andmekvaliteedi kontroll tõi esile 195 negatiivse müügisummaga rida, 501 rida, kus müügisumma erineb koguse ja ühikuhinna korrutisest, ning 10 negatiivse laoseisuga rida, mis vajavad täiendavat uurimist. Enne lõplike juhtimisotsuste tegemist tuleb selgitada nende erinevuste põhjused ning hinnata laoseisu tellimispunktide ja toodete müügikiiruse põhjal.
 
+🤖 Kasutamine ✨
+...
