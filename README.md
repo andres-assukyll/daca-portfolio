@@ -76,15 +76,20 @@ Andmete grupeerimine äriloogika järgi (GROUP BY). Grupeeritud tulemuste filtre
 [Kvaliteedikontrolli dashboard](week-6/README.md)
 
 ### Week 7 : Python ja RFM-kliendianalüüs
-
+RFM-analüüsi koostamine ja visualiseerimine.
 
 👥 **Grupitöö** 🤝 <br>
 [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week7/README.md) <br>
 🧩 **Artefakt** 🛠️ <br> 
 [Jupyteri märkmik](week-7/team/week7_rfm_complete.ipynb)
 
-### Week 8: Python
-\- (tulemas...)
+### Week 8: Python ja API
+ETL-pipeline loomine.
+
+👥 **Grupitöö** 🤝 <br>
+[UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week7/README.md) <br>
+🧩 **Artefakt** 🛠️ <br> 
+[Jupyteri märkmik](week-8/team/week7_rfm_complete.ipynb)
 
 ### Week 9-10: Portfolio + Career
 \- (tulemas...)
