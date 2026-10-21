@@ -8,10 +8,15 @@
 
 </div>
 
-### Kirjeldus
+### Kirjeldus (+ about me?)
 
 See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot. <br>
 **Eesmärk**: Õppida andmeanalüüsi – SQL, Python, visualiseerimine – ja ehitada professionaalne portfoolio.
+
+Minu DACA portfoolio keskendub kolmele valdkonnale:
+- **Data Analysis & Automatization**
+- **Data Visualization**
+- **Business Insights & Storytelling**
 
 ## 🛠️  Tööriistad
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
