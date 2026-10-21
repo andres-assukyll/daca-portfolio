@@ -17,7 +17,7 @@ Lisaks värbamisjuhendile loodi ka **interaktiivsed tööriistad** (Hiring SCore
 🔗 [Ava interaktiivsed värbamistööriistad](https://andres-assukyll.github.io/daca-portfolio/week-9/index.html) 
 
 
-## 🤖 Kasutamine ✨
+#### 🤖 Kasutamine ✨
 
 - 🧠 Pehmete oskuste hindamiskriteeriumide ideed.
 - 📋 Struktureeritud hindamisvormi loomine.
