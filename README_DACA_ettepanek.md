@@ -110,5 +110,8 @@ Kogu õppeteekond ja ülesannete detailid on alles eraldi [nädalakaustades](htt
 <!-- Lisa siia oma LinkedIni päris profiiliaadress, kui soovid seda avalikult jagada. -->
 
 ---
-
+<div align="center">
+  
 <sub>Data Analyst Career Accelerator (DACA) · Portfoolio algus: 06.08.2026 · Õppeprojektid ja meeskonnatööd</sub>
+
+</div>
